@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2670
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4453
+  },
+  "m_Name": "",
+  "ik": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ragdollToAnimationTime": 0.2,
+  "applyIkOnRagdoll": 0,
+  "applyVelocity": 1.0,
+  "applyAngularVelocity": 1.0
+}

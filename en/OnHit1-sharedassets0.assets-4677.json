@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5550
+  },
+  "m_Name": "OnHit1",
+  "Name": "OnHit1",
+  "audioType": 1,
+  "audioBelong": 0,
+  "clip": {
+    "m_FileID": 0,
+    "m_PathID": 1149
+  },
+  "volum": 1.0,
+  "order": 120,
+  "PitchMin": 0.8,
+  "PitchMax": 1.2,
+  "MaxNum": 1,
+  "Weight": 20,
+  "Change": 30,
+  "MaxDistance": 100,
+  "CutOutTime": 0.0,
+  "CoolDownTime": 0.0
+}

@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_809_Rank3_Barrett_Voidpiercer Ammo",
+  "OnlyId": 0,
+  "ModId": 8093,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Voidpiercer Ammo",
+  "ModDec": "+{0}% Critical Damage on headshots",
+  "ModIndex": 8,
+  "modAddType": 18,
+  "modAddValue1": 40.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "Ammo",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      85
+    ]
+  }
+}

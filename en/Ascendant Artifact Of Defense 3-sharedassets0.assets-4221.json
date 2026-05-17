@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2575
+  },
+  "m_Name": "Ascendant Artifact Of Defense 3",
+  "isEquip": 0,
+  "ArtifactOnlyID": "",
+  "Id": 3,
+  "IdInAllArtifact": 63,
+  "Rank": 2,
+  "Colour_Type": 1,
+  "Pos": 0,
+  "careerType": 0,
+  "Name": "",
+  "isMarking": 0,
+  "ArtifactName": "ASCENDANT ARTIFACT OF DEFENSE",
+  "ArtifactDes": "",
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 1741
+  },
+  "spriteIndexInSpriteList": 6,
+  "words": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4398
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4401
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4436
+      }
+    ]
+  },
+  "RankInSorting": 0.0,
+  "valueCount": 300.0,
+  "rankNum": 0
+}

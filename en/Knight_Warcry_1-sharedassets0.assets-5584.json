@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Knight_Warcry_1",
+  "SkillId": 1115,
+  "SkillName": "Warcry",
+  "SkillIconType": 0,
+  "BaseSkillType": 2,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 1,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Stuns and weakens nearby enemies",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1653
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1115,
+        "GuidInSkill": 0,
+        "Rank": 1,
+        "SkillDescribe": "Stuns and weakens nearby enemies",
+        "SkillDamage": 0,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 15.0,
+        "CurTrigerCd": 30.973732,
+        "BuffId": 21,
+        "BuffName": "StunLevel_1",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "",
+        "EffectPoint": 0,
+        "TrigerEvent": 0,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 0.45,
+        "describe1": "The number of Skill Range",
+        "Value2": 0.0,
+        "describe2": "",
+        "Value3": 0.0,
+        "describe3": "",
+        "Value4": 0.0,
+        "describe4": "",
+        "Value5": 0.0,
+        "describe5": "",
+        "Value6": 0.0,
+        "describe6": "",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

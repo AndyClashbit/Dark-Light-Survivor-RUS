@@ -1,0 +1,907 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5899
+  },
+  "m_Name": "Master_Map1_Config",
+  "MapName": "MAP_Swamp",
+  "createEnemyItemDatas": {
+    "Array": [
+      {
+        "MinTimer": 0.0,
+        "MaxTimer": 120.0,
+        "createEnemyItemDataInfos": {
+          "Array": [
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 1.0,
+              "MaxSpawnTimer": 3.0,
+              "MaxConcurrent": 100,
+              "EnemyDataName": "Enemy_zombie",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 29,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 4.0,
+              "MaxConcurrent": 10,
+              "EnemyDataName": "Enemy_Crawler_SpecialAni",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            }
+          ]
+        }
+      },
+      {
+        "MinTimer": 120.0,
+        "MaxTimer": 300.0,
+        "createEnemyItemDataInfos": {
+          "Array": [
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 0.1,
+              "MaxSpawnTimer": 0.5,
+              "MaxConcurrent": 200,
+              "EnemyDataName": "Enemy_zombie",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 29,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 4.0,
+              "MaxConcurrent": 10,
+              "EnemyDataName": "Enemy_Crawler_SpecialAni",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 60.0,
+              "MaxSpawnTimer": 90.0,
+              "MaxConcurrent": 1,
+              "EnemyDataName": "Enemy_zombie_Elite_Fire",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 13,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 4.0,
+              "MaxConcurrent": 20,
+              "EnemyDataName": "Enemy_Soldier",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            }
+          ]
+        }
+      },
+      {
+        "MinTimer": 300.0,
+        "MaxTimer": 490.0,
+        "createEnemyItemDataInfos": {
+          "Array": [
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 1.0,
+              "MaxSpawnTimer": 2.0,
+              "MaxConcurrent": 100,
+              "EnemyDataName": "Enemy_zombie",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 29,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 4.0,
+              "MaxConcurrent": 15,
+              "EnemyDataName": "Enemy_Crawler_SpecialAni",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 9,
+              "MinSpawnTimer": 5.0,
+              "MaxSpawnTimer": 7.0,
+              "MaxConcurrent": 20,
+              "EnemyDataName": "Enemy_Exploder",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 14,
+              "MinSpawnTimer": 3.0,
+              "MaxSpawnTimer": 5.0,
+              "MaxConcurrent": 4,
+              "EnemyDataName": "Enemy_Shooter",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 11,
+              "MinSpawnTimer": 15.0,
+              "MaxSpawnTimer": 60.0,
+              "MaxConcurrent": 3,
+              "EnemyDataName": "Enemy_Rusher",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 13,
+              "MinSpawnTimer": 1.0,
+              "MaxSpawnTimer": 3.0,
+              "MaxConcurrent": 30,
+              "EnemyDataName": "Enemy_Soldier",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_zombie_Elite_Fire",
+              "EnemyLevel": 0
+            }
+          ]
+        }
+      },
+      {
+        "MinTimer": 490.0,
+        "MaxTimer": 750.0,
+        "createEnemyItemDataInfos": {
+          "Array": [
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 0.3,
+              "MaxSpawnTimer": 0.5,
+              "MaxConcurrent": 150,
+              "EnemyDataName": "Enemy_zombie",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 29,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 4.0,
+              "MaxConcurrent": 10,
+              "EnemyDataName": "Enemy_Crawler_SpecialAni",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 60.0,
+              "MaxSpawnTimer": 80.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_zombie_Elite_Fire",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 9,
+              "MinSpawnTimer": 5.0,
+              "MaxSpawnTimer": 7.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Exploder",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 10,
+              "MinSpawnTimer": 10.0,
+              "MaxSpawnTimer": 20.0,
+              "MaxConcurrent": 5,
+              "EnemyDataName": "Enemy_Demon",
+              "EnemyLevel": 4
+            },
+            {
+              "enemyIDType": 4,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 70,
+              "EnemyDataName": "Enemy_BossSummon",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 13,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 4.0,
+              "MaxConcurrent": 45,
+              "EnemyDataName": "Enemy_Soldier",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 14,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Shooter",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 11,
+              "MinSpawnTimer": 30.0,
+              "MaxSpawnTimer": 60.0,
+              "MaxConcurrent": 1,
+              "EnemyDataName": "Enemy_Rusher",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 14,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Shooter",
+              "EnemyLevel": 0
+            }
+          ]
+        }
+      },
+      {
+        "MinTimer": 750.0,
+        "MaxTimer": 850.0,
+        "createEnemyItemDataInfos": {
+          "Array": [
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 1.0,
+              "MaxSpawnTimer": 1.0,
+              "MaxConcurrent": 50,
+              "EnemyDataName": "Enemy_zombie",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 29,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 4.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Crawler_SpecialAni",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 10,
+              "MinSpawnTimer": 1.0,
+              "MaxSpawnTimer": 2.0,
+              "MaxConcurrent": 15,
+              "EnemyDataName": "Enemy_Demon",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 7,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 4,
+              "EnemyDataName": "Enemy_Cyborg",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 13,
+              "MinSpawnTimer": 4.0,
+              "MaxSpawnTimer": 8.0,
+              "MaxConcurrent": 10,
+              "EnemyDataName": "Enemy_Soldier",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 11,
+              "MinSpawnTimer": 30.0,
+              "MaxSpawnTimer": 60.0,
+              "MaxConcurrent": 1,
+              "EnemyDataName": "Enemy_Rusher",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 9,
+              "MinSpawnTimer": 1.0,
+              "MaxSpawnTimer": 15.0,
+              "MaxConcurrent": 1,
+              "EnemyDataName": "Enemy_Exploder",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 14,
+              "MinSpawnTimer": 3.0,
+              "MaxSpawnTimer": 4.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Shooter",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            }
+          ]
+        }
+      },
+      {
+        "MinTimer": 850.0,
+        "MaxTimer": 1100.0,
+        "createEnemyItemDataInfos": {
+          "Array": [
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 1.0,
+              "MaxSpawnTimer": 1.0,
+              "MaxConcurrent": 150,
+              "EnemyDataName": "Enemy_zombie",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 29,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 4.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Crawler_SpecialAni",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 10,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 8.0,
+              "MaxConcurrent": 20,
+              "EnemyDataName": "Enemy_Demon",
+              "EnemyLevel": 2
+            },
+            {
+              "enemyIDType": 5,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 20,
+              "EnemyDataName": "Enemy_Shield",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 13,
+              "MinSpawnTimer": 4.0,
+              "MaxSpawnTimer": 8.0,
+              "MaxConcurrent": 40,
+              "EnemyDataName": "Enemy_Soldier",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 11,
+              "MinSpawnTimer": 30.0,
+              "MaxSpawnTimer": 50.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Rusher",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 9,
+              "MinSpawnTimer": 1.0,
+              "MaxSpawnTimer": 3.0,
+              "MaxConcurrent": 10,
+              "EnemyDataName": "Enemy_Exploder",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            }
+          ]
+        }
+      },
+      {
+        "MinTimer": 1100.0,
+        "MaxTimer": 1200.0,
+        "createEnemyItemDataInfos": {
+          "Array": [
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 0.2,
+              "MaxSpawnTimer": 1.0,
+              "MaxConcurrent": 60,
+              "EnemyDataName": "Enemy_zombie",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 10,
+              "MinSpawnTimer": 1.0,
+              "MaxSpawnTimer": 2.0,
+              "MaxConcurrent": 60,
+              "EnemyDataName": "Enemy_Demon",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 13,
+              "MinSpawnTimer": 0.5,
+              "MaxSpawnTimer": 1.0,
+              "MaxConcurrent": 60,
+              "EnemyDataName": "Enemy_Soldier",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 11,
+              "MinSpawnTimer": 30.0,
+              "MaxSpawnTimer": 50.0,
+              "MaxConcurrent": 1,
+              "EnemyDataName": "Enemy_Rusher",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 9,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Exploder",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 12,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 1,
+              "EnemyDataName": "Enemy_Demon_Boss",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            }
+          ]
+        }
+      },
+      {
+        "MinTimer": 1200.0,
+        "MaxTimer": 5000.0,
+        "createEnemyItemDataInfos": {
+          "Array": [
+            {
+              "enemyIDType": 1,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 2.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_zombie",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 29,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 2.0,
+              "MaxConcurrent": 5,
+              "EnemyDataName": "Enemy_Crawler_SpecialAni",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 9,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 2.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Exploder",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 10,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 4.0,
+              "MaxConcurrent": 6,
+              "EnemyDataName": "Enemy_Demon",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 11,
+              "MinSpawnTimer": 5.0,
+              "MaxSpawnTimer": 8.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Rusher",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 1
+            },
+            {
+              "enemyIDType": 13,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 2.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Soldier",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 14,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 2.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Shooter",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 14,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 2.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Shooter",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 15,
+              "MinSpawnTimer": 2.0,
+              "MaxSpawnTimer": 2.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "Enemy_Beetle",
+              "EnemyLevel": 0
+            }
+          ]
+        }
+      },
+      {
+        "MinTimer": 0.0,
+        "MaxTimer": 0.0,
+        "createEnemyItemDataInfos": {
+          "Array": [
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            }
+          ]
+        }
+      },
+      {
+        "MinTimer": 0.0,
+        "MaxTimer": 0.0,
+        "createEnemyItemDataInfos": {
+          "Array": [
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            },
+            {
+              "enemyIDType": 0,
+              "MinSpawnTimer": 0.0,
+              "MaxSpawnTimer": 0.0,
+              "MaxConcurrent": 0,
+              "EnemyDataName": "None",
+              "EnemyLevel": 0
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "CannotCreateEnemyTime": {
+    "Array": [
+      490,
+      750,
+      850,
+      1100,
+      1200
+    ]
+  },
+  "AllTimeNoCreate": 120
+}

@@ -1,0 +1,419 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5094
+  },
+  "m_Name": "M4",
+  "Id": 7,
+  "Name": "M4",
+  "Name_OnlyShowAsUI": "MX04 Carbine",
+  "Dec": "M4",
+  "GearId": 0,
+  "ShieldAnimId": 0,
+  "shieldEquipSlot": 0,
+  "UseAnimIdx": 0,
+  "GameMainIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2009
+  },
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 2082
+  },
+  "BackpackIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2082
+  },
+  "BackpackWidth": 3,
+  "BackpackHeight": 2,
+  "weaponTypeMeleeOrRange": 1,
+  "weaponKindType": 1,
+  "magicElementType": 0,
+  "MuzzlePosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "GunSightPosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "ClipPosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "WeaponRotation": {
+    "x": 0.0,
+    "y": -90.0,
+    "z": 0.0
+  },
+  "WeaponPosition": {
+    "x": -0.15,
+    "y": 0.31,
+    "z": 0.0
+  },
+  "WeaponScale": {
+    "x": 1.5,
+    "y": 1.5,
+    "z": 1.5
+  },
+  "RemoteModSoltListIndex": {
+    "Array": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9
+    ]
+  },
+  "WeaponCanUseName": {
+    "Array": []
+  },
+  "WeaponCanUseDes": {
+    "Array": [
+      "Unleashes lead like lightning, steady as thunder in the hands of the brave.",
+      "Its shots echo like a pack of wolves chasing ghosts through steel corridors.",
+      "Built for one purpose—shatter what stands in front of you, body or spirit.",
+      "The faster it fires, the harder it pulls its wielder into the chaos.",
+      "Delivers death with precision, no matter how far or fast the target.",
+      "Its muzzle flash is a funeral torch in a forgotten war.",
+      "Fused from broken rifles and old grudges. It never breaks formation.",
+      "Looks like an angel, screams like a demon.",
+      "Each burst cuts the air like a burning fuse counting down.",
+      "Built around the remains of a failed prototype. Now it hunts the living.",
+      "Its fire speaks the names of those already buried.",
+      "Trained assassins worship its silence more than its accuracy.",
+      "Wields like thunder wrapped in fog.",
+      "A song composed in casing, powder, and pain.",
+      "It fires mercy at 900 rounds per minute.",
+      "Lightweight. Lethal. And never forgives being dropped.",
+      "Fires best at dusk, when shadows start to bleed.",
+      "Where it fires, the crows never leave.",
+      "Named after the last stand of a vanished unit. Still waiting to fall.",
+      "Leaves behind waves of lead and silence."
+    ]
+  },
+  "BackPackWeaponPosition": {
+    "x": -0.293,
+    "y": 0.031,
+    "z": -0.021
+  },
+  "BackPackWeaponRotation": {
+    "x": 16.64,
+    "y": -96.951,
+    "z": -1.667
+  },
+  "BackPackWeaponScale": {
+    "x": 0.8,
+    "y": 0.8,
+    "z": 0.8
+  },
+  "BackPackWeaponPosition2": {
+    "x": -0.3545,
+    "y": 0.0708,
+    "z": -0.0461
+  },
+  "BackPackWeaponRotation2": {
+    "x": 11.22,
+    "y": -102.983,
+    "z": 0.136
+  },
+  "BackPackWeaponScale2": {
+    "x": 0.9,
+    "y": 0.9,
+    "z": 0.9
+  },
+  "PlayerWeaponPosition": {
+    "x": -0.26,
+    "y": 0.053,
+    "z": 0.059
+  },
+  "PlayerWeaponRotation": {
+    "x": 13.0,
+    "y": -78.632,
+    "z": 0.0
+  },
+  "PlayerWeaponScale": {
+    "x": 0.9,
+    "y": 0.9,
+    "z": 0.8
+  },
+  "Player2WeaponPosition": {
+    "x": -0.3165,
+    "y": 0.0724,
+    "z": 0.0514
+  },
+  "Player2WeaponRotation": {
+    "x": 13.0,
+    "y": -78.632,
+    "z": 0.0
+  },
+  "Player2WeaponScale": {
+    "x": 0.9,
+    "y": 0.9,
+    "z": 0.8
+  },
+  "Player3WeaponPosition_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponRotation_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponScale_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponPosition_NoFight": {
+    "x": -0.323,
+    "y": -0.026,
+    "z": -0.085
+  },
+  "PlayerWeaponRotation_NoFight": {
+    "x": 36.322,
+    "y": -109.255,
+    "z": 11.343
+  },
+  "Player2WeaponPosition_NoFight": {
+    "x": -0.359986,
+    "y": 0.05524026,
+    "z": -0.06693376
+  },
+  "Player2WeaponRotation_NoFight": {
+    "x": 21.3,
+    "y": -104.713,
+    "z": 14.794
+  },
+  "Player3WeaponPosition_NoFight_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponRotation_NoFight_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponPosition": {
+    "x": 1.9,
+    "y": 7.4,
+    "z": -10.0
+  },
+  "BagWeaponRotation": {
+    "x": 0.0,
+    "y": 90.0,
+    "z": 0.0
+  },
+  "BagWeaponPositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponPosition_R": {
+    "x": -14.0,
+    "y": 0.0,
+    "z": -10.0
+  },
+  "BagWeaponRotation_R": {
+    "x": -90.0,
+    "y": 90.0,
+    "z": 0.0
+  },
+  "BagWeaponPositionOffset_R": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponScale": {
+    "x": 110.0,
+    "y": 110.0,
+    "z": 110.0
+  },
+  "BagWeaponScaleOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "FireGreatSowrdWeaponScaleBag": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "EquipWeaponPosition": {
+    "x": -10.0,
+    "y": 23.1,
+    "z": -20.0
+  },
+  "EquipWeaponRotation": {
+    "x": -90.0,
+    "y": 0.0,
+    "z": 90.0
+  },
+  "EquipWeaponScale": {
+    "x": 165.0,
+    "y": 165.0,
+    "z": 165.0
+  },
+  "FireGreatSowrdWeaponScaleEquip": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnusePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnuseRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnuseScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnusePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnuseRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnuseScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "IsSuperWeapon": 0,
+  "NeedDisableMod": 0,
+  "currentRecoilProfile": {
+    "maxPositionOffset": {
+      "x": 0.0,
+      "y": 0.03,
+      "z": -0.1
+    },
+    "maxRotationOffset": {
+      "x": 0.0,
+      "y": -5.0,
+      "z": 0.0
+    },
+    "decaySpeed": 8.0
+  },
+  "PlayerSkillWeaponPosition2": {
+    "x": -0.213,
+    "y": 0.152,
+    "z": 0.03
+  },
+  "PlayerSkillWeaponRotation2": {
+    "x": -21.0,
+    "y": -78.632,
+    "z": 0.0
+  },
+  "PlayerWeaponPosition_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponRotation_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponPosition_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponRotation_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "weaponAcquireSource": {
+    "WeaponIDType": 7,
+    "EnemyList": {
+      "Array": [
+        11,
+        5,
+        7,
+        4,
+        1,
+        23,
+        6,
+        21,
+        28,
+        8
+      ]
+    },
+    "CanGetFromCommonBox": 1,
+    "CanGetFromSpecialBox": 1,
+    "CanGetFromRiftMerchant": 1,
+    "CanUsePlayerList": {
+      "Array": [
+        1,
+        0,
+        2
+      ]
+    },
+    "NewPriceDataList": {
+      "Array": []
+    },
+    "Weight": 100,
+    "PurchaseLimitCount": 0,
+    "QualityLimit": {
+      "Array": []
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2066
+  },
+  "m_Name": "RecordListSO",
+  "Target": {
+    "Array": [
+      {
+        "unlockType": 21,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1012,
+              "conditionCount": 200
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 22,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1007,
+              "conditionCount": 2500
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 23,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1016,
+              "conditionCount": 5000
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 24,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1024,
+              "conditionCount": 3000
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 25,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1004,
+              "conditionCount": 100
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 26,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1013,
+              "conditionCount": 2000
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 29,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1028,
+              "conditionCount": 100
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 4,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1008,
+              "conditionCount": 13000
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 20,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1008,
+              "conditionCount": 5000
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 19,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1008,
+              "conditionCount": 2000
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 30,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1029,
+              "conditionCount": 1
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 10,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1027,
+              "conditionCount": 500
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 3,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1000,
+              "conditionCount": 13000
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 1,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1031,
+              "conditionCount": 5000
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 9,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 2011,
+              "conditionCount": 20
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 2,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1037,
+              "conditionCount": 5
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 8,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1035,
+              "conditionCount": 250
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 5,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1033,
+              "conditionCount": 1
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 33,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 2012,
+              "conditionCount": 600
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 32,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1032,
+              "conditionCount": 666
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 31,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1030,
+              "conditionCount": 1
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 15,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1022,
+              "conditionCount": 1
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 13,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1002,
+              "conditionCount": 10
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 34,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1002,
+              "conditionCount": 8
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 16,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1021,
+              "conditionCount": 1
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 14,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 2004,
+              "conditionCount": 450
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 17,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1038,
+              "conditionCount": 1
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 35,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 3013,
+              "conditionCount": 1
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 36,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 3014,
+              "conditionCount": 1
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 37,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 3015,
+              "conditionCount": 1
+            }
+          ]
+        }
+      },
+      {
+        "unlockType": 38,
+        "conditionTypes": {
+          "Array": [
+            {
+              "type": 1044,
+              "conditionCount": 1000
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

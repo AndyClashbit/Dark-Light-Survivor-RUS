@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3622
+  },
+  "m_Name": "AstarGizmos",
+  "version": 0,
+  "settings": {
+    "lineOpacity": 1.0,
+    "solidOpacity": 0.55,
+    "textOpacity": 1.0,
+    "lineOpacityBehindObjects": 0.12,
+    "solidOpacityBehindObjects": 0.45,
+    "textOpacityBehindObjects": 0.9,
+    "curveResolution": 1.0
+  }
+}

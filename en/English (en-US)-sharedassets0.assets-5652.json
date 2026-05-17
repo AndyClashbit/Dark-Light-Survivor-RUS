@@ -1,0 +1,5013 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4321
+  },
+  "m_Name": "English (en-US)",
+  "localizationSettings": {
+    "m_FileID": 0,
+    "m_PathID": 5653
+  },
+  "languageID": "en-US",
+  "languageName": "English",
+  "localizedName": "English (US)",
+  "tableList": {
+    "Array": [
+      {
+        "table": {
+          "m_FileID": 0,
+          "m_PathID": 5654
+        },
+        "tableContent": {
+          "Array": [
+            {
+              "key": "AchievementsTitle",
+              "value": "Achievements",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementLegendary",
+              "value": "Legendary",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementRare",
+              "value": "Rare",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementCommon",
+              "value": "Common",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonAll",
+              "value": "All",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Part1",
+              "value": "Press",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Key",
+              "value": "Any Key",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Part2",
+              "value": "To Start",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonGoBack",
+              "value": "// Go Back",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "StoryModeTitle",
+              "value": "Play",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MultiplayerTitle",
+              "value": "Multiplayer",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitTitle",
+              "value": "Exit",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExtrasTitle",
+              "value": "Extras",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsTitle",
+              "value": "Options",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GeneralTitle",
+              "value": "General",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ControlsTitle",
+              "value": "Controller Map",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AudioTitle",
+              "value": "Audio",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VisualsTitle",
+              "value": "Visuals",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MultiplayerSearchingLabel",
+              "value": "Searching for games...",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LanguageTitle",
+              "value": "Language",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsTitle",
+              "value": "News",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonMoreDetails",
+              "value": "More Details",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemTitle1",
+              "value": "Welcome to Reach UI",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemDescription1",
+              "value": "This is a panel which you can show the latest updates, changelog and more.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemTitle2",
+              "value": "Fully customizable",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemDescription2",
+              "value": "You can add new items, change the size or change the appearance of the panel by tweaking the news item preset.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemTitle3",
+              "value": "Easily add new content",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemDescription3",
+              "value": "You can easily add new slider items using the 'News Slider' component which is added to the slider object.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementHiddenTitle",
+              "value": "Hidden Achievement",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementHiddenDesc",
+              "value": "This is a hidden achievement and must be unlocked to preview.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementSampleTitle",
+              "value": "Sample Achievement",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementSampleDesc",
+              "value": "This is a sample achievement made for demo purposes.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DiscordDescription",
+              "value": "Join us on Discord",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TwitterDescription",
+              "value": "Follow us on Twitter",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterContinue",
+              "value": "Continue",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterPlay",
+              "value": "Play",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterReplay",
+              "value": "Replay",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterCompleted",
+              "value": "Completed",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterUnlocked",
+              "value": "Unlocked",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterLocked",
+              "value": "Locked",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter1Title",
+              "value": "Chapter 1",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter1Description",
+              "value": "This is a description field. You can say something about the chapter here. This is a multi-line field and is automatically sized depending on its content. You can also use any TMP-supported rich text. You can use the 'Chapter Manager' component to make any changes to the chapter panel. Don't worry, it's really easy to use!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter2Title",
+              "value": "Chapter 2",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter2Description",
+              "value": "This is a description field. You can say something about the chapter here. This is a multi-line field and is automatically sized depending on its content. You can also use any TMP-supported rich text. You can use the 'Chapter Manager' component to make any changes to the chapter panel. Don't worry, it's really easy to use!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter3Title",
+              "value": "Chapter 3",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter3Description",
+              "value": "This is a description field. You can say something about the chapter here. This is a multi-line field and is automatically sized depending on its content. You can also use any TMP-supported rich text. You can use the 'Chapter Manager' component to make any changes to the chapter panel. Don't worry, it's really easy to use!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter4Title",
+              "value": "Chapter 4",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter4Description",
+              "value": "This is a description field. You can say something about the chapter here. This is a multi-line field and is automatically sized depending on its content. You can also use any TMP-supported rich text. You can use the 'Chapter Manager' component to make any changes to the chapter panel. Don't worry, it's really easy to use!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonCancel",
+              "value": "Cancel",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonConfirm",
+              "value": "Confirm",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitModalDescription",
+              "value": "Are you sure you want to exit? This action cannot be undone.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LabelOn",
+              "value": "On",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LabelOff",
+              "value": "Off",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsTitle",
+              "value": "Credits",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SelectLabel",
+              "value": "Select",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NavigateLabel",
+              "value": "Navigate",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PrevChapterLabel",
+              "value": "Previous Chapter",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NextChapterLabel",
+              "value": "Next Chapter",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GoBackLabel",
+              "value": "Go Back",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PrevCategoryLabel",
+              "value": "Previous Category",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NextCategoryLabel",
+              "value": "Next Category",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BoostCreditsLabel",
+              "value": "Boost (Hold)",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CloseLabel",
+              "value": "Close",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ControllerLayoutTitle",
+              "value": "Controller Layout",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsVoiceover",
+              "value": "Voiceover",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsCreatedBy",
+              "value": "Created by",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsArtDesign",
+              "value": "Art Design",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsProgrammer",
+              "value": "Programming",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsSoundDesign",
+              "value": "Sound Design",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsConceptArtist",
+              "value": "Concept Artist",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsVFXArtist",
+              "value": "VFX Artist",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsUI",
+              "value": "User Interface",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsPlaytesters",
+              "value": "Playtesters",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WebsiteDescription",
+              "value": "Check our website",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TikTokDescription",
+              "value": "Follow us on TikTok",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "YouTubeDescription",
+              "value": "Subscribe us on YouTube",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableHintsLabel",
+              "value": "Enable Hints",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableTutorialsLabel",
+              "value": "Enable Tutorials",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIScaleLabel",
+              "value": "UI Scale",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SubtitleScaleLabel",
+              "value": "Subtitle Scale",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableSubtitlesLabel",
+              "value": "Enable Subtitles",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VolumeHeader",
+              "value": "Volume",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MasterVolumeLabel",
+              "value": "Master Volume",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MusicVolumeLabel",
+              "value": "Music Volume",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SFXVolumeLabel",
+              "value": "SFX Volume",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIVolumeLabel",
+              "value": "Environmental Volume",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DisplayHeader",
+              "value": "Display",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ResolutionLabel",
+              "value": "Resolution",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableHintsDesc",
+              "value": "First timer? Want to learn some new stuff while playing? If so, you can enable this.\n\n*This is a non-functional placeholder.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableSubtitlesDesc",
+              "value": "See what people saying on the screen.\n\n*This is a non-functional placeholder.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LanguageDesc",
+              "value": "Select a language that you prefer.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIScaleDesc",
+              "value": "Too big? Too small? That's what she said? Well, you can manage UI size here.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SubtitleScaleDesc",
+              "value": "Too big? Too small? That's what she said? Well, you can manage subtitle size here.\n\n*This is a non-functional placeholder.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MasterVolumeDesc",
+              "value": "If you want to decrease or increase the general volume of the game, you can play with this slider.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MusicVolumeDesc",
+              "value": "If you want to decrease or increase the music volume of the game, you can play with this slider.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SFXVolumeDesc",
+              "value": "If you want to decrease or increase the effect volume of the game, you can play with this slider.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIVolumeDesc",
+              "value": "If you want to decrease or increase the UI of the game, you can play with this slider.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ResolutionDesc",
+              "value": "Higher resolution screens are capable of producing sharper, clearer, more detailed images. You can choose any resolution you desire.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsDesc",
+              "value": "Tweak some options and make your gameplay experience even better! You can change between categories using the buttons on the top.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VSyncLabel",
+              "value": "VSync",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VSyncDesc",
+              "value": "VSync is the graphics technology responsible for synchronizing the frame rate of a game to the refresh rate of a monitor. This synchronization delivers smooth, uninterrupted gameplay for graphics-heavy 3D games.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FrameRateLabel",
+              "value": "Frame Rate",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FrameRateDesc",
+              "value": "Limit the frame rate. It is recommended to match this option with the refresh rate of your monitor. Note that this option has no effect when VSync is enabled.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FrameRateUnlimited",
+              "value": "Unlimited",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WindowModeLabel",
+              "value": "Window Mode",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WindowModeDesc",
+              "value": "Select the preperred window mode. If you're experiencing input lags , you can try the <b>Fullscreen</b> mode.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BorderlessLabel",
+              "value": "Borderless",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FullscreenLabel",
+              "value": "Fullscreen",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WindowedLabel",
+              "value": "Windowed",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsLogoDescription",
+              "value": "Optional footnote goes here.\nYou can add additional information or license details here.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AccessibilityTitle",
+              "value": "Accessibility",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SearchLabel",
+              "value": "Search",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CancelSearchLabel",
+              "value": "Cancel Search",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GameModeLabel",
+              "value": "Game Mode",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PlayLabel",
+              "value": "Play",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SearchingLabel",
+              "value": "Searching...",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DeathmatchLabel",
+              "value": "Deathmatch",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CTFLabel",
+              "value": "Capture the flag",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ConquestLabel",
+              "value": "Conquest",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PauseMenuContinue",
+              "value": "Continue",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitMainMenuTitle",
+              "value": "Exit to main menu",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitMainMenuDescription",
+              "value": "Are you sure you want to exit to the main menu? Any unsaved progress will be lost.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "QuestTextSample",
+              "value": "Example quest description",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NotificationTextSample",
+              "value": "Task completed <b>[+50 XP]</b>",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PausedLabel",
+              "value": "Paused",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualityLabel",
+              "value": "Texture Quality",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualityDesc",
+              "value": "Higher quality textures result in significantly deeper details, but also require more VRAM and video processing hardware.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsLow",
+              "value": "Low",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsMedium",
+              "value": "Medium",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsHigh",
+              "value": "High",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsUltra",
+              "value": "Ultra",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AnisotropicFilteringLabel",
+              "value": "Anisotropic filtering",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AnisotropicFilteringDesc",
+              "value": "Texture filtering makes distant objects in games look sharper. It works by improving the appearance of textures viewed at a steep angle.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CamAndPlayerLabel",
+              "value": "Camera & Player",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CamSensitivityLabel",
+              "value": "Camera sensitivity",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CamSensitivityDesc",
+              "value": "Adjust camera sensitivity.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintModeLabel",
+              "value": "Sprint mode",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintModeLabelDesc",
+              "value": "Set whether you want to sprint by holding the button or toggling.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintToggleLabel",
+              "value": "Toggle",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintHoldLabel",
+              "value": "Hold",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ReverseLookLabel",
+              "value": "Reverse look",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ReverseLookDesc",
+              "value": "Inverts camera look when enabled.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "KeyBindingsHeader",
+              "value": "Key Bindings",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AdvancedHeader",
+              "value": "Advanced",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ScrollLabel",
+              "value": "Scroll",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LobbyLabel",
+              "value": "Lobby",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ReadyLabel",
+              "value": "Ready",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NotReadyLabel",
+              "value": "Not Ready",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UnreadyLabel",
+              "value": "Unready",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Touchscreen",
+              "value": "Touchscreen",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShopTitle",
+              "value": "Shop",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WeaponsTitle",
+              "value": "Weapons",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ClothesTitle",
+              "value": "Clothes",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VehiclesTitle",
+              "value": "Vehicles",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchaseItemTitle",
+              "value": "Purchase Item",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchaseItemDescription",
+              "value": "Are you sure you want to buy the item?",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SampleShopItemTitle",
+              "value": "Sample Title",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SampleShopItemDescription",
+              "value": "Shop button description here. Supports multi-line.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchasedLabel",
+              "value": "Purchased",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchaseLabel",
+              "value": "Purchase",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "KeyboardMapping",
+              "value": "Keyboard Mapping",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reset Key",
+              "value": "Reset Key",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Controller Icons",
+              "value": "Controller Icons",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Select Gamepad Icon",
+              "value": "Select Gamepad Icon",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Auto Detect",
+              "value": "Auto Detect",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Use PS4 Icons",
+              "value": "Use PS4 Icons",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Use Xbox Icons",
+              "value": "Use Xbox Icons",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Equip",
+              "value": "Equip",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UnEquip",
+              "value": "UnEquip",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Upgrade",
+              "value": "Upgrade",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Rotate",
+              "value": "Rotate",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Drop",
+              "value": "Drop",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enter",
+              "value": "Enter",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Toggle Legend",
+              "value": "Legend",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Zoom",
+              "value": "Zoom",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Move",
+              "value": "Move",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ARTIFACT COLLECTION",
+              "value": "ARTIFACT COLLECTION",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SELL",
+              "value": "SELL",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Comfirm",
+              "value": "Confirm",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Remove",
+              "value": "Remove",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Mark",
+              "value": "Mark",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "\rReturn to Town",
+              "value": "\rReturn to Town",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LowLabel",
+              "value": "Low",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "HighLabel",
+              "value": "High",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MediumLabel",
+              "value": "Medium",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "_0Label",
+              "value": "0",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "_50Label",
+              "value": "50",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "_100Label",
+              "value": "100",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableFSR3Label",
+              "value": "Enable FSR3",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableFSR3Desc",
+              "value": "Low is the fastest but has lower image quality. High pays more attention to picture quality while still being able to increase the frame rate.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GrassSettingLabel",
+              "value": "GRASS DENSITY",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GrassSettingDesc",
+              "value": "Adjusts the amount and quality of grass.\nLower values improve performance.\nHigher values increase visual quality but may reduce performance.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Back",
+              "value": "Back",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Intro",
+              "value": "Intro",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Open",
+              "value": "Open",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Highest",
+              "value": "Highest",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FRS3AntiGhost",
+              "value": "FSR3AntiGhost",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FSR3Quality",
+              "value": "FSR3Quality",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FSR3QualityDesc",
+              "value": "The lower the quality, the faster the performance.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FRS3AntiGhostDes",
+              "value": "Higher values make the image clearer, while lower values improve performance.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Commune",
+              "value": "Commune",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Leave",
+              "value": "Leave",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Melee Attack",
+              "value": "Melee Attack",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Ranged Attack",
+              "value": "Ranged Attack",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChangeView",
+              "value": "ChangeView",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Roll",
+              "value": "Roll",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Auto Attack",
+              "value": "Auto Attack",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Next Weapon",
+              "value": "Next Weapon",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Previous Weapon",
+              "value": "Previous Weapon",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Traverse The Realms",
+              "value": "Traverse The Realms",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Bind Relics",
+              "value": "Bind Relics",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Manifest Form",
+              "value": "Manifest Form",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Control Hint",
+              "value": "Control Hint",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Inventory",
+              "value": "Inventory",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WeaponUpgrade",
+              "value": "Weapon Upgrade",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Camera Switch",
+              "value": "Camera Switch",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Motion Blur",
+              "value": "Motion Blur",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Pixel Mode",
+              "value": "Pixel Mode",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Comfirm/Remove Hold To Drag",
+              "value": "Confirm/Remove Hold To Drag",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Horizontal Sensitivity",
+              "value": "Look Sensitivity X",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Vertical Sensitivity",
+              "value": "Look Sensitivity Y",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveForward",
+              "value": "MoveForward",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveBack",
+              "value": "MoveBack",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveLeft",
+              "value": "MoveLeft",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveRight",
+              "value": "MoveRight",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reload",
+              "value": "Reload",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Interact",
+              "value": "Interact",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Weapon Upgrade",
+              "value": "Weapon Upgrade",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enable Auto Aim",
+              "value": "Enable Aim assist",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Use Curve Aim",
+              "value": "Use Curve Aim",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BOUND OATHS",
+              "value": "BOUND OATHS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Skill Tree",
+              "value": "Skill Tree",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Forget All Skill",
+              "value": "Forget All Skill",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RoleSkill",
+              "value": "Skill",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Study",
+              "value": "Acquire",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Offer Voidmarks",
+              "value": "Offer Voidmarks",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Active Skill",
+              "value": "Active Skill",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AddVoidMarks",
+              "value": "AddVoidMarks",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ClearVoidMarks",
+              "value": "ClearVoidMarks",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PASSIVE SKILLS",
+              "value": "PASSIVE SKILLS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ACTIVE SKILLS",
+              "value": "ACTIVE SKILLS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ForgetSkills",
+              "value": "Reset",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Study_Active",
+              "value": "Acquire  Hold To Drag",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Wishlist",
+              "value": "Wishlist!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Artifact",
+              "value": "ARTIFACTS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "KNIGHT CLASS  |  ORDER OF THE SUNKEN LIGHT",
+              "value": "KNIGHT CLASS  |  ORDER OF THE SUNKEN LIGHT",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SortingByDefault",
+              "value": "SortingByDefault",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SortingByRank",
+              "value": "SortingByRank",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SortingByTime",
+              "value": "SortingByTime",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FeedbackDescription",
+              "value": "Help & Feedback",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Leaderboard",
+              "value": "Leaderboard",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ParticipationRankingList",
+              "value": "Change display name",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RankingList",
+              "value": "Ranking List",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Change",
+              "value": "Change",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WorldMapUI",
+              "value": "地图UI",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "The Nexus Hold",
+              "value": "The Nexus Hold",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Oblivion Array",
+              "value": "Oblivion Array",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": " Vharzeth, Lord of Cinders",
+              "value": " Vharzeth, Lord of Cinders",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Vault of the Dead Star",
+              "value": "Vault of the Dead Star",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": " Kingdom of Forgotten Sins",
+              "value": " Kingdom of Forgotten Sins",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Fractured Zenith",
+              "value": "Fractured Zenith",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "The Nexus Hold_Intro",
+              "value": "A drifting citadel of rusted steel and broken stone. The Phantom Train docks, survivors barter Voidmarks, and the wind carries prayers to gods that no longer answer. The Black Sea is rising. Its cold tide will soon submerge the Nexus.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Oblivion Array_Intro",
+              "value": "Ruined circle of world gates hanging in torn sky. The radioscope scans and wakes things best left sleeping. Xibal feeds from the hub as Chaac bends lightning through the nodes. Move fast or the paths seal and the array becomes a tomb.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "The Nexus Hold NoSpace",
+              "value": "The Nexus Hold",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Oblivion Array NoSpace",
+              "value": "Oblivion Array",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MAIN BOSS",
+              "value": "MAIN BOSS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FACTION BOSS",
+              "value": "FACTION BOSS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "OPTIONAL BOSS",
+              "value": "OPTIONAL BOSS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "QUEST",
+              "value": "QUEST",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RESPAWN POINT",
+              "value": "RESPAWN POINT",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GameLobbyPanel",
+              "value": "GameLobbyPanel",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Awaken a Champion",
+              "value": "Awaken a Champion",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "THIS FATE HAS NOT AWAKENED",
+              "value": "THIS FATE HAS NOT AWAKENED",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enter THE VOID",
+              "value": "Enter THE VOID",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GameEndPanel",
+              "value": "GameEndPanel",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VOIDMARKS |",
+              "value": "VOIDMARKS |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Voidmarks From Kills",
+              "value": "Voidmarks From Kills",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Voidmarks From Survival",
+              "value": "Voidmarks From Survival",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Voidmarks From Chests",
+              "value": "Voidmarks From Chests",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Regular Enemies Defeated",
+              "value": "Regular Enemies Defeated",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Elite Enemies Defeated",
+              "value": "Elite Enemies Defeated",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Bosses Enemies Defeated",
+              "value": "Boss Defeated",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PLAYER LEVEL |",
+              "value": "PLAYER LEVEL |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WORLD NAME |",
+              "value": "WORLD NAME |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DC COLLECTED |",
+              "value": "DC COLLECTED |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BEST RECORD |",
+              "value": "BEST RECORD |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SURVIVAL TIME | ",
+              "value": "SURVIVAL TIME | ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LEGACY OF THE FALLEN",
+              "value": "LEGACY OF THE FALLEN",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Next Category",
+              "value": "Next Category",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Previous Category",
+              "value": "Previous Category",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BackPackPanel",
+              "value": "BackPackPanel",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Damage",
+              "value": "Damage",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "REACH",
+              "value": "REACH",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ATTACK SPEED",
+              "value": "ATTACK SPEED",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FIRE RATE",
+              "value": "FIRE RATE",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ACCURACY",
+              "value": "ACCURACY",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CAPCITY",
+              "value": "CAPCITY",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Stats",
+              "value": "Stats",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Upgrade equipped",
+              "value": "Upgrade equipped",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Skills Acquired:",
+              "value": "Skills Acquired:",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CURRENCY HELD |",
+              "value": "CURRENCY HELD |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Strength",
+              "value": "Strength",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Dexterity",
+              "value": "Dexterity",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Cybernetics",
+              "value": "Cybernetics",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Fury",
+              "value": "Fury",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Faith",
+              "value": "Faith",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Vitality",
+              "value": "Vitality",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "World of Dark Light Survivor",
+              "value": "World of Dark Light Survivor",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "REROLL",
+              "value": "REROLL",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DARK VOID DEVOURS",
+              "value": "DARK VOID DEVOURS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DARK LIGHT SURVIVOR",
+              "value": "DARK LIGHT SURVIVOR",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "YOUR WISHLIST FUELS US",
+              "value": "YOUR WISHLIST FUELS US",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Wishlist!",
+              "value": "Wishlist!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WEAPONS",
+              "value": "WEAPONS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "INVENTORY",
+              "value": "INVENTORY",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Help & Feedback",
+              "value": "Help & Feedback",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "REROLL_REChoice",
+              "value": "REROLL",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "             UNAVAILABLE  \n AT THIS TIME",
+              "value": "             UNAVAILABLE  \n AT THIS TIME",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CLASS",
+              "value": "CLASS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ATTRIBUTE POINTS",
+              "value": "ATTRIBUTE POINTS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WorldMapIntro",
+              "value": "The multiverse lies shattered. The Void spills through a broken sky. Thrones stand empty.\r\n\r\nThe Nexus Hold drifts across an endless black sea. Iron groans. Steam whispers through hollow halls. One road remains between dying worlds—the Phantom Train.\r\n\r\nIts furnace burns power taken from fallen lords.\r\n\r\nMachine keepers guard the fading lights. Survivors trade rumors and relics. Along the rails the Archons appear without warning. Their gifts carry a price. Their rivalries are older than memory.\r\n\r\nAcross broken worlds lie ruined cities and ancient battlefields. Rusted armor, torn banners, shattered rifles and blades. Parasite husks rot while revenant machines roam beneath a sky that never wakes.\r\n\r\nAbove the ruins rules a horned tyrant who claims this shard of reality.\r\n\r\nDefeat such rulers and the Phantom Train howls onward each victory a faint step toward Elysium.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enter World",
+              "value": "Enter World",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reset All Buttons",
+              "value": "Reset All Buttons",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "This key is already assigned to [Action]. Do you want to reassign it?",
+              "value": "This key is already assigned to [Action]. Do you want to reassign it?",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enable FSR3",
+              "value": "Enable FSR3",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Grass Setting",
+              "value": "Grass Quality",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Auto",
+              "value": "Auto",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Name your champion",
+              "value": "Name your champion",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Name",
+              "value": "Name",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NameIntro",
+              "value": "Name your hero, wanderer. This name appears on global leaderboards. You can change it in Options | General Settings.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CONFIRM",
+              "value": "CONFIRM",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SKIP",
+              "value": "SKIP",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Media Preview",
+              "value": "News",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MediaPreviewIntro",
+              "value": "Thanks for supporting Dark Light: Survivor.\n\nThis build gives you an early look at the game, with all 3 Early Access maps and 3 playable classes available to try.\n\nAs this is still an Early Access build, you may encounter bugs. We are updating the game regularly and continuing to add new features.\n\nWe are a small indie team, and your feedback means a lot to us. If you enjoy the game, please share your thoughts in the community and follow the project.\n\nPlease note that balance, content, and other parts of the game may continue to change during Early Access.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Your Name...",
+              "value": "Your Name...",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ARMOUR",
+              "value": "ARMOUR",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Pass",
+              "value": "Pass",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ADD",
+              "value": "ADD",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ON STEAM",
+              "value": "ON STEAM",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PICK UP ITEM ",
+              "value": "PICK UP ITEM ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Trade Riftmerchant",
+              "value": "Interact",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RiftMerchant",
+              "value": "RiftMerchant",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Salvage Kill",
+              "value": "Salvage Kill",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Salvage Weapon",
+              "value": "Salvage Weapon",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Confirm/Remove Hold To Drag",
+              "value": "Confirm/Remove Hold To Drag",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SOUL OF THE VOID TITAN SEIZED",
+              "value": "SOUL OF THE VOID TITAN SEIZED",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": " Kingdom of Forgotten SinsNpSpace",
+              "value": " Kingdom of Forgotten Sins",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Fractured ZenithNoSpace",
+              "value": "Fractured ZenithNoSpace",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Ashfen of Fractured Suns",
+              "value": "Ashfen of Fractured Suns",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AutoEquipWeapon",
+              "value": "Auto Equip Weapon",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Melee Attack Camera Shake",
+              "value": "Melee Camera Shake",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Ranged Attack Camera Shake",
+              "value": "Ranged Camera Shake",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Switch Comparison",
+              "value": "Switch Comparison",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting",
+              "value": "Texture Quality",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting_High",
+              "value": "High",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting_Medium",
+              "value": "Medium",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting_Low",
+              "value": "Low",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualitySettingLabel",
+              "value": "Texture Setting",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualitySettingDesc",
+              "value": "High: Play normally and use standard texture quality\nMedium: Slightly reduce the texture quality\nLow: Significantly reduce the texture quality",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Previous CategoryLabal",
+              "value": "Previous Category",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Next CategoryLabal",
+              "value": "Next Category",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Add50DC",
+              "value": "+50 DC",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Salvage",
+              "value": "Salvage",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShadowQualitySettingLabel",
+              "value": "Shadow Quality",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShadowQualitySettingDesc",
+              "value": "Adjusts shadow resolution and render distance",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WaterQualitySettingLabel",
+              "value": "Water Quality",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShadowQualitySettingDesc",
+              "value": "Adjusts the detail level of water surface effects",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VisitTheStore",
+              "value": "Visit The Store",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Buy",
+              "value": "Buy",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SHOP",
+              "value": "SHOP",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PreviousLabel",
+              "value": "Previous",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NextLabel",
+              "value": "Next",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Block",
+              "value": "Block",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Aim",
+              "value": "Aim",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Sprint",
+              "value": "Sprint",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reload/Interact",
+              "value": "Reload/Interact",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Items",
+              "value": "Items",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AutoAtk",
+              "value": "Auto",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfMeleeBattle",
+              "value": "Time out of melee battle",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfRangeBattle",
+              "value": "Time out of range battle",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfMeleeBattleDesc",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfRangeBattleDesc",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MagicAttack",
+              "value": "MagicAttack",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Magic wand / Shield block",
+              "value": "Shield block",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GroundFogSettingDesc",
+              "value": "Toggle extra ground fog",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Restart",
+              "value": "Restart",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Begin Anew",
+              "value": "Begin Anew",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Volumetric Fog",
+              "value": "Volumetric Fog",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Sunless Keep",
+              "value": "Sunless Keep",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Battlefield Of The Black Sun",
+              "value": "Battlefield Of The Black Sun",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Choose Realm",
+              "value": "Choose Realm",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Unlock",
+              "value": "Unlock",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Upgrade Equipped",
+              "value": "Upgrade Equipped",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Unlocked",
+              "value": "Unlocked",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CrosshairSize",
+              "value": "Crosshair Size",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Change Crosshair Color",
+              "value": "Change Crosshair Color",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Custom Color",
+              "value": "Custom Color",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Color",
+              "value": "Color",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Crosshair Color",
+              "value": "Crosshair Color",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ADS Horizontal Sensitivity",
+              "value": "Scope Sensitivity X",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ADS Vertical Sensitivity",
+              "value": "Scope Sensitivity Y",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Third-Person Aiming",
+              "value": "Third-Person Camera & Aim",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Top-Down Aiming",
+              "value": "Top-Down Camera & Aim",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Aiming Horizontal Sensitivity",
+              "value": "Aim Sensitivity X",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Aiming Vertical Sensitivity",
+              "value": "Aim Sensitivity Y",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "QualitySettingLabel",
+              "value": "QualitySetting",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_High",
+              "value": "High Quality",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_Medium",
+              "value": "Balanced",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_SteakDeck",
+              "value": "SteamDeck",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_custom",
+              "value": "Custom",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Quality Preset",
+              "value": "Quality Preset",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Graphics Quality",
+              "value": "Graphics Quality",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Show Input Prompts",
+              "value": "Show Input Prompts",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SelectDifficultDes",
+              "value": "Select Difficulty",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_Optimized",
+              "value": "Optimized",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

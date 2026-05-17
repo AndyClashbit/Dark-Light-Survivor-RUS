@@ -1,0 +1,223 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1462
+  },
+  "m_Name": "RiftMerchantData 7",
+  "Name": "",
+  "Describe": "",
+  "SpawnTime": 960.0,
+  "DurationTime": 60.0,
+  "CanSelectNum": 7,
+  "MerchantItemList": {
+    "Array": [
+      {
+        "ID": 0,
+        "Name": 1,
+        "TitleName": "",
+        "Describe": "",
+        "Weight": 1.0,
+        "Purchase": -1,
+        "Price": 1400,
+        "WeaponWeightNum": 5,
+        "weaponIDTypes": {
+          "Array": [
+            17,
+            0,
+            4,
+            12,
+            13
+          ]
+        },
+        "weaponIDTypeWeight": {
+          "Array": [
+            2.0,
+            1.0,
+            2.0,
+            2.0,
+            2.0
+          ]
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 0
+      },
+      {
+        "ID": 0,
+        "Name": 2,
+        "TitleName": "",
+        "Describe": "",
+        "Weight": 1.0,
+        "Purchase": -1,
+        "Price": 2500,
+        "WeaponWeightNum": 5,
+        "weaponIDTypes": {
+          "Array": [
+            17,
+            0,
+            4,
+            12,
+            13
+          ]
+        },
+        "weaponIDTypeWeight": {
+          "Array": [
+            2.0,
+            1.0,
+            2.0,
+            2.0,
+            2.0
+          ]
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 0
+      },
+      {
+        "ID": 0,
+        "Name": 3,
+        "TitleName": "",
+        "Describe": "",
+        "Weight": 1.0,
+        "Purchase": -1,
+        "Price": 3000,
+        "WeaponWeightNum": 5,
+        "weaponIDTypes": {
+          "Array": [
+            17,
+            0,
+            4,
+            12,
+            13
+          ]
+        },
+        "weaponIDTypeWeight": {
+          "Array": [
+            2.0,
+            1.0,
+            2.0,
+            2.0,
+            2.0
+          ]
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 0
+      },
+      {
+        "ID": 4,
+        "Name": 4,
+        "TitleName": "",
+        "Describe": "",
+        "Weight": 1.0,
+        "Purchase": -1,
+        "Price": 3500,
+        "WeaponWeightNum": 1,
+        "weaponIDTypes": {
+          "Array": [
+            18
+          ]
+        },
+        "weaponIDTypeWeight": {
+          "Array": [
+            1.0
+          ]
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 0
+      },
+      {
+        "ID": 0,
+        "Name": 5,
+        "TitleName": "Quantum Serum",
+        "Describe": "补给，回血",
+        "Weight": 1.0,
+        "Purchase": -1,
+        "Price": 1200,
+        "WeaponWeightNum": 0,
+        "weaponIDTypes": {
+          "Array": []
+        },
+        "weaponIDTypeWeight": {
+          "Array": []
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 0
+      },
+      {
+        "ID": 3001,
+        "Name": 6,
+        "TitleName": "",
+        "Describe": "",
+        "Weight": 0.0,
+        "Purchase": 1,
+        "Price": 200,
+        "WeaponWeightNum": 0,
+        "weaponIDTypes": {
+          "Array": []
+        },
+        "weaponIDTypeWeight": {
+          "Array": []
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 0
+      },
+      {
+        "ID": 1001,
+        "Name": 7,
+        "TitleName": "Juggernaut Core",
+        "Describe": "This dark tech pulses with the strength of the dead—grants+<color=#00FFA6>{0}</color> Max HP when installed.",
+        "Weight": 0.0,
+        "Purchase": 1,
+        "Price": 200,
+        "WeaponWeightNum": 0,
+        "weaponIDTypes": {
+          "Array": []
+        },
+        "weaponIDTypeWeight": {
+          "Array": []
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 0
+      }
+    ]
+  },
+  "MerchantItemRecoverHpNum": 60
+}

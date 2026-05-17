@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Knight_Whirlwind_4",
+  "SkillId": 1113,
+  "SkillName": "Whirlwind",
+  "SkillIconType": 0,
+  "BaseSkillType": 2,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 4,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Free 360 swing after chain kills",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1701
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1113,
+        "GuidInSkill": 0,
+        "Rank": 4,
+        "SkillDescribe": "Release {0} rotating throwing knife to attack the enemy with a {6}s cooldown.",
+        "SkillDamage": 110,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 15.0,
+        "CurTrigerCd": 0.0,
+        "BuffId": 0,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "",
+        "EffectPoint": 0,
+        "TrigerEvent": 5,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 4.0,
+        "describe1": "Count",
+        "Value2": 0.0,
+        "describe2": "",
+        "Value3": 0.0,
+        "describe3": "",
+        "Value4": 0.0,
+        "describe4": "",
+        "Value5": 0.0,
+        "describe5": "",
+        "Value6": 0.0,
+        "describe6": "",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

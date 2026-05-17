@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5984
+  },
+  "m_Name": "UI/Click",
+  "m_Asset": {
+    "m_FileID": 0,
+    "m_PathID": 4215
+  },
+  "m_ActionId": "e2d1f136-e522-4b4b-9c06-688fbbf32075"
+}

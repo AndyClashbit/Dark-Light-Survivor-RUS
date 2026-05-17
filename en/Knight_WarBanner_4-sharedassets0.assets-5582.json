@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Knight_WarBanner_4",
+  "SkillId": 1108,
+  "SkillName": "Battle Standard",
+  "SkillIconType": 0,
+  "BaseSkillType": 2,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 4,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Place banner that buffs damage and defense",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1655
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1108,
+        "GuidInSkill": 0,
+        "Rank": 4,
+        "SkillDescribe": "Deploy a banner to grant {0}% Damage Increase and {1}% Damage Reduction to allies in range. It lasts {2}s with a {6}s cooldown.",
+        "SkillDamage": 0,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 45.0,
+        "CurTrigerCd": 4.592975,
+        "BuffId": 0,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "",
+        "EffectPoint": 0,
+        "TrigerEvent": 5,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 25.0,
+        "describe1": "Damage increase（%）",
+        "Value2": 25.0,
+        "describe2": "Damage reduction（%）",
+        "Value3": 45.0,
+        "describe3": "Duration",
+        "Value4": 0.0,
+        "describe4": "",
+        "Value5": 0.0,
+        "describe5": "",
+        "Value6": 0.0,
+        "describe6": "",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

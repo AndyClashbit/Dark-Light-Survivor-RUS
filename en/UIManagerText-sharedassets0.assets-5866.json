@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2594
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5581
+  },
+  "m_Name": "",
+  "UIManagerAsset": {
+    "m_FileID": 0,
+    "m_PathID": 5661
+  },
+  "fontType": 2,
+  "colorType": 0,
+  "useCustomColor": 0,
+  "useCustomAlpha": 0,
+  "useCustomFont": 0
+}

@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2415
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5787
+  },
+  "m_Name": "",
+  "skillID": 12,
+  "ShootTime": 1.0,
+  "atkRadius": 7.0,
+  "layerMask": {
+    "m_Bits": 512
+  },
+  "player": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "orbitDistance": 1.0,
+  "orbitSpeed": 50.0,
+  "hoverAmplitude": 0.5,
+  "hoverFrequency": 1.0,
+  "smoothTime": 0.3,
+  "attackDuration": 0.3,
+  "returnDuration": 0.3,
+  "attackControlPointHeight": 1.0,
+  "speedCurve": {
+    "m_Curve": {
+      "Array": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 1.0,
+          "outSlope": 1.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 1.0,
+          "outSlope": 1.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ]
+    },
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "bcanShoot": 0,
+  "callByWeapon": 0
+}

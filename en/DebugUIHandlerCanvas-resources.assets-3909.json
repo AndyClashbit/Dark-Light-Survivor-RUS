@@ -1,0 +1,167 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2023
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2814
+  },
+  "m_Name": "",
+  "panelPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3412
+  },
+  "prefabs": {
+    "Array": [
+      {
+        "type": "UnityEngine.Rendering.DebugUI+Value, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3442
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+BoolField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3367
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+IntField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3440
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+UIntField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3443
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+FloatField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3441
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+EnumField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3382
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+Button, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3410
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+Foldout, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3359
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+ColorField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3427
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+Vector2Field, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3376
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+Vector3Field, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3365
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+Vector4Field, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3395
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+VBox, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3413
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+HBox, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3439
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+Container, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3388
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+BitField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3593
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+HistoryBoolField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3349
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+HistoryEnumField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3655
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+Table, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3388
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+Table+Row, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3360
+        }
+      },
+      {
+        "type": "UnityEngine.Rendering.DebugUI+MessageBox, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3358
+        }
+      }
+    ]
+  }
+}

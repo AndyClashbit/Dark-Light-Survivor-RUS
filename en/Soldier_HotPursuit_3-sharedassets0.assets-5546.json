@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Soldier_HotPursuit_3",
+  "SkillId": 1321,
+  "SkillName": "Hot Pursuit",
+  "SkillIconType": 0,
+  "BaseSkillType": 0,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 3,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Kills boost movement speed.",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1730
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1321,
+        "GuidInSkill": 0,
+        "Rank": 3,
+        "SkillDescribe": "Killing enemies increases {0}% movement speed, up to a maximum of {2}%, lasting for {1}s.",
+        "SkillDamage": 0,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 0.0,
+        "CurTrigerCd": 0.0,
+        "BuffId": 0,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "",
+        "EffectPoint": 0,
+        "TrigerEvent": 5,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 10.0,
+        "describe1": "move speed add",
+        "Value2": 3.0,
+        "describe2": "duration",
+        "Value3": 20.0,
+        "describe3": "max move speed add",
+        "Value4": 0.0,
+        "describe4": "",
+        "Value5": 0.0,
+        "describe5": "",
+        "Value6": 0.0,
+        "describe6": "",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2811
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 858
+  },
+  "m_Name": "",
+  "Target": {
+    "m_FileID": 0,
+    "m_PathID": 3096
+  },
+  "UsePosition": 1,
+  "UseRotation": 1,
+  "FreezeYPos": 0,
+  "LookAtTarget": 0,
+  "LookAtMotionVector": 0
+}

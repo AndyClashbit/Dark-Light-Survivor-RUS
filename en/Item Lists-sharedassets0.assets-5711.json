@@ -1,0 +1,869 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3364
+  },
+  "m_Name": "Item Lists",
+  "gearList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5665
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5666
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5667
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5668
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5669
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5670
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5671
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5672
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5673
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5674
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5675
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5676
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5677
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5678
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5679
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5680
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5681
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5682
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5683
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5684
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5685
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5686
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5687
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5688
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5689
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5690
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5691
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5692
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5693
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5694
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5695
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5696
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5697
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5698
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5699
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5700
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5701
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5702
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5703
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5704
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5705
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5706
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5707
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5708
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5709
+      }
+    ]
+  },
+  "gearItemId": {
+    "Array": [
+      5001,
+      5003,
+      5004,
+      5005,
+      5006,
+      5007,
+      5009,
+      5010,
+      5011,
+      5012,
+      5014,
+      5015,
+      5016,
+      5017,
+      5018,
+      5019,
+      5020,
+      5022,
+      5023,
+      5024,
+      5025,
+      5026,
+      5027,
+      5028,
+      5030,
+      5031,
+      5033,
+      5034,
+      5035,
+      5036,
+      5037,
+      5038,
+      5039,
+      5040,
+      5041,
+      5042,
+      5043,
+      5044,
+      5045,
+      5046,
+      5047,
+      5048,
+      5049,
+      5050,
+      5051
+    ]
+  },
+  "gearItemGroupCounts": {
+    "Array": [
+      9,
+      6,
+      9,
+      14,
+      2,
+      8,
+      1,
+      6,
+      6
+    ]
+  },
+  "gearItemReference": {
+    "Array": [
+      "Hand/Soldier's Skull of Quality",
+      "UpperBody/Fine Vest of Stability",
+      "Hand/Fine Augmented arm of Balance",
+      "Pauldrons/Fine Belt of Stability",
+      "Head/TEST ITEM",
+      "Leg/Sturdy Reinforced Tendons of Balance",
+      "UpperBody/Warrior's chest of Strength",
+      "Hand/Fine Augmented arm of Strength",
+      "Pauldrons/Fine Belt of Strength",
+      "Leg/Sturdy Reinforced Tendons of Strength",
+      "UpperBody/Pure chest of Agility",
+      "Hand/Fine Augmented arm of Agility",
+      "Pauldrons/Soldier's Belt of Agility",
+      "Leg/Sturdy Reinforced Tendons of Agility",
+      "Head/Fine Skull of Strength",
+      "Head/Fine Mask of Agility",
+      "Head/Fine Skull of Intellect",
+      "Head/Mask of Lycan's Blood ",
+      "UpperBody/wolf Chest of Champion's Might",
+      "Hand/wolf Blood Arm of Fate",
+      "UpperBody/Radioactive Chest of Destruction ",
+      "Hand/Arm flaming fist of power ",
+      "Hand/Arm of Raven Frost ",
+      "Hand/Arm of Raiden",
+      "Head/Angelic Helm of Mastery",
+      "Hand/Infinity arm of mage",
+      "UpperBody/Chest of defender’s bane",
+      "Hand/Hands of Undead Slayer",
+      "Shield/Buckler",
+      "Shield/GearItem5036",
+      "UpperBody/MorgannaUpBody",
+      "Head/MorgannaHead",
+      "Leg/MorgannaLeg",
+      "Pauldrons/MorgannaPauldrons",
+      "Hand/MorgannaHand",
+      "5041"
+    ]
+  },
+  "gearItemColors": {
+    "m_FileID": 0,
+    "m_PathID": 5710
+  },
+  "GearLanuageData": {
+    "m_FileID": 0,
+    "m_PathID": 5712
+  },
+  "GearPropLanuageData": {
+    "m_FileID": 0,
+    "m_PathID": 5713
+  },
+  "gearModelList": {
+    "Array": [
+      {
+        "gearModelList_Warrior": {
+          "Array": [
+            100001,
+            100002,
+            100003,
+            100005,
+            100006,
+            100007,
+            100008,
+            100009,
+            100010,
+            100011,
+            100012,
+            100013,
+            100014,
+            100015,
+            100016,
+            100017,
+            100018,
+            100019,
+            100020,
+            100021,
+            100022,
+            100023,
+            100024,
+            100025
+          ]
+        },
+        "gearModelList_Mage": {
+          "Array": [
+            100001,
+            100002,
+            100003,
+            100004,
+            100005,
+            100006,
+            100007,
+            100008,
+            100009,
+            100010,
+            100011,
+            100012,
+            100013,
+            100014,
+            100015,
+            100016,
+            100017,
+            100018,
+            100019,
+            100020,
+            100021,
+            100022,
+            100023,
+            100024,
+            100025
+          ]
+        }
+      },
+      {
+        "gearModelList_Warrior": {
+          "Array": [
+            200001,
+            200002,
+            200003,
+            200004,
+            200005,
+            200006,
+            200007,
+            200008
+          ]
+        },
+        "gearModelList_Mage": {
+          "Array": [
+            200003,
+            200004,
+            200005,
+            200006,
+            200007,
+            200008
+          ]
+        }
+      },
+      {
+        "gearModelList_Warrior": {
+          "Array": [
+            300001,
+            300002,
+            300003,
+            300004,
+            300005,
+            300007,
+            300008
+          ]
+        },
+        "gearModelList_Mage": {
+          "Array": [
+            300006,
+            300007,
+            300008
+          ]
+        }
+      },
+      {
+        "gearModelList_Warrior": {
+          "Array": [
+            400001,
+            400002,
+            400003,
+            400004,
+            400006,
+            400007,
+            400008,
+            400009,
+            400010,
+            400011,
+            400012,
+            400013
+          ]
+        },
+        "gearModelList_Mage": {
+          "Array": [
+            400001,
+            400002,
+            400003,
+            400004,
+            400006,
+            400007,
+            400008,
+            400009,
+            400010,
+            400011,
+            400012,
+            400013
+          ]
+        }
+      },
+      {
+        "gearModelList_Warrior": {
+          "Array": [
+            500001,
+            500002,
+            500003,
+            500004,
+            500005
+          ]
+        },
+        "gearModelList_Mage": {
+          "Array": [
+            500001,
+            500002,
+            500003,
+            500004,
+            500005
+          ]
+        }
+      },
+      {
+        "gearModelList_Warrior": {
+          "Array": [
+            500001,
+            500002,
+            500003,
+            500004
+          ]
+        },
+        "gearModelList_Mage": {
+          "Array": [
+            500001,
+            500002,
+            500003,
+            500004
+          ]
+        }
+      }
+    ]
+  },
+  "gearHeadTypeList": {
+    "Array": [
+      {
+        "gearModelName": {
+          "Array": [
+            100003,
+            100005
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            100003,
+            100005
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            100001,
+            100002,
+            100003,
+            100005,
+            100006,
+            100007,
+            100008,
+            100009
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            100001,
+            100002,
+            100003,
+            100005,
+            100006,
+            100007,
+            100008,
+            100009
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            100001,
+            100002,
+            100003,
+            100005,
+            100006,
+            100007,
+            100008,
+            100009
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            100001,
+            100002,
+            100003,
+            100005,
+            100006,
+            100007,
+            100008,
+            100009
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            100016,
+            100017,
+            100018
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            100020,
+            100021,
+            100022,
+            100023,
+            100024,
+            100025
+          ]
+        }
+      }
+    ]
+  },
+  "gearChestTypeList": {
+    "Array": [
+      {
+        "gearModelName": {
+          "Array": [
+            200001
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            200002,
+            200004
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            200002,
+            200003,
+            200004,
+            200005
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            200002,
+            200004
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            200001,
+            200003,
+            200005
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            200001,
+            200003,
+            200004,
+            200005
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            200006,
+            200006,
+            200006,
+            200006
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            200007,
+            200007,
+            200008,
+            200008
+          ]
+        }
+      }
+    ]
+  },
+  "gearHandTypeList": {
+    "Array": [
+      {
+        "gearModelName": {
+          "Array": [
+            500001,
+            500002,
+            500003
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            500001,
+            500002,
+            500003
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            500001,
+            500002,
+            500003
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            500001,
+            500002,
+            500003
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            500001,
+            500002,
+            500003
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            500001,
+            500002,
+            500003
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            500004,
+            500004,
+            500004
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            500005,
+            500005,
+            500005
+          ]
+        }
+      }
+    ]
+  },
+  "gearLegTypeList": {
+    "Array": [
+      {
+        "gearModelName": {
+          "Array": [
+            300001,
+            300002,
+            300006
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            300001,
+            300002,
+            300006
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            300001,
+            300002,
+            300003,
+            300004,
+            300005,
+            300006
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            300002,
+            300003,
+            300004,
+            300005
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            300003,
+            300004,
+            300005
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            300007,
+            300007,
+            300007
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            300008,
+            300008,
+            300008
+          ]
+        }
+      }
+    ]
+  },
+  "gearPauldronsTypeList": {
+    "Array": [
+      {
+        "gearModelName": {
+          "Array": [
+            400001,
+            400003,
+            400004
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            400001,
+            400003,
+            400004
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            400002
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            400001,
+            400002,
+            400003,
+            400004
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            400005,
+            400006,
+            400007
+          ]
+        }
+      },
+      {
+        "gearModelName": {
+          "Array": [
+            400008,
+            400009,
+            400010,
+            400011,
+            400012,
+            400013
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2349
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 57
+  },
+  "m_Name": "",
+  "BackMove": 0.5,
+  "PushDistanceThreshold": 0.8,
+  "SlowDownDistanceThreshold": 1.5,
+  "MinStepSpeedRatio": 0.3,
+  "StepSpeedRecoverRate": 1.0
+}

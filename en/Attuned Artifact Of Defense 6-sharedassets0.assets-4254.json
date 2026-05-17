@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2575
+  },
+  "m_Name": "Attuned Artifact Of Defense 6",
+  "isEquip": 0,
+  "ArtifactOnlyID": "",
+  "Id": 6,
+  "IdInAllArtifact": 36,
+  "Rank": 1,
+  "Colour_Type": 1,
+  "Pos": 0,
+  "careerType": 0,
+  "Name": "",
+  "isMarking": 0,
+  "ArtifactName": "ATTUNED ARTIFACT OF DEFENSE",
+  "ArtifactDes": "",
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 2128
+  },
+  "spriteIndexInSpriteList": 5,
+  "words": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4425
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4410
+      }
+    ]
+  },
+  "RankInSorting": 0.0,
+  "valueCount": 200.0,
+  "rankNum": 0
+}

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_14",
+  "OnlyId": 0,
+  "ModId": 14,
+  "RankId": 0,
+  "RankWeight": 0.0,
+  "ModName": "Rune Slot V",
+  "ModDec": "Bind a Rune.",
+  "ModIndex": 14,
+  "modAddType": 0,
+  "modAddValue1": 0.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 1,
+  "SlotObjName": "",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": []
+  }
+}

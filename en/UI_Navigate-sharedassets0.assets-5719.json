@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5984
+  },
+  "m_Name": "UI/Navigate",
+  "m_Asset": {
+    "m_FileID": 0,
+    "m_PathID": 4215
+  },
+  "m_ActionId": "cf46e5b1-60e3-4a08-97fd-bd3a0c606719"
+}

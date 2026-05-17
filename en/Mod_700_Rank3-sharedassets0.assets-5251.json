@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_700_Rank3",
+  "OnlyId": 0,
+  "ModId": 7001,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Rapid Action Grip III",
+  "ModDec": "+{0}% Fire Rate in top-down mode",
+  "ModIndex": 7,
+  "modAddType": 34,
+  "modAddValue1": 20.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "PistolGrip",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      17
+    ]
+  }
+}

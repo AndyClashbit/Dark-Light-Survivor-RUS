@@ -1,0 +1,2345 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4782
+  },
+  "m_Name": "SpecialEventData",
+  "mapCount": 11,
+  "MapItems": {
+    "Array": [
+      {
+        "specialCount": 4,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": 20.0,
+              "Name": "Pulse Core Upgrade",
+              "Describe": "武器升阶地点",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -100.0,
+                    "y": 0.772,
+                    "z": -100.0
+                  },
+                  {
+                    "x": 100.0,
+                    "y": -3.72,
+                    "z": -100.0
+                  },
+                  {
+                    "x": 100.0,
+                    "y": -1.491,
+                    "z": 100.0
+                  },
+                  {
+                    "x": -100.0,
+                    "y": 2.607,
+                    "z": 100.0
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 999,
+                "Name": 8,
+                "TitleName": "Pulse Core",
+                "Describe": "因为使用同样的面板，模拟数据",
+                "Weight": -1.0,
+                "Purchase": 3,
+                "Price": 2000,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 25.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": -1.0,
+              "Name": "Train",
+              "Describe": "火车为位置坐标",
+              "posCount": 3,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": 19.4,
+                    "y": 4.1,
+                    "z": 68.9
+                  },
+                  {
+                    "x": -22.19,
+                    "y": 4.99,
+                    "z": -90.19
+                  },
+                  {
+                    "x": -93.01,
+                    "y": 7.62,
+                    "z": 76.47
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  },
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  },
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": -1.0,
+              "Name": "RiftMerchantPeople",
+              "Describe": "DC商人",
+              "posCount": 5,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 4.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 100.0,
+                    "y": -2.59,
+                    "z": 0.0
+                  },
+                  {
+                    "x": -100.0,
+                    "y": 3.83,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -0.37,
+                    "z": 100.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.372,
+                    "z": -100.0
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": 60.0,
+              "Name": "Weapon Quality Totem",
+              "Describe": "武器品质升级图腾",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -48.31211,
+                    "y": -0.318,
+                    "z": -94.26812
+                  },
+                  {
+                    "x": 113.8117,
+                    "y": -3.643,
+                    "z": -84.17884
+                  },
+                  {
+                    "x": -86.8138,
+                    "y": 4.088,
+                    "z": 21.37325
+                  },
+                  {
+                    "x": -75.66795,
+                    "y": 1.263,
+                    "z": 88.68555
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 998,
+                "Name": 9,
+                "TitleName": "Totem of the Radiant Brand",
+                "Describe": "因为使用同样的面板，模拟数据",
+                "Weight": -1.0,
+                "Purchase": 3,
+                "Price": 2000,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 25.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specialCount": 1,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": 0.0,
+              "Name": "",
+              "Describe": "",
+              "posCount": 0,
+              "specialPosition": {
+                "Array": []
+              },
+              "specialRotation": {
+                "Array": []
+              },
+              "specialScale": {
+                "Array": []
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specialCount": 1,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": 0.0,
+              "Name": "",
+              "Describe": "",
+              "posCount": 0,
+              "specialPosition": {
+                "Array": []
+              },
+              "specialRotation": {
+                "Array": []
+              },
+              "specialScale": {
+                "Array": []
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specialCount": 1,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": 0.0,
+              "Name": "",
+              "Describe": "",
+              "posCount": 0,
+              "specialPosition": {
+                "Array": []
+              },
+              "specialRotation": {
+                "Array": []
+              },
+              "specialScale": {
+                "Array": []
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specialCount": 1,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": 0.0,
+              "Name": "",
+              "Describe": "",
+              "posCount": 0,
+              "specialPosition": {
+                "Array": []
+              },
+              "specialRotation": {
+                "Array": []
+              },
+              "specialScale": {
+                "Array": []
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specialCount": 1,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": -1.0,
+              "Name": "Train",
+              "Describe": "火车为位置坐标",
+              "posCount": 1,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -53.5,
+                    "y": -19.71,
+                    "z": 116.51
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 90.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specialCount": 4,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": 20.0,
+              "Name": "Pulse Core Upgrade",
+              "Describe": "武器升阶地点",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -100.0,
+                    "y": 0.772,
+                    "z": -100.0
+                  },
+                  {
+                    "x": 100.0,
+                    "y": -3.72,
+                    "z": -100.0
+                  },
+                  {
+                    "x": 100.0,
+                    "y": -1.491,
+                    "z": 100.0
+                  },
+                  {
+                    "x": -100.0,
+                    "y": 2.607,
+                    "z": 100.0
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 999,
+                "Name": 8,
+                "TitleName": "Pulse Core",
+                "Describe": "因为使用同样的面板，模拟数据",
+                "Weight": -1.0,
+                "Purchase": 3,
+                "Price": 3000,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 25.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": -1.0,
+              "Name": "Train",
+              "Describe": "火车为位置坐标",
+              "posCount": 3,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": 19.4,
+                    "y": 4.1,
+                    "z": 68.9
+                  },
+                  {
+                    "x": -22.19,
+                    "y": 4.99,
+                    "z": -90.19
+                  },
+                  {
+                    "x": 52.06,
+                    "y": 2.78,
+                    "z": 45.22
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  },
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  },
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": -1.0,
+              "Name": "RiftMerchantPeople",
+              "Describe": "DC商人",
+              "posCount": 5,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 4.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 100.0,
+                    "y": -2.59,
+                    "z": 0.0
+                  },
+                  {
+                    "x": -100.0,
+                    "y": 3.83,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -0.37,
+                    "z": 100.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.372,
+                    "z": -100.0
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": 60.0,
+              "Name": "Weapon Quality Totem",
+              "Describe": "武器品质升级图腾",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -48.31211,
+                    "y": -0.318,
+                    "z": -94.26812
+                  },
+                  {
+                    "x": 113.8117,
+                    "y": -3.643,
+                    "z": -84.17884
+                  },
+                  {
+                    "x": -86.8138,
+                    "y": 4.088,
+                    "z": 21.37325
+                  },
+                  {
+                    "x": -75.66795,
+                    "y": 1.263,
+                    "z": 88.68555
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 998,
+                "Name": 9,
+                "TitleName": "Totem of the Radiant Brand",
+                "Describe": "因为使用同样的面板，模拟数据",
+                "Weight": -1.0,
+                "Purchase": 3,
+                "Price": 2000,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 25.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specialCount": 1,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": 0.0,
+              "Name": "",
+              "Describe": "",
+              "posCount": 0,
+              "specialPosition": {
+                "Array": []
+              },
+              "specialRotation": {
+                "Array": []
+              },
+              "specialScale": {
+                "Array": []
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specialCount": 4,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": 20.0,
+              "Name": "Pulse Core Upgrade",
+              "Describe": "武器升阶地点",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -100.0,
+                    "y": 0.772,
+                    "z": -100.0
+                  },
+                  {
+                    "x": 100.0,
+                    "y": -3.72,
+                    "z": -100.0
+                  },
+                  {
+                    "x": 100.0,
+                    "y": -1.491,
+                    "z": 100.0
+                  },
+                  {
+                    "x": -100.0,
+                    "y": 2.607,
+                    "z": 100.0
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 999,
+                "Name": 8,
+                "TitleName": "Pulse Core",
+                "Describe": "因为使用同样的面板，模拟数据",
+                "Weight": -1.0,
+                "Purchase": 3,
+                "Price": 2000,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 25.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": -1.0,
+              "Name": "Train",
+              "Describe": "火车为位置坐标",
+              "posCount": 3,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": 19.4,
+                    "y": 4.1,
+                    "z": 68.9
+                  },
+                  {
+                    "x": -22.19,
+                    "y": 4.99,
+                    "z": -90.19
+                  },
+                  {
+                    "x": -93.01,
+                    "y": 7.62,
+                    "z": 76.47
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  },
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  },
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": -1.0,
+              "Name": "RiftMerchantPeople",
+              "Describe": "DC商人",
+              "posCount": 5,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 4.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 100.0,
+                    "y": -2.59,
+                    "z": 0.0
+                  },
+                  {
+                    "x": -100.0,
+                    "y": 3.83,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -0.37,
+                    "z": 100.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.372,
+                    "z": -100.0
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": 60.0,
+              "Name": "Weapon Quality Totem",
+              "Describe": "武器品质升级图腾",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -48.31211,
+                    "y": -0.318,
+                    "z": -94.26812
+                  },
+                  {
+                    "x": 113.8117,
+                    "y": -3.643,
+                    "z": -84.17884
+                  },
+                  {
+                    "x": -86.8138,
+                    "y": 4.088,
+                    "z": 21.37325
+                  },
+                  {
+                    "x": -75.66795,
+                    "y": 1.263,
+                    "z": 88.68555
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 998,
+                "Name": 9,
+                "TitleName": "Totem of the Radiant Brand",
+                "Describe": "因为使用同样的面板，模拟数据",
+                "Weight": -1.0,
+                "Purchase": 3,
+                "Price": 2000,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 25.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specialCount": 4,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": 20.0,
+              "Name": "Pulse Core Upgrade",
+              "Describe": "武器升阶地点",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -73.212,
+                    "y": 25.42,
+                    "z": -72.4
+                  },
+                  {
+                    "x": 78.37,
+                    "y": 23.88,
+                    "z": -59.0
+                  },
+                  {
+                    "x": 91.15,
+                    "y": 20.7,
+                    "z": 116.0
+                  },
+                  {
+                    "x": -116.0,
+                    "y": 19.84,
+                    "z": 48.5
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 48.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -92.58,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -131.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -254.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 999,
+                "Name": 8,
+                "TitleName": "Pulse Core",
+                "Describe": "因为使用同样的面板，模拟数据",
+                "Weight": -1.0,
+                "Purchase": 3,
+                "Price": 2000,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 25.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": -1.0,
+              "Name": "Train",
+              "Describe": "火车为位置坐标",
+              "posCount": 3,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -154.81,
+                    "y": 24.45,
+                    "z": -93.2
+                  },
+                  {
+                    "x": 69.77,
+                    "y": 27.21,
+                    "z": -58.78
+                  },
+                  {
+                    "x": 127.11,
+                    "y": 24.65,
+                    "z": 79.93
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  },
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  },
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": -1.0,
+              "Name": "RiftMerchantPeople",
+              "Describe": "DC商人",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": 23.28,
+                    "y": 21.387,
+                    "z": 89.42
+                  },
+                  {
+                    "x": -47.02,
+                    "y": 25.195,
+                    "z": 41.294
+                  },
+                  {
+                    "x": 14.07,
+                    "y": 26.344,
+                    "z": -32.51
+                  },
+                  {
+                    "x": 64.263,
+                    "y": 29.141,
+                    "z": 27.343
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -56.4,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -200.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -293.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": 60.0,
+              "Name": "Weapon Quality Totem",
+              "Describe": "武器品质升级图腾",
+              "posCount": 3,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -72.0,
+                    "y": 19.67,
+                    "z": 24.2
+                  },
+                  {
+                    "x": 73.9,
+                    "y": 19.63,
+                    "z": 117.2
+                  },
+                  {
+                    "x": 12.34,
+                    "y": 19.88,
+                    "z": -74.94
+                  },
+                  {
+                    "x": -75.66795,
+                    "y": 1.263,
+                    "z": 88.68555
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 75.6,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 75.61,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -23.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 998,
+                "Name": 9,
+                "TitleName": "Totem of the Radiant Brand",
+                "Describe": "因为使用同样的面板，模拟数据",
+                "Weight": -1.0,
+                "Purchase": 3,
+                "Price": 2000,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 25.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "specialCount": 4,
+        "SpecialEventPositionItems": {
+          "Array": [
+            {
+              "SpawnTime": 20.0,
+              "Name": "Pulse Core Upgrade",
+              "Describe": "武器升阶地点",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": 99.5,
+                    "y": 7.274,
+                    "z": 102.2
+                  },
+                  {
+                    "x": 33.83,
+                    "y": 16.426,
+                    "z": -70.13
+                  },
+                  {
+                    "x": -135.24,
+                    "y": 8.86,
+                    "z": -16.93
+                  },
+                  {
+                    "x": -31.828,
+                    "y": 6.939,
+                    "z": 158.197
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 76.068,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 256.042,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 88.143,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 166.043,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 999,
+                "Name": 8,
+                "TitleName": "Pulse Core",
+                "Describe": "因为使用同样的面板，模拟数据",
+                "Weight": -1.0,
+                "Purchase": 3,
+                "Price": 2000,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 25.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": -1.0,
+              "Name": "Train",
+              "Describe": "火车为位置坐标",
+              "posCount": 3,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": 80.02,
+                    "y": 13.47,
+                    "z": -193.57
+                  },
+                  {
+                    "x": -137.0,
+                    "y": 14.67,
+                    "z": 30.48
+                  },
+                  {
+                    "x": 132.13,
+                    "y": 10.55,
+                    "z": 150.75
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  },
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  },
+                  {
+                    "x": 0.9,
+                    "y": 0.9,
+                    "z": 0.9
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": -1.0,
+              "Name": "RiftMerchantPeople",
+              "Describe": "DC商人",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -135.5,
+                    "y": 10.71,
+                    "z": 56.8
+                  },
+                  {
+                    "x": -27.81,
+                    "y": 12.53,
+                    "z": 15.7
+                  },
+                  {
+                    "x": 14.7,
+                    "y": 14.737,
+                    "z": -135.0
+                  },
+                  {
+                    "x": 35.3,
+                    "y": 6.147,
+                    "z": 82.07
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.372,
+                    "z": -100.0
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 76.684,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 33.691,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -6.677,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -185.326,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 0,
+                "Name": 0,
+                "TitleName": "",
+                "Describe": "",
+                "Weight": 0.0,
+                "Purchase": 0,
+                "Price": 0,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 0.0,
+                "AddMaxHpNum": 0
+              }
+            },
+            {
+              "SpawnTime": 60.0,
+              "Name": "Weapon Quality Totem",
+              "Describe": "武器品质升级图腾",
+              "posCount": 4,
+              "specialPosition": {
+                "Array": [
+                  {
+                    "x": -21.93,
+                    "y": 9.121,
+                    "z": -104.22
+                  },
+                  {
+                    "x": -105.66,
+                    "y": 7.525,
+                    "z": -70.62
+                  },
+                  {
+                    "x": -94.04,
+                    "y": 5.27,
+                    "z": 163.18
+                  },
+                  {
+                    "x": 183.8,
+                    "y": 4.83,
+                    "z": -48.9
+                  }
+                ]
+              },
+              "specialRotation": {
+                "Array": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 37.24,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -24.158,
+                    "z": 0.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": -88.658,
+                    "z": 0.0
+                  }
+                ]
+              },
+              "specialScale": {
+                "Array": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  }
+                ]
+              },
+              "riftMerchantItem": {
+                "ID": 998,
+                "Name": 9,
+                "TitleName": "Totem of the Radiant Brand",
+                "Describe": "因为使用同样的面板，模拟数据",
+                "Weight": -1.0,
+                "Purchase": 3,
+                "Price": 2000,
+                "WeaponWeightNum": 0,
+                "weaponIDTypes": {
+                  "Array": []
+                },
+                "weaponIDTypeWeight": {
+                  "Array": []
+                },
+                "WeaponQailty": 0,
+                "gearTypeWeight": {
+                  "Array": []
+                },
+                "EquipQailty": 0,
+                "IncreasesWeaponDamage": 25.0,
+                "AddMaxHpNum": 0
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

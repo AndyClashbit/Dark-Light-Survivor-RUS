@@ -1,0 +1,5013 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4321
+  },
+  "m_Name": "English (en-US)",
+  "localizationSettings": {
+    "m_FileID": 0,
+    "m_PathID": 5653
+  },
+  "languageID": "en-US",
+  "languageName": "English",
+  "localizedName": "English (US)",
+  "tableList": {
+    "Array": [
+      {
+        "table": {
+          "m_FileID": 0,
+          "m_PathID": 5654
+        },
+        "tableContent": {
+          "Array": [
+            {
+              "key": "AchievementsTitle",
+              "value": "Достижения",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementLegendary",
+              "value": "Легендарное",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementRare",
+              "value": "Редкое",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementCommon",
+              "value": "Обычное",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonAll",
+              "value": "Все",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Part1",
+              "value": "Нажмите",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Key",
+              "value": "Любую клавишу",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Part2",
+              "value": "Для старта",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonGoBack",
+              "value": "// Назад",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "StoryModeTitle",
+              "value": "Играть",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MultiplayerTitle",
+              "value": "Мультиплеер",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitTitle",
+              "value": "Выход",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExtrasTitle",
+              "value": "Дополнительно",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsTitle",
+              "value": "Настройки",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GeneralTitle",
+              "value": "Общие",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ControlsTitle",
+              "value": "Управление",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AudioTitle",
+              "value": "Аудио",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VisualsTitle",
+              "value": "Графика",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MultiplayerSearchingLabel",
+              "value": "Поиск игр...",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LanguageTitle",
+              "value": "Язык",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsTitle",
+              "value": "Новости",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonMoreDetails",
+              "value": "Подробнее",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemTitle1",
+              "value": "Добро пожаловать в Reach UI",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemDescription1",
+              "value": "Это панель, где вы можете увидеть последние обновления, список изменений и многое другое.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemTitle2",
+              "value": "Полностью настраиваемый",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemDescription2",
+              "value": "Вы можете добавлять новые элементы, изменять размер или внешний вид панели, настраивая пресет новости.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemTitle3",
+              "value": "Легко добавляйте новый контент",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemDescription3",
+              "value": "Вы можете легко добавлять новые элементы слайдера с помощью компонента 'News Slider', добавленного к объекту слайдера.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementHiddenTitle",
+              "value": "Скрытое достижение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementHiddenDesc",
+              "value": "Это скрытое достижение, его нужно разблокировать для просмотра.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementSampleTitle",
+              "value": "Пример достижения",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementSampleDesc",
+              "value": "Это пример достижения для демонстрационных целей.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DiscordDescription",
+              "value": "Присоединяйтесь к Discord",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TwitterDescription",
+              "value": "Следите за нами в Twitter",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterContinue",
+              "value": "Продолжить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterPlay",
+              "value": "Играть",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterReplay",
+              "value": "Переиграть",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterCompleted",
+              "value": "Завершено",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterUnlocked",
+              "value": "Разблокировано",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterLocked",
+              "value": "Заблокировано",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter1Title",
+              "value": "Глава 1",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter1Description",
+              "value": "Это поле описания. Вы можете рассказать здесь что-нибудь о главе. Это многострочное поле, размер которого автоматически подстраивается под его содержимое. Вы также можете использовать любой формат текста, поддерживаемый TMP. Вы можете использовать компонент 'Chapter Manager' для внесения любых изменений в панель главы. Не волнуйтесь, он очень прост в использовании!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter2Title",
+              "value": "Глава 2",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter2Description",
+              "value": "Это поле описания. Вы можете рассказать здесь что-нибудь о главе. Это многострочное поле, размер которого автоматически подстраивается под его содержимое. Вы также можете использовать любой формат текста, поддерживаемый TMP. Вы можете использовать компонент 'Chapter Manager' для внесения любых изменений в панель главы. Не волнуйтесь, он очень прост в использовании!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter3Title",
+              "value": "Глава 3",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter3Description",
+              "value": "Это поле описания. Вы можете рассказать здесь что-нибудь о главе. Это многострочное поле, размер которого автоматически подстраивается под его содержимое. Вы также можете использовать любой формат текста, поддерживаемый TMP. Вы можете использовать компонент 'Chapter Manager' для внесения любых изменений в панель главы. Не волнуйтесь, он очень прост в использовании!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter4Title",
+              "value": "Глава 4",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter4Description",
+              "value": "Это поле описания. Вы можете рассказать здесь что-нибудь о главе. Это многострочное поле, размер которого автоматически подстраивается под его содержимое. Вы также можете использовать любой формат текста, поддерживаемый TMP. Вы можете использовать компонент 'Chapter Manager' для внесения любых изменений в панель главы. Не волнуйтесь, он очень прост в использовании!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonCancel",
+              "value": "Отмена",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonConfirm",
+              "value": "Подтвердить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitModalDescription",
+              "value": "Вы уверены, что хотите выйти? Это действие нельзя отменить.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LabelOn",
+              "value": "Вкл",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LabelOff",
+              "value": "Выкл",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsTitle",
+              "value": "Титры",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SelectLabel",
+              "value": "Выбрать",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NavigateLabel",
+              "value": "Навигация",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PrevChapterLabel",
+              "value": "Предыдущая глава",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NextChapterLabel",
+              "value": "Следующая глава",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GoBackLabel",
+              "value": "Назад",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PrevCategoryLabel",
+              "value": "Предыдущая категория",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NextCategoryLabel",
+              "value": "Следующая категория",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BoostCreditsLabel",
+              "value": "Ускорение (Удерживать)",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CloseLabel",
+              "value": "Закрыть",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ControllerLayoutTitle",
+              "value": "Раскладка контроллера",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsVoiceover",
+              "value": "Озвучка",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsCreatedBy",
+              "value": "Создано",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsArtDesign",
+              "value": "Дизайн",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsProgrammer",
+              "value": "Программирование",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsSoundDesign",
+              "value": "Звук",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsConceptArtist",
+              "value": "Концепт-арт",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsVFXArtist",
+              "value": "VFX-художник",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsUI",
+              "value": "Интерфейс",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsPlaytesters",
+              "value": "Тестировщики",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WebsiteDescription",
+              "value": "Посетите наш сайт",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TikTokDescription",
+              "value": "Следите за нами в TikTok",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "YouTubeDescription",
+              "value": "Подпишитесь на YouTube",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableHintsLabel",
+              "value": "Включить подсказки",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableTutorialsLabel",
+              "value": "Включить обучение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIScaleLabel",
+              "value": "Масштаб интерфейса",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SubtitleScaleLabel",
+              "value": "Размер субтитров",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableSubtitlesLabel",
+              "value": "Включить субтитры",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VolumeHeader",
+              "value": "Громкость",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MasterVolumeLabel",
+              "value": "Общая громкость",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MusicVolumeLabel",
+              "value": "Громкость музыки",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SFXVolumeLabel",
+              "value": "Громкость эффектов",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIVolumeLabel",
+              "value": "Окружение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DisplayHeader",
+              "value": "Дисплей",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ResolutionLabel",
+              "value": "Разрешение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableHintsDesc",
+              "value": "Играете впервые? Хотите узнать что-то новое во время игры? Если да, вы можете включить эту опцию.\n\n*Это нефункциональный заполнитель.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableSubtitlesDesc",
+              "value": "Смотрите, что говорят люди на экране.\n\n*Это нефункциональный заполнитель.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LanguageDesc",
+              "value": "Выберите предпочитаемый язык.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIScaleDesc",
+              "value": "Слишком большой? Слишком маленький? Вы можете изменить размер интерфейса здесь.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SubtitleScaleDesc",
+              "value": "Слишком большие? Слишком маленькие? В любом случае, здесь можно настроить размер субтитров.\n\n*Это нефункциональный заполнитель.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MasterVolumeDesc",
+              "value": "Увеличить или уменьшить общую громкость игры можно с помощью этого ползунка.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MusicVolumeDesc",
+              "value": "Увеличить или уменьшить громкость музыки можно с помощью этого ползунка.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SFXVolumeDesc",
+              "value": "Увеличить или уменьшить громкость эффектов можно с помощью этого ползунка.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIVolumeDesc",
+              "value": "Если вы хотите уменьшить или увеличить громкость интерфейса игры, вы можете использовать этот ползунок.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ResolutionDesc",
+              "value": "Экраны с более высоким разрешением способны выдавать более четкое, ясное и детализированное изображение. Вы можете выбрать любое желаемое разрешение.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsDesc",
+              "value": "Настройте параметры для более комфортной игры! Переключайтесь между категориями с помощью кнопок сверху.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VSyncLabel",
+              "value": "Вертикальная синхронизация",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VSyncDesc",
+              "value": "Вертикальная синхронизация — это графическая технология, отвечающая за синхронизацию частоты кадров игры с частотой обновления монитора. Эта синхронизация обеспечивает плавный, непрерывный игровой процесс в требовательных 3D-играх.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FrameRateLabel",
+              "value": "Частота кадров",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FrameRateDesc",
+              "value": "Ограничение частоты кадров. Рекомендуется установить это значение в соответствии с частотой обновления вашего монитора. Обратите внимание, что эта опция не действует, если включена вертикальная синхронизация.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FrameRateUnlimited",
+              "value": "Неограниченно",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WindowModeLabel",
+              "value": "Режим окна",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WindowModeDesc",
+              "value": "Выберите предпочтительный оконный режим. Если вы испытываете задержку ввода, попробуйте режим <b>Полный экран</b>.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BorderlessLabel",
+              "value": "Без рамок",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FullscreenLabel",
+              "value": "Полный экран",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WindowedLabel",
+              "value": "В окне",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsLogoDescription",
+              "value": "Здесь располагается необязательная сноска.\nВы можете добавить сюда дополнительную информацию или сведения о лицензии.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AccessibilityTitle",
+              "value": "Доступность",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SearchLabel",
+              "value": "Поиск",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CancelSearchLabel",
+              "value": "Отменить поиск",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GameModeLabel",
+              "value": "Режим игры",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PlayLabel",
+              "value": "Играть",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SearchingLabel",
+              "value": "Поиск...",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DeathmatchLabel",
+              "value": "Бой насмерть",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CTFLabel",
+              "value": "Захват флага",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ConquestLabel",
+              "value": "Захват",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PauseMenuContinue",
+              "value": "Продолжить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitMainMenuTitle",
+              "value": "Выйти в главное меню",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitMainMenuDescription",
+              "value": "Вы уверены, что хотите выйти в главное меню? Весь несохраненный прогресс будет утерян.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "QuestTextSample",
+              "value": "Пример описания задания",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NotificationTextSample",
+              "value": "Задание выполнено <b>[+50 XP]</b>",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PausedLabel",
+              "value": "Пауза",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualityLabel",
+              "value": "Качество текстур",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualityDesc",
+              "value": "Текстуры более высокого качества обеспечивают значительно лучшую детализацию, но также требуют больше видеопамяти и ресурсов графического процессора.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsLow",
+              "value": "Низкое",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsMedium",
+              "value": "Среднее",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsHigh",
+              "value": "Высокое",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsUltra",
+              "value": "Ультра",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AnisotropicFilteringLabel",
+              "value": "Анизотропная фильтрация",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AnisotropicFilteringDesc",
+              "value": "Фильтрация текстур делает отдаленные объекты в играх более четкими. Она работает за счет улучшения внешнего вида текстур, видимых под острым углом.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CamAndPlayerLabel",
+              "value": "Камера и Игрок",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CamSensitivityLabel",
+              "value": "Чувствительность камеры",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CamSensitivityDesc",
+              "value": "Регулировка чувствительности камеры.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintModeLabel",
+              "value": "Режим спринта",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintModeLabelDesc",
+              "value": "Укажите, хотите ли вы бежать при удержании кнопки или по переключению.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintToggleLabel",
+              "value": "Переключение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintHoldLabel",
+              "value": "Удерживать",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ReverseLookLabel",
+              "value": "Инверсия обзора",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ReverseLookDesc",
+              "value": "Инвертирует обзор камеры, если включено.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "KeyBindingsHeader",
+              "value": "Назначение клавиш",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AdvancedHeader",
+              "value": "Дополнительно",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ScrollLabel",
+              "value": "Прокрутка",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LobbyLabel",
+              "value": "Лобби",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ReadyLabel",
+              "value": "Готов",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NotReadyLabel",
+              "value": "Не готов",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UnreadyLabel",
+              "value": "Не готов",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Touchscreen",
+              "value": "Сенсор",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShopTitle",
+              "value": "Магазин",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WeaponsTitle",
+              "value": "Оружие",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ClothesTitle",
+              "value": "Одежда",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VehiclesTitle",
+              "value": "Транспорт",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchaseItemTitle",
+              "value": "Купить предмет",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchaseItemDescription",
+              "value": "Вы уверены, что хотите купить этот предмет?",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SampleShopItemTitle",
+              "value": "Пример названия",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SampleShopItemDescription",
+              "value": "Описание кнопки магазина здесь. Поддерживает несколько строк.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchasedLabel",
+              "value": "Куплено",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchaseLabel",
+              "value": "Купить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "KeyboardMapping",
+              "value": "Настройка клавиатуры",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reset Key",
+              "value": "Сбросить клавишу",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Controller Icons",
+              "value": "Иконки контроллера",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Select Gamepad Icon",
+              "value": "Выбрать иконку геймпада",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Auto Detect",
+              "value": "Автоопределение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Use PS4 Icons",
+              "value": "Значки PS4",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Use Xbox Icons",
+              "value": "Значки Xbox",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Equip",
+              "value": "Экипировать",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UnEquip",
+              "value": "Снять",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Upgrade",
+              "value": "Улучшить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Rotate",
+              "value": "Вращение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Drop",
+              "value": "Выбросить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enter",
+              "value": "Войти",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Toggle Legend",
+              "value": "Легенда",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Zoom",
+              "value": "Зум",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Move",
+              "value": "Движение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ARTIFACT COLLECTION",
+              "value": "КОЛЛЕКЦИЯ АРТЕФАКТОВ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SELL",
+              "value": "ПРОДАТЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Comfirm",
+              "value": "Подтвердить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Remove",
+              "value": "Удалить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Mark",
+              "value": "Метка",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "\rReturn to Town",
+              "value": "\rВернуться в город",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LowLabel",
+              "value": "Низкое",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "HighLabel",
+              "value": "Высокое",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MediumLabel",
+              "value": "Среднее",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "_0Label",
+              "value": "0",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "_50Label",
+              "value": "50",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "_100Label",
+              "value": "100",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableFSR3Label",
+              "value": "Включить FSR3",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableFSR3Desc",
+              "value": "Низкое значение дает наибольшую скорость, но снижает качество изображения. Высокое значение уделяет больше внимания качеству картинки, при этом увеличивая частоту кадров.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GrassSettingLabel",
+              "value": "ПЛОТНОСТЬ ТРАВЫ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GrassSettingDesc",
+              "value": "Регулирует количество и качество травы.\nНизкие значения улучшают производительность.\nВысокие значения улучшают визуальное качество, но могут снизить производительность.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Back",
+              "value": "Назад",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Intro",
+              "value": "Вступление",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Open",
+              "value": "Открыть",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Highest",
+              "value": "Максимальное",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FRS3AntiGhost",
+              "value": "FSR3AntiGhost",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FSR3Quality",
+              "value": "Качество FSR3",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FSR3QualityDesc",
+              "value": "Чем ниже качество, тем выше производительность.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FRS3AntiGhostDes",
+              "value": "Более высокие значения делают изображение четче, в то время как более низкие улучшают производительность.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Commune",
+              "value": "Общение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Leave",
+              "value": "Покинуть",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Melee Attack",
+              "value": "Ближний бой",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Ranged Attack",
+              "value": "Дальний бой",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChangeView",
+              "value": "Сменить вид",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Roll",
+              "value": "Кувырок",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Auto Attack",
+              "value": "Автоатака",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Next Weapon",
+              "value": "След. оружие",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Previous Weapon",
+              "value": "Пред. оружие",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Traverse The Realms",
+              "value": "Путешествие по мирам",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Bind Relics",
+              "value": "Привязать реликвии",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Manifest Form",
+              "value": "Манифестация формы",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Control Hint",
+              "value": "Подсказка по управлению",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Inventory",
+              "value": "Инвентарь",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WeaponUpgrade",
+              "value": "Улучшение оружия",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Camera Switch",
+              "value": "Переключение камеры",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Motion Blur",
+              "value": "Размытие в движении",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Pixel Mode",
+              "value": "Пиксельный режим",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Comfirm/Remove Hold To Drag",
+              "value": "Подтвердить/Удалить (Удерживайте для перетаскивания)",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Horizontal Sensitivity",
+              "value": "Чувствительность обзора X",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Vertical Sensitivity",
+              "value": "Чувствительность обзора Y",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveForward",
+              "value": "Движение вперед",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveBack",
+              "value": "Движение назад",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveLeft",
+              "value": "Движение влево",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveRight",
+              "value": "Движение вправо",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reload",
+              "value": "Перезарядка",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Interact",
+              "value": "Взаимодействие",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Weapon Upgrade",
+              "value": "Улучшение оружия",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enable Auto Aim",
+              "value": "Автоприцеливание",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Use Curve Aim",
+              "value": "Использовать кривую прицеливания",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BOUND OATHS",
+              "value": "СВЯЗАННЫЕ КЛЯТВЫ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Skill Tree",
+              "value": "Древо навыков",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Forget All Skill",
+              "value": "Сбросить все навыки",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RoleSkill",
+              "value": "Навык",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Study",
+              "value": "Получить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Offer Voidmarks",
+              "value": "Предложить Метки Пустоты",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Active Skill",
+              "value": "Активный навык",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AddVoidMarks",
+              "value": "Добавить Метки Пустоты",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ClearVoidMarks",
+              "value": "Очистить Метки Пустоты",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PASSIVE SKILLS",
+              "value": "ПАССИВНЫЕ НАВЫКИ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ACTIVE SKILLS",
+              "value": "АКТИВНЫЕ НАВЫКИ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ForgetSkills",
+              "value": "Сброс",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Study_Active",
+              "value": "Изучить (Удерживайте для перетаскивания)",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Wishlist",
+              "value": "В список желаемого!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Artifact",
+              "value": "АРТЕФАКТЫ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "KNIGHT CLASS  |  ORDER OF THE SUNKEN LIGHT",
+              "value": "КЛАСС РЫЦАРЬ  |  ОРДЕН ЗАТОНУВШЕГО СВЕТА",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SortingByDefault",
+              "value": "Сортировка по умолчанию",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SortingByRank",
+              "value": "Сортировка по рангу",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SortingByTime",
+              "value": "Сортировка по времени",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FeedbackDescription",
+              "value": "Помощь и Отзывы",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Leaderboard",
+              "value": "Таблица лидеров",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ParticipationRankingList",
+              "value": "Изменить имя",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RankingList",
+              "value": "Таблица лидеров",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Change",
+              "value": "Изменить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WorldMapUI",
+              "value": "Интерфейс карты",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "The Nexus Hold",
+              "value": "Нексус",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Oblivion Array",
+              "value": "Массив Забвения",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": " Vharzeth, Lord of Cinders",
+              "value": " Варзет, Повелитель Пепла",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Vault of the Dead Star",
+              "value": "Хранилище Мертвой Звезды",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": " Kingdom of Forgotten Sins",
+              "value": " Королевство Забытых Грехов",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Fractured Zenith",
+              "value": "Расколотый Зенит",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "The Nexus Hold_Intro",
+              "value": "Дрейфующая цитадель из ржавой стали и разбитого камня. Призрачный поезд прибывает на станцию, выжившие обменивают Метки Пустоты, а ветер разносит молитвы богам, которые больше не отвечают. Черное море выходит из берегов. Его холодные воды скоро поглотят Нексус.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Oblivion Array_Intro",
+              "value": "Разрушенный круг мировых врат, парящий в разорванном небе. Радиоскоп сканирует и пробуждает то, что лучше бы оставалось спать. Ксибал питается от узла, в то время как Чаак направляет молнии через соединения. Двигайтесь быстро, иначе пути закроются, и этот массив станет гробницей.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "The Nexus Hold NoSpace",
+              "value": "Нексус",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Oblivion Array NoSpace",
+              "value": "Массив Забвения",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MAIN BOSS",
+              "value": "ГЛАВНЫЙ БОСС",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FACTION BOSS",
+              "value": "БОСС ФРАКЦИИ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "OPTIONAL BOSS",
+              "value": "НЕОБЯЗАТЕЛЬНЫЙ БОСС",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "QUEST",
+              "value": "КВЕСТ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RESPAWN POINT",
+              "value": "ТОЧКА ВОЗРОЖДЕНИЯ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GameLobbyPanel",
+              "value": "Панель лобби",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Awaken a Champion",
+              "value": "Пробудить чемпиона",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "THIS FATE HAS NOT AWAKENED",
+              "value": "ЭТА СУДЬБА НЕ ПРОБУДИЛАСЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enter THE VOID",
+              "value": "Войти в ПУСТОТУ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GameEndPanel",
+              "value": "Панель окончания игры",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VOIDMARKS |",
+              "value": "МЕТКИ ПУСТОТЫ |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Voidmarks From Kills",
+              "value": "Метки Пустоты за убийства",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Voidmarks From Survival",
+              "value": "Метки Пустоты за выживание",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Voidmarks From Chests",
+              "value": "Метки Пустоты из сундуков",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Regular Enemies Defeated",
+              "value": "Рядовых врагов побеждено",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Elite Enemies Defeated",
+              "value": "Элитных врагов побеждено",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Bosses Enemies Defeated",
+              "value": "Босс побежден",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PLAYER LEVEL |",
+              "value": "УРОВЕНЬ ИГРОКА |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WORLD NAME |",
+              "value": "МИР |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DC COLLECTED |",
+              "value": "DC СОБРАНО |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BEST RECORD |",
+              "value": "ЛУЧШИЙ РЕЗУЛЬТАТ |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SURVIVAL TIME | ",
+              "value": "ВРЕМЯ ВЫЖИВАНИЯ | ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LEGACY OF THE FALLEN",
+              "value": "НАСЛЕДИЕ ПАВШИХ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Next Category",
+              "value": "След. категория",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Previous Category",
+              "value": "Пред. категория",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BackPackPanel",
+              "value": "Панель инвентаря",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Damage",
+              "value": "Урон",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "REACH",
+              "value": "ДИСТАНЦИЯ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ATTACK SPEED",
+              "value": "СКОРОСТЬ АТАКИ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FIRE RATE",
+              "value": "СКОРОСТРЕЛЬНОСТЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ACCURACY",
+              "value": "ТОЧНОСТЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CAPCITY",
+              "value": "ЁМКОСТЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Stats",
+              "value": "Хар-ки",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Upgrade equipped",
+              "value": "Улучшить снаряжение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Skills Acquired:",
+              "value": "Полученные навыки:",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CURRENCY HELD |",
+              "value": "ВАЛЮТА |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Strength",
+              "value": "Сила",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Dexterity",
+              "value": "Ловкость",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Cybernetics",
+              "value": "Кибернетика",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Fury",
+              "value": "Ярость",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Faith",
+              "value": "Вера",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Vitality",
+              "value": "Живучесть",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "World of Dark Light Survivor",
+              "value": "Мир Dark Light Survivor",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "REROLL",
+              "value": "ПЕРЕБРОСИТЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DARK VOID DEVOURS",
+              "value": "ТЕМНАЯ ПУСТОТА ПОГЛОЩАЕТ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DARK LIGHT SURVIVOR",
+              "value": "DARK LIGHT SURVIVOR",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "YOUR WISHLIST FUELS US",
+              "value": "ВАШИ ЖЕЛАНИЯ ПИТАЮТ НАС",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Wishlist!",
+              "value": "В список желаемого!",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WEAPONS",
+              "value": "ОРУЖИЕ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "INVENTORY",
+              "value": "ИНВЕНТАРЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Help & Feedback",
+              "value": "Помощь и Отзывы",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "REROLL_REChoice",
+              "value": "ПЕРЕБРОСИТЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "             UNAVAILABLE  \n AT THIS TIME",
+              "value": "             НЕДОСТУПНО  \n В ДАННЫЙ МОМЕНТ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CLASS",
+              "value": "КЛАСС",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ATTRIBUTE POINTS",
+              "value": "ОЧКИ ХАРАКТЕРИСТИК",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WorldMapIntro",
+              "value": "Мультивселенная расколота. Пустота проникает сквозь пробитое небо. Троны пустуют.\n\nНексус дрейфует по бесконечному черному морю. Железо стонет. Пар шепчет в пустых залах. Между умирающими мирами осталась лишь одна дорога — Призрачный поезд.\n\nЕго печь пылает силой, отнятой у павших владык.\n\nХранители-машины оберегают угасающий свет. Выжившие обмениваются слухами и реликвиями. Вдоль путей без предупреждения появляются Архонты. Их дары имеют свою цену. Их вражда древнее самой памяти.\n\nВ разрушенных мирах лежат руины городов и древние поля сражений. Ржавая броня, изодранные знамена, сломанные винтовки и клинки. Оболочки паразитов гниют, пока воскресшие машины бродят под небом, которое никогда не проснется.\n\nНад руинами властвует рогатый тиран, заявляющий права на этот осколок реальности.\n\nСразите этих правителей, и Призрачный поезд с воем помчится дальше: каждая победа — это еще один робкий шаг к Элизиуму.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enter World",
+              "value": "Войти в мир",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reset All Buttons",
+              "value": "Сбросить всё",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "This key is already assigned to [Action]. Do you want to reassign it?",
+              "value": "Эта клавиша уже назначена для [Action]. Вы хотите переназначить её?",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enable FSR3",
+              "value": "Включить FSR3",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Grass Setting",
+              "value": "Качество травы",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Auto",
+              "value": "Авто",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Name your champion",
+              "value": "Назовите вашего героя",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Name",
+              "value": "Имя",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NameIntro",
+              "value": "Назови своего героя, странник. Это имя будет отображаться в глобальных таблицах лидеров. Ты можешь изменить его в меню «Настройки | Общие».",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CONFIRM",
+              "value": "ПОДТВЕРДИТЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SKIP",
+              "value": "ПРОПУСТИТЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Media Preview",
+              "value": "Новости",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MediaPreviewIntro",
+              "value": "Спасибо за поддержку Dark Light: Survivor.\n\nЭта сборка дает вам возможность одними из первых взглянуть на игру: для тестирования доступны все 3 карты раннего доступа и 3 игровых класса.\n\nПоскольку это версия раннего доступа, вы можете столкнуться с ошибками. Мы регулярно обновляем игру и продолжаем добавлять новые функции.\n\nМы — небольшая инди-команда, и ваши отзывы очень важны для нас. Если вам нравится игра, пожалуйста, поделитесь своим мнением в сообществе и следите за развитием проекта.\n\nОбратите внимание, что баланс, контент и другие элементы игры могут изменяться в процессе раннего доступа.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Your Name...",
+              "value": "Ваше имя...",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ARMOUR",
+              "value": "БРОНЯ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Pass",
+              "value": "Пропустить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ADD",
+              "value": "ДОБАВИТЬ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ON STEAM",
+              "value": "В STEAM",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PICK UP ITEM ",
+              "value": "ПОДОБРАТЬ ПРЕДМЕТ ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Trade Riftmerchant",
+              "value": "Взаимодействие",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RiftMerchant",
+              "value": "Торговец Разлома",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Salvage Kill",
+              "value": "Разобрать трофей",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Salvage Weapon",
+              "value": "Разобрать оружие",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Confirm/Remove Hold To Drag",
+              "value": "Подтвердить/Удалить (Удерживайте для перетаскивания)",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SOUL OF THE VOID TITAN SEIZED",
+              "value": "ДУША ТИТАНА ПУСТОТЫ ЗАХВАЧЕНА",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": " Kingdom of Forgotten SinsNpSpace",
+              "value": " Королевство Забытых Грехов",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Fractured ZenithNoSpace",
+              "value": "Расколотый Зенит",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Ashfen of Fractured Suns",
+              "value": "Эшфен Расколотых Солнц",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AutoEquipWeapon",
+              "value": "Автоэкипировка оружия",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Melee Attack Camera Shake",
+              "value": "Тряска камеры в ближнем бою",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Ranged Attack Camera Shake",
+              "value": "Тряска камеры в дальнем бою",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Switch Comparison",
+              "value": "Сравнить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting",
+              "value": "Качество текстур",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting_High",
+              "value": "Высокое",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting_Medium",
+              "value": "Среднее",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting_Low",
+              "value": "Низкое",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualitySettingLabel",
+              "value": "Настройка качества текстур",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualitySettingDesc",
+              "value": "Высокое: Играть в обычном режиме со стандартным качеством текстур\nСреднее: Немного снизить качество текстур\nНизкое: Значительно снизить качество текстур",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Previous CategoryLabal",
+              "value": "Пред. категория",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Next CategoryLabal",
+              "value": "След. категория",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Add50DC",
+              "value": "+50 DC",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Salvage",
+              "value": "Разобрать",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShadowQualitySettingLabel",
+              "value": "Качество теней",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShadowQualitySettingDesc",
+              "value": "Настраивает разрешение теней и дальность прорисовки",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WaterQualitySettingLabel",
+              "value": "Качество воды",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShadowQualitySettingDesc",
+              "value": "Настраивает уровень детализации эффектов поверхности воды.",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VisitTheStore",
+              "value": "В магазин",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Buy",
+              "value": "Купить",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SHOP",
+              "value": "МАГАЗИН",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PreviousLabel",
+              "value": "Назад",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NextLabel",
+              "value": "Далее",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Block",
+              "value": "Блок",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Aim",
+              "value": "Прицел",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Sprint",
+              "value": "Спринт",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reload/Interact",
+              "value": "Перезарядка / Взаимодействие",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Items",
+              "value": "Предметы",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AutoAtk",
+              "value": "Авто",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfMeleeBattle",
+              "value": "Вне ближнего боя",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfRangeBattle",
+              "value": "Вне дальнего боя",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfMeleeBattleDesc",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfRangeBattleDesc",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MagicAttack",
+              "value": "Магическая атака",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Magic wand / Shield block",
+              "value": "Блокирование щитом",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GroundFogSettingDesc",
+              "value": "Переключение дополнительного наземного тумана",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Restart",
+              "value": "Начать сначала",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Begin Anew",
+              "value": "Начать заново",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Volumetric Fog",
+              "value": "Объемный туман",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Sunless Keep",
+              "value": "Безсолнечная крепость",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Battlefield Of The Black Sun",
+              "value": "Поле битвы Черного Солнца",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Choose Realm",
+              "value": "Выберите мир",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Unlock",
+              "value": "Открыть",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Upgrade Equipped",
+              "value": "Улучшить снаряжение",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Unlocked",
+              "value": "Разблокировано",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CrosshairSize",
+              "value": "Размер прицела",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Change Crosshair Color",
+              "value": "Изменить цвет прицела",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Custom Color",
+              "value": "Свой цвет",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Color",
+              "value": "Цвет",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Crosshair Color",
+              "value": "Цвет прицела",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ADS Horizontal Sensitivity",
+              "value": "Чувствительность прицеливания X",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ADS Vertical Sensitivity",
+              "value": "Чувствительность прицеливания Y",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Third-Person Aiming",
+              "value": "Камера и прицел от 3-го лица",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Top-Down Aiming",
+              "value": "Камера и прицел сверху",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Aiming Horizontal Sensitivity",
+              "value": "Чувствительность наведения X",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Aiming Vertical Sensitivity",
+              "value": "Чувствительность наведения Y",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "QualitySettingLabel",
+              "value": "Настройка качества",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_High",
+              "value": "Высокое качество",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_Medium",
+              "value": "Сбалансировано",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_SteakDeck",
+              "value": "SteamDeck",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_custom",
+              "value": "Свой",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Quality Preset",
+              "value": "Пресет качества",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Graphics Quality",
+              "value": "Качество графики",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Show Input Prompts",
+              "value": "Подсказки ввода",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SelectDifficultDes",
+              "value": "Выбор сложности",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_Optimized",
+              "value": "Оптимизировано",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

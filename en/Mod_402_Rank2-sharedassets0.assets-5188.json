@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_402_Rank2",
+  "OnlyId": 0,
+  "ModId": 4021,
+  "RankId": 2,
+  "RankWeight": 1.0,
+  "ModName": "Hipfire Laser II",
+  "ModDec": "+{0}% Accuracy for close-range shots",
+  "ModIndex": 4,
+  "modAddType": 55,
+  "modAddValue1": 10.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "Laser",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      17,
+      0,
+      13,
+      12,
+      7,
+      35,
+      34,
+      59,
+      63,
+      69,
+      66,
+      64
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5094
+  },
+  "m_Name": "Magic Mace",
+  "Id": 58,
+  "Name": "Magic_Mace",
+  "Name_OnlyShowAsUI": "Cinder Scepter",
+  "Dec": "A powerful fire staff that channels blazing sorcery into searing projectiles. With further upgrades, its flames split into multiple fireballs, engulfing everything in their path.",
+  "GearId": 0,
+  "ShieldAnimId": 0,
+  "shieldEquipSlot": 0,
+  "UseAnimIdx": 2,
+  "GameMainIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1875
+  },
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 1742
+  },
+  "BackpackIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1742
+  },
+  "BackpackWidth": 2,
+  "BackpackHeight": 3,
+  "weaponTypeMeleeOrRange": 3,
+  "weaponKindType": 8,
+  "magicElementType": 1,
+  "MuzzlePosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "GunSightPosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "ClipPosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "WeaponRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -90.0
+  },
+  "WeaponPosition": {
+    "x": 0.12,
+    "y": 0.15,
+    "z": 0.0
+  },
+  "WeaponScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "RemoteModSoltListIndex": {
+    "Array": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  "WeaponCanUseName": {
+    "Array": []
+  },
+  "WeaponCanUseDes": {
+    "Array": [
+      "A powerful fire staff that channels blazing sorcery into searing projectiles. With further upgrades, its flames split into multiple fireballs, engulfing everything in their path."
+    ]
+  },
+  "BackPackWeaponPosition": {
+    "x": 0.0337,
+    "y": 0.0642,
+    "z": 0.0162
+  },
+  "BackPackWeaponRotation": {
+    "x": 195.834,
+    "y": 167.383,
+    "z": -151.736
+  },
+  "BackPackWeaponScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "BackPackWeaponPosition2": {
+    "x": -0.0487,
+    "y": -0.0505,
+    "z": -0.0277
+  },
+  "BackPackWeaponRotation2": {
+    "x": 170.531,
+    "y": -7.414001,
+    "z": -38.03799
+  },
+  "BackPackWeaponScale2": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "PlayerWeaponPosition": {
+    "x": 0.0236,
+    "y": 0.0872,
+    "z": 0.0226
+  },
+  "PlayerWeaponRotation": {
+    "x": -1.863,
+    "y": -11.921,
+    "z": -339.33
+  },
+  "PlayerWeaponScale": {
+    "x": 1.2,
+    "y": 1.1,
+    "z": 1.2
+  },
+  "Player2WeaponPosition": {
+    "x": -0.097,
+    "y": -0.0549,
+    "z": -0.0399
+  },
+  "Player2WeaponRotation": {
+    "x": 183.602,
+    "y": -12.057,
+    "z": -1.546021
+  },
+  "Player2WeaponScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "Player3WeaponPosition_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponRotation_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponScale_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponPosition_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponRotation_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponPosition_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponRotation_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponPosition_NoFight_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponRotation_NoFight_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponPosition": {
+    "x": 0.0,
+    "y": -18.3,
+    "z": -10.0
+  },
+  "BagWeaponRotation": {
+    "x": 180.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponPositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponPosition_R": {
+    "x": 16.8,
+    "y": 0.0,
+    "z": -10.0
+  },
+  "BagWeaponRotation_R": {
+    "x": 0.0,
+    "y": 180.0,
+    "z": 90.0
+  },
+  "BagWeaponPositionOffset_R": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponScale": {
+    "x": 120.0,
+    "y": 120.0,
+    "z": 120.0
+  },
+  "BagWeaponScaleOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "FireGreatSowrdWeaponScaleBag": {
+    "x": 70.0,
+    "y": 70.0,
+    "z": 70.0
+  },
+  "EquipWeaponPosition": {
+    "x": 0.0,
+    "y": -30.0,
+    "z": -10.0
+  },
+  "EquipWeaponRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 180.0
+  },
+  "EquipWeaponScale": {
+    "x": 165.0,
+    "y": 165.0,
+    "z": 165.0
+  },
+  "FireGreatSowrdWeaponScaleEquip": {
+    "x": 110.0,
+    "y": 110.0,
+    "z": 110.0
+  },
+  "PlayerShieldUnusePosition": {
+    "x": 0.0526,
+    "y": 0.0494,
+    "z": 0.0392
+  },
+  "PlayerShieldUnuseRotation": {
+    "x": -1.303,
+    "y": -4.31,
+    "z": 7.6
+  },
+  "PlayerShieldUnuseScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "Player2ShieldUnusePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnuseRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnuseScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "PlayerOnStunPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "Player2OnStunPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "IsSuperWeapon": 0,
+  "NeedDisableMod": 0,
+  "currentRecoilProfile": {
+    "maxPositionOffset": {
+      "x": 0.0,
+      "y": 0.05,
+      "z": -0.2
+    },
+    "maxRotationOffset": {
+      "x": 0.0,
+      "y": -5.0,
+      "z": 0.0
+    },
+    "decaySpeed": 8.0
+  },
+  "PlayerSkillWeaponPosition2": {
+    "x": -0.097,
+    "y": -0.0549,
+    "z": -0.0399
+  },
+  "PlayerSkillWeaponRotation2": {
+    "x": 183.602,
+    "y": -12.057,
+    "z": -1.546021
+  },
+  "PlayerWeaponPosition_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponRotation_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponPosition_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponRotation_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "weaponAcquireSource": {
+    "WeaponIDType": 58,
+    "EnemyList": {
+      "Array": []
+    },
+    "CanGetFromCommonBox": 0,
+    "CanGetFromSpecialBox": 1,
+    "CanGetFromRiftMerchant": 1,
+    "CanUsePlayerList": {
+      "Array": [
+        0
+      ]
+    },
+    "NewPriceDataList": {
+      "Array": [
+        {
+          "Quality": 0,
+          "NewPrice": 1200
+        }
+      ]
+    },
+    "Weight": 1400,
+    "PurchaseLimitCount": 1,
+    "QualityLimit": {
+      "Array": [
+        0
+      ]
+    }
+  }
+}

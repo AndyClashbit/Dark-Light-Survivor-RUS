@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Magic_Shatterstorm_5",
+  "SkillId": 1227,
+  "SkillName": "Shatterstorm",
+  "SkillIconType": 0,
+  "BaseSkillType": 0,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 5,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Frozen deaths explode.",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2244
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1227,
+        "GuidInSkill": 0,
+        "Rank": 5,
+        "SkillDescribe": "When a Frozen target dies, it explodes for {0} Ice Damage in a small area.",
+        "SkillDamage": 0,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 0.0,
+        "CurTrigerCd": 0.0,
+        "BuffId": 0,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "ShatterstormEffect",
+        "EffectPoint": 6,
+        "TrigerEvent": 5,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 140.0,
+        "describe1": "Damage increase（%）",
+        "Value2": 0.0,
+        "describe2": "",
+        "Value3": 0.0,
+        "describe3": "",
+        "Value4": 0.0,
+        "describe4": "",
+        "Value5": 0.0,
+        "describe5": "",
+        "Value6": 0.0,
+        "describe6": "",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

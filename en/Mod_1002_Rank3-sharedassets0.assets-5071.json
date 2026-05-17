@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_1002_Rank3",
+  "OnlyId": 0,
+  "ModId": 10022,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Core Meltdown Mode III",
+  "ModDec": "{1}% chance to ignite enemies,+{0} fire damage.",
+  "ModIndex": 16,
+  "modAddType": 58,
+  "modAddValue1": 30.0,
+  "modAddValue2": 5.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "CoreMeltdownMode",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      4,
+      19,
+      58,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      55,
+      57,
+      61,
+      62,
+      77,
+      78,
+      79,
+      84,
+      82
+    ]
+  }
+}

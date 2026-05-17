@@ -1,0 +1,157 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3238
+  },
+  "m_Name": "Totem of Static Barrage",
+  "totemID": 7,
+  "totemName": "Totem of Static Barrage",
+  "description": "{0} before the curse claims you. \\n\\nIf the curse endures, you die. If you are struck, you die at once.\\nCast away this weapon to lift the curse. Take it up again, and the curse returns.\\n\\nOn pickup, lose {1} Max Life, {2} Healing Received from orbs, and {3} Lightning Resist.\\nIf struck while standing still, you suffer {4} more damage.",
+  "normalDesc": {
+    "Array": [
+      {
+        "Key": 0,
+        "Value": "Slay 30 foes"
+      }
+    ]
+  },
+  "healDesc": {
+    "Array": []
+  },
+  "reduceDesc": {
+    "Array": [
+      {
+        "Key": 1,
+        "Value": "50%"
+      },
+      {
+        "Key": 2,
+        "Value": "50%"
+      },
+      {
+        "Key": 3,
+        "Value": "20%"
+      },
+      {
+        "Key": 4,
+        "Value": "50%"
+      }
+    ]
+  },
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "type": 7,
+  "curseDuration": 30.0,
+  "isPermanent": 0,
+  "progressType": 1,
+  "progressRequirement": 30.0,
+  "hasCompleted": 0,
+  "hasFailed": 0,
+  "HasWeapon": 1,
+  "isRangeWeapon": 1,
+  "weaponID": 0,
+  "weaponQuality": 0,
+  "WeaponName": "Pistol",
+  "shopItemRarity": 3,
+  "enableMissingHpDamageBonus": 0,
+  "missingHpDamageBonusPercent": 0.0,
+  "missingHpDamageBonusCap": 0.0,
+  "addAllDamagePercent": 0.0,
+  "addMeleeDamagePercent": 0.0,
+  "addRangedDamagePercent": 0.0,
+  "addAttackSpeedPercent": 0.0,
+  "addMovementSpeedPercent": 0.0,
+  "addMaxHpPercent": 0.0,
+  "addFireDamagePercent": 0.0,
+  "addIceDamagePercent": 0.0,
+  "addLightningDamagePercent": 0.0,
+  "addPoisonDamagePercent": 0.0,
+  "addDCDropPercent": 0.0,
+  "addDCIncomePercent": 0.0,
+  "hpThresholdForDamageReduction": 0.0,
+  "damageLimitAbove60": 0.0,
+  "reduceMaxHpPercent": 0.0,
+  "healthOrbHealReductionPercent": 0.0,
+  "potionHealReductionPercent": 0.0,
+  "shopPriceIncreasePercent": 0.0,
+  "dCLossWhenHitPercent": 0.0,
+  "meleeDamageReductionPercent": 0.0,
+  "sprintStaminaCostIncrease": 0.0,
+  "enableEchoStrike": 0,
+  "enableStaticBarrage": 0,
+  "enableEchoShot": 0,
+  "enableExtraLife": 0,
+  "healthOrbDealsDamage": 0,
+  "meleePenaltyWhenStationary": 0,
+  "addFireResistance": 0.0,
+  "addIceResistance": 0.0,
+  "addLightningResistance": 0.0,
+  "addPoisonResistance": 0.0,
+  "addPhysicalResistance": 0.0,
+  "addAllResistance": 0.0,
+  "hpThresholdForPenalty": 0.0,
+  "aboveHpThresholdDamageReduction": 0.0,
+  "damageStackPerHealthOrb": 0.0,
+  "maxDamageStacks": 0,
+  "staticBarrageChainCount": 0,
+  "staticBarrageChainDamage": 0.0,
+  "echoStrikeDamagePercent": 0.0,
+  "echoSelfDamagePercent": 0.0,
+  "echoShotDamagePercent": 0.0,
+  "echoShotTriggerCount": 0,
+  "grantPermanentBonusOnSuccess": 0,
+  "permanentDamageBonus": 0.0,
+  "permanentAttackSpeedBonus": 0.0,
+  "permanentMovementSpeedBonus": 0.0,
+  "permanentDCIncomeBonus": 0.0,
+  "applyPermanentPenaltyOnFail": 0,
+  "permanentMaxHpReduction": 50.0,
+  "instantHpDamagePercent": 0.0,
+  "BindCursedWeapon": 0,
+  "failedHealthOrbHealReductionPercent": 0.0,
+  "failedMaxHPReductionPercent": 0.0,
+  "onTotemActivated": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onTotemSuccess": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onTotemFailed": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "isActive": 1,
+  "currentTime": 2.9812944,
+  "currentProgress": 0.0,
+  "hasCompletedRequirement": 0,
+  "playerHitOnStillDamageValue": 10.0,
+  "haveCursedWeaponReduceMaxHpRef": 50.0,
+  "HealingOrbReduction": 50.0,
+  "PotionHealingReduction": 50.0,
+  "potionsHealDamage": 0.0,
+  "healthOrbHealMaxHpRef": 0.0,
+  "haveCursedWeaponAddFireResistance": 0.0,
+  "haveCursedWeaponAddIceResistance": 0.0,
+  "haveCursedWeaponAddLightningResistance": -20.0,
+  "haveCursedWeaponAddPoisonResistance": 0.0,
+  "haveCursedWeaponAddPhysicalResistance": 0.0,
+  "haveCursedWeaponAddAllResistance": 0.0
+}

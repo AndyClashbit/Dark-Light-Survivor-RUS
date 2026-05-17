@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2552
+  },
+  "m_Name": "Localization Settings",
+  "languages": {
+    "Array": [
+      {
+        "languageID": "Chinese-CN",
+        "languageName": "Chinese",
+        "localizedName": "简体中文",
+        "localizationLanguage": {
+          "m_FileID": 0,
+          "m_PathID": 5651
+        }
+      },
+      {
+        "languageID": "en-US",
+        "languageName": "English",
+        "localizedName": "English (US)",
+        "localizationLanguage": {
+          "m_FileID": 0,
+          "m_PathID": 5652
+        }
+      }
+    ]
+  },
+  "tables": {
+    "Array": [
+      {
+        "tableID": "UI",
+        "localizationTable": {
+          "m_FileID": 0,
+          "m_PathID": 5654
+        }
+      }
+    ]
+  },
+  "defaultLanguageID": "English (en-US)",
+  "defaultLanguageIndex": 1,
+  "enableExperimental": 0
+}

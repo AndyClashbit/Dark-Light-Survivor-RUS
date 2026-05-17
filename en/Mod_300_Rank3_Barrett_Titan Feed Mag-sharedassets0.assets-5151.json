@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_300_Rank3_Barrett_Titan Feed Mag",
+  "OnlyId": 0,
+  "ModId": 3003,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Titan Feed Mag",
+  "ModDec": "+{0}% Ammo Capacity",
+  "ModIndex": 3,
+  "modAddType": 6,
+  "modAddValue1": 50.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "StandardMag",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      85
+    ]
+  }
+}

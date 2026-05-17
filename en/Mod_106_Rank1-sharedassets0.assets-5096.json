@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_106_Rank1",
+  "OnlyId": 0,
+  "ModId": 1060,
+  "RankId": 1,
+  "RankWeight": 1.0,
+  "ModName": "Recoil Dampener I",
+  "ModDec": "+{0}% Accuracy Less Recoil for smoother control",
+  "ModIndex": 1,
+  "modAddType": 8,
+  "modAddValue1": 10.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "Silencer",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      17,
+      0,
+      13,
+      12,
+      7,
+      35,
+      34,
+      59,
+      63,
+      69,
+      66,
+      64
+    ]
+  }
+}

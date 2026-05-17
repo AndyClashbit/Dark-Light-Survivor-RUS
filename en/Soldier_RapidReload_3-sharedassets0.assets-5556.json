@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Soldier_RapidReload_3",
+  "SkillId": 1320,
+  "SkillName": "Rapid Reload",
+  "SkillIconType": 0,
+  "BaseSkillType": 0,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 3,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Faster reloads grant damage boosts.",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1731
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1320,
+        "GuidInSkill": 0,
+        "Rank": 3,
+        "SkillDescribe": "Increases reload speed by {0}%. After reloading, increases damage by {1}% and movement speed by {2}% for <color=#00FFA6FF>3</color> s.",
+        "SkillDamage": 0,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 0.0,
+        "CurTrigerCd": 0.0,
+        "BuffId": 0,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "",
+        "EffectPoint": 0,
+        "TrigerEvent": 5,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 30.0,
+        "describe1": "reload speed add",
+        "Value2": 20.0,
+        "describe2": "+ damage post reload",
+        "Value3": 20.0,
+        "describe3": "Reload grants move speed (3s)",
+        "Value4": 0.0,
+        "describe4": "",
+        "Value5": 0.0,
+        "describe5": "",
+        "Value6": 0.0,
+        "describe6": "",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,5013 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4321
+  },
+  "m_Name": "Chinese (Chinese-CN)",
+  "localizationSettings": {
+    "m_FileID": 0,
+    "m_PathID": 5653
+  },
+  "languageID": "Chinese-CN",
+  "languageName": "Chinese",
+  "localizedName": "简体中文",
+  "tableList": {
+    "Array": [
+      {
+        "table": {
+          "m_FileID": 0,
+          "m_PathID": 5654
+        },
+        "tableContent": {
+          "Array": [
+            {
+              "key": "AchievementsTitle",
+              "value": "成就",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementLegendary",
+              "value": "传奇",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementRare",
+              "value": "稀有",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementCommon",
+              "value": "普通",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonAll",
+              "value": "所有",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Part1",
+              "value": "按",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Key",
+              "value": "任意键",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Part2",
+              "value": "开始",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonGoBack",
+              "value": "返回",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "StoryModeTitle",
+              "value": "开始游戏",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MultiplayerTitle",
+              "value": "多人游戏",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitTitle",
+              "value": "退出",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExtrasTitle",
+              "value": "附加",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsTitle",
+              "value": "设置",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GeneralTitle",
+              "value": "全局",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ControlsTitle",
+              "value": "控制器设置",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AudioTitle",
+              "value": "音效",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VisualsTitle",
+              "value": "画面",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MultiplayerSearchingLabel",
+              "value": "搜索游戏中",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LanguageTitle",
+              "value": "语言",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsTitle",
+              "value": "新消息",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonMoreDetails",
+              "value": "更多细节",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemTitle1",
+              "value": "欢迎来到Reach UI",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemDescription1",
+              "value": "这是一个面板，您可以显示最新的更新，更改日志和更多。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemTitle2",
+              "value": "完全可定制",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemDescription2",
+              "value": "您可以通过调整新闻项预设来添加新项，更改大小或更改面板的外观。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemTitle3",
+              "value": "轻松添加新内容",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NewsItemDescription3",
+              "value": "你可以使用‘News slider ’组件轻松地添加新的滑块项，该组件被添加到滑块对象中。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementHiddenTitle",
+              "value": "隐藏成就",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementHiddenDesc",
+              "value": "这是一个隐藏的成就，必须解锁才能预览。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementSampleTitle",
+              "value": "示例成就\t",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AchievementSampleDesc",
+              "value": "这是一个用于演示目的的示例成就。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DiscordDescription",
+              "value": "加入我们的Discord",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TwitterDescription",
+              "value": "在Twitter上关注我们",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterContinue",
+              "value": "继续",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterPlay",
+              "value": "开始",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterReplay",
+              "value": "重新开始",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterCompleted",
+              "value": "完成",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterUnlocked",
+              "value": "已解锁",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChapterLocked",
+              "value": "未解锁",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter1Title",
+              "value": "第一章",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter1Description",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter2Title",
+              "value": "第二章",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter2Description",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter3Title",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter3Description",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter4Title",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Chapter4Description",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonCancel",
+              "value": "取消",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ButtonConfirm",
+              "value": "确认",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitModalDescription",
+              "value": "你确定要退出吗？此操作不能撤消。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LabelOn",
+              "value": "开",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LabelOff",
+              "value": "关",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsTitle",
+              "value": "分数",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SelectLabel",
+              "value": "选择",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NavigateLabel",
+              "value": "导航",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PrevChapterLabel",
+              "value": "上一章",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NextChapterLabel",
+              "value": "下一章",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GoBackLabel",
+              "value": "返回",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PrevCategoryLabel",
+              "value": "上一页",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NextCategoryLabel",
+              "value": "下一页",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BoostCreditsLabel",
+              "value": "提高",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CloseLabel",
+              "value": "关闭",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ControllerLayoutTitle",
+              "value": "控制器布局",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsVoiceover",
+              "value": "旁白",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsCreatedBy",
+              "value": "由",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsArtDesign",
+              "value": "艺术设计",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsProgrammer",
+              "value": "程序",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsSoundDesign",
+              "value": "声音设计",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsConceptArtist",
+              "value": "策划",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsVFXArtist",
+              "value": "特效",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsUI",
+              "value": "交互界面",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsPlaytesters",
+              "value": "测试",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WebsiteDescription",
+              "value": "查看我们的网站",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TikTokDescription",
+              "value": "在TikTok上关注我们",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "YouTubeDescription",
+              "value": "在YouTube上关注我们",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableHintsLabel",
+              "value": "启用提示",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableTutorialsLabel",
+              "value": "启用教程",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIScaleLabel",
+              "value": "UI缩放",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SubtitleScaleLabel",
+              "value": "字幕缩放",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableSubtitlesLabel",
+              "value": "启用字幕",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VolumeHeader",
+              "value": "音量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MasterVolumeLabel",
+              "value": "主音量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MusicVolumeLabel",
+              "value": "音乐音量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SFXVolumeLabel",
+              "value": "特效音量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIVolumeLabel",
+              "value": "环境音量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DisplayHeader",
+              "value": "显示",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ResolutionLabel",
+              "value": "分辨率",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableHintsDesc",
+              "value": "第一次玩吗？想在玩游戏的同时学习一些新东西吗？如果是，你可以启用它",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableSubtitlesDesc",
+              "value": "看看他们说了什么",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LanguageDesc",
+              "value": "选择你喜欢的语言",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIScaleDesc",
+              "value": "你可以在这里管理UI大小。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SubtitleScaleDesc",
+              "value": "你可以在这里管理字幕大小。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MasterVolumeDesc",
+              "value": "如果你想减少或增加游戏的总音量，可以使用这个滑块。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MusicVolumeDesc",
+              "value": "如果你想减少或增加游戏的音乐音量，可以使用这个滑块。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SFXVolumeDesc",
+              "value": "如果你想减少或增加游戏的特效音量，可以使用这个滑块。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UIVolumeDesc",
+              "value": "如果你想减少或增加游戏的UI，可以使用这个滑块。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ResolutionDesc",
+              "value": "高分辨率屏幕能够产生更清晰,更清晰、更详细的图片。你可以选择任何你想要的分辨率。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsDesc",
+              "value": "调整一些选项，让你的游戏体验更好！您可以使用顶部的按钮在类别之间进行切换",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VSyncLabel",
+              "value": "垂直同步",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VSyncDesc",
+              "value": "垂直同步是一种图形技术，负责将游戏的帧率与显示器的刷新率同步。这种同步为图形重的3D游戏提供了流畅，不间断的游戏玩法。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FrameRateLabel",
+              "value": "帧率",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FrameRateDesc",
+              "value": "限制帧速率。建议将此选项与显示器的刷新率相匹配。请注意，此选项在启用VSync时不起作用。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FrameRateUnlimited",
+              "value": "无限制",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WindowModeLabel",
+              "value": "窗口模式",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WindowModeDesc",
+              "value": "选择所需的窗口模式。如果你遇到输入延迟，你可以尝试全屏模式。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BorderlessLabel",
+              "value": "无边框全屏",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FullscreenLabel",
+              "value": "全屏",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WindowedLabel",
+              "value": "窗口化",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CreditsLogoDescription",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AccessibilityTitle",
+              "value": "可使用性",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SearchLabel",
+              "value": "搜索",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CancelSearchLabel",
+              "value": "取消搜索",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GameModeLabel",
+              "value": "游戏模式",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PlayLabel",
+              "value": "开始游戏",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SearchingLabel",
+              "value": "搜索中...",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DeathmatchLabel",
+              "value": "死亡竞赛",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CTFLabel",
+              "value": "夺取旗帜",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ConquestLabel",
+              "value": "\r\nAI润色\r\n8/5000\r\n征服",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PauseMenuContinue",
+              "value": "继续",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitMainMenuTitle",
+              "value": "返回主菜单",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ExitMainMenuDescription",
+              "value": "您确定要退出到主菜单吗？任何未保存的进度都将丢失。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "QuestTextSample",
+              "value": "任务描述示例",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NotificationTextSample",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PausedLabel",
+              "value": "暂停",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualityLabel",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualityDesc",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsLow",
+              "value": "低",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsMedium",
+              "value": "中",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsHigh",
+              "value": "高",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SettingsGraphicsUltra",
+              "value": "极致",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AnisotropicFilteringLabel",
+              "value": "各向异性过滤",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AnisotropicFilteringDesc",
+              "value": "纹理过滤使游戏中的远处物体看起来更清晰。它的工作原理是改善在一个陡峭的角度观看纹理的外观。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CamAndPlayerLabel",
+              "value": "相机和玩家",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CamSensitivityLabel",
+              "value": "相机灵敏度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CamSensitivityDesc",
+              "value": "调整相机感光度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintModeLabel",
+              "value": "Sprint模式",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintModeLabelDesc",
+              "value": "通过按住按钮或切换来设置是否要冲刺。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintToggleLabel",
+              "value": "切换",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SprintHoldLabel",
+              "value": "按住",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ReverseLookLabel",
+              "value": "相机翻转",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ReverseLookDesc",
+              "value": "启用时反转相机。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "KeyBindingsHeader",
+              "value": "按键绑定",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AdvancedHeader",
+              "value": "进阶选项",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ScrollLabel",
+              "value": "滚动",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LobbyLabel",
+              "value": "大厅",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ReadyLabel",
+              "value": "准备",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NotReadyLabel",
+              "value": "未准备",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UnreadyLabel",
+              "value": "未准备",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PAK_Touchscreen",
+              "value": "触碰",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShopTitle",
+              "value": "商店",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WeaponsTitle",
+              "value": "武器",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ClothesTitle",
+              "value": "着装",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VehiclesTitle",
+              "value": "交通工具",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchaseItemTitle",
+              "value": "购买物品",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchaseItemDescription",
+              "value": "你确定要买这件东西吗？",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SampleShopItemTitle",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SampleShopItemDescription",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchasedLabel",
+              "value": "已售空",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PurchaseLabel",
+              "value": "购买",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "KeyboardMapping",
+              "value": "键盘映射",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reset Key",
+              "value": "重置按键",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Controller Icons",
+              "value": "控制器图标",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Select Gamepad Icon",
+              "value": "选择手柄图标",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Auto Detect",
+              "value": "自动检测",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Use PS4 Icons",
+              "value": "使用PS4图标",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Use Xbox Icons",
+              "value": "使用XBOX图标",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Equip",
+              "value": "装备",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "UnEquip",
+              "value": "卸下",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Upgrade",
+              "value": "升级",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Rotate",
+              "value": "旋转",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Drop",
+              "value": "丢弃",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enter",
+              "value": "进入",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Toggle Legend",
+              "value": "图例",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Zoom",
+              "value": "缩放",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Move",
+              "value": "移动",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ARTIFACT COLLECTION",
+              "value": "选择神器",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SELL",
+              "value": "出售",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Comfirm",
+              "value": "确认",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Remove",
+              "value": "移除",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Mark",
+              "value": "标记",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "\rReturn to Town",
+              "value": "返回城镇",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LowLabel",
+              "value": "低",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "HighLabel",
+              "value": "高",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MediumLabel",
+              "value": "中",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "_0Label",
+              "value": "0",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "_50Label",
+              "value": "50",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "_100Label",
+              "value": "100",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableFSR3Label",
+              "value": "启用FSR3",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "EnableFSR3Desc",
+              "value": "Low是最流畅的，但图像质量较低。High在提高帧率的同时更注重画面质量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GrassSettingLabel",
+              "value": "草地设置",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GrassSettingDesc",
+              "value": "数量越小，草坪质量越低，性能消耗越少；数量越大，草的质量越高，效率消耗越大",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Back",
+              "value": "返回",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Intro",
+              "value": "介绍",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Open",
+              "value": "打开",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Highest",
+              "value": "最高",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FRS3AntiGhost",
+              "value": "FSR3防重影",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FSR3Quality",
+              "value": "FSR3质量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FSR3QualityDesc",
+              "value": "质量越低，运行速度越快。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FRS3AntiGhostDes",
+              "value": "较高的值使图像更清晰，而较低的值则提高性能。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Commune",
+              "value": "对话",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Leave",
+              "value": "离开",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Melee Attack",
+              "value": "近战攻击",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Ranged Attack",
+              "value": "远程攻击",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ChangeView",
+              "value": "切换视角",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Roll",
+              "value": "翻滚",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Auto Attack",
+              "value": "自动攻击",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Next Weapon",
+              "value": "下一把武器",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Previous Weapon",
+              "value": "上一把武器",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Traverse The Realms",
+              "value": "打开世界地图",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Bind Relics",
+              "value": "打开神器面板",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Manifest Form",
+              "value": "切换角色",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Control Hint",
+              "value": "控制器提示",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Inventory",
+              "value": "背包",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WeaponUpgrade",
+              "value": "武器升级",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Camera Switch",
+              "value": "切换视角",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Motion Blur",
+              "value": "动态模糊",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Pixel Mode",
+              "value": "像素模式",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Comfirm/Remove Hold To Drag",
+              "value": "装备/卸下 长按拖动",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Horizontal Sensitivity",
+              "value": "水平灵敏度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Vertical Sensitivity",
+              "value": "垂直灵敏度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveForward",
+              "value": "前进",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveBack",
+              "value": "后退",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveLeft",
+              "value": "向左",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MoveRight",
+              "value": "向右",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reload",
+              "value": "换弹",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Interact",
+              "value": "交互",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Weapon Upgrade",
+              "value": "武器升级",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enable Auto Aim",
+              "value": "辅助瞄准",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Use Curve Aim",
+              "value": "曲线瞄准",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BOUND OATHS",
+              "value": "誓言绑定",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Skill Tree",
+              "value": "技能树",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Forget All Skill",
+              "value": "遗忘所有技能",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RoleSkill",
+              "value": "角色技能",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Study",
+              "value": "学习",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Offer Voidmarks",
+              "value": "提供虚空印记",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Active Skill",
+              "value": "主动技能",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AddVoidMarks",
+              "value": "增加虚空印记",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ClearVoidMarks",
+              "value": "清空虚空印记",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PASSIVE SKILLS",
+              "value": "被动技能",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ACTIVE SKILLS",
+              "value": "主动技能",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ForgetSkills",
+              "value": "遗忘技能",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Study_Active",
+              "value": "学习",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Wishlist",
+              "value": "添加到愿望单！",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Artifact",
+              "value": "神器",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "KNIGHT CLASS  |  ORDER OF THE SUNKEN LIGHT",
+              "value": "战士  |  沉没之光战士团",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SortingByDefault",
+              "value": "默认排序",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SortingByRank",
+              "value": "价值排序",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SortingByTime",
+              "value": "时间排序",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FeedbackDescription",
+              "value": "问题反馈",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Leaderboard",
+              "value": "排行榜",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ParticipationRankingList",
+              "value": "更改名称",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RankingList",
+              "value": "排行榜",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Change",
+              "value": "更改",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WorldMapUI",
+              "value": "地图UI",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "The Nexus Hold",
+              "value": "枢纽要塞",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Oblivion Array",
+              "value": "忘 却 回 廊",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": " Vharzeth, Lord of Cinders",
+              "value": "瓦 泽 斯 ， 灰 烬 之 主",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Vault of the Dead Star",
+              "value": "死 星 金 库",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": " Kingdom of Forgotten Sins",
+              "value": "被 遗 忘 的 罪 恶 王 国",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Fractured Zenith",
+              "value": "断 裂 的 顶 峰",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "The Nexus Hold_Intro",
+              "value": "一座由锈蚀钢铁与崩裂巨石构成的漂流堡垒。幽灵列车停靠于此，幸存者们交易着虚空印记，风将祈祷送往不再回应的神明。黑海正在上涨，其寒潮即将淹没联结境。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Oblivion Array_Intro",
+              "value": "残破的世界之门环绕成圈悬于撕裂的天幕。电波天眼扫视四方，唤醒了本应长眠之物。当恰克驾驭雷霆穿行节点之时，希巴尔正从枢纽汲取能量。速速前行，否则路径闭合，阵列终成坟茔。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "The Nexus Hold NoSpace",
+              "value": "涅克萨斯要塞",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Oblivion Array NoSpace",
+              "value": "忘却回廊",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MAIN BOSS",
+              "value": "最终BOSS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FACTION BOSS",
+              "value": "阵营魁首",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "OPTIONAL BOSS",
+              "value": "可选BOSS",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "QUEST",
+              "value": "任务",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RESPAWN POINT",
+              "value": "重生点",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GameLobbyPanel",
+              "value": "GameLobbyPanel",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Awaken a Champion",
+              "value": "唤醒你的英雄",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "THIS FATE HAS NOT AWAKENED",
+              "value": "此英雄仍在沉睡",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enter THE VOID",
+              "value": "踏入虚空",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GameEndPanel",
+              "value": "GameEndPanel",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VOIDMARKS |",
+              "value": "虚空印记 |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Voidmarks From Kills",
+              "value": "击杀获得的虚空印记",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Voidmarks From Survival",
+              "value": "生存奖励的虚空印记",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Voidmarks From Chests",
+              "value": "宝箱搜寻的虚空印记",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Regular Enemies Defeated",
+              "value": "普通怪物击杀数",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Elite Enemies Defeated",
+              "value": "精英怪物击杀数",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Bosses Enemies Defeated",
+              "value": "BOSS击杀数",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PLAYER LEVEL |",
+              "value": "等级 |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WORLD NAME |",
+              "value": "地图 |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DC COLLECTED |",
+              "value": "暗黑币 |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BEST RECORD |",
+              "value": "最佳记录 |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SURVIVAL TIME | ",
+              "value": "存活时间 | ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "LEGACY OF THE FALLEN",
+              "value": "陨落者的遗产",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Next Category",
+              "value": "下一页",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Previous Category",
+              "value": "上一页",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "BackPackPanel",
+              "value": "BackPackPanel",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Damage",
+              "value": "伤害",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "REACH",
+              "value": "范围",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ATTACK SPEED",
+              "value": "攻击速度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "FIRE RATE",
+              "value": "射击速度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ACCURACY",
+              "value": "精准度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CAPCITY",
+              "value": "弹夹容量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Stats",
+              "value": "状态",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Upgrade equipped",
+              "value": "升级装备",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Skills Acquired:",
+              "value": "已获得技能:",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CURRENCY HELD |",
+              "value": "持有的暗黑币 |",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Strength",
+              "value": "力量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Dexterity",
+              "value": "敏捷",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Cybernetics",
+              "value": "控制",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Fury",
+              "value": "愤怒",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Faith",
+              "value": "信仰",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Vitality",
+              "value": "活力",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "World of Dark Light Survivor",
+              "value": "至暗之光幸存者世界",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "REROLL",
+              "value": "重掷",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DARK VOID DEVOURS",
+              "value": "虚空黑暗吞噬",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "DARK LIGHT SURVIVOR",
+              "value": "至暗之光：幸存者",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "YOUR WISHLIST FUELS US",
+              "value": "您的愿望清单激励着我们",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Wishlist!",
+              "value": "添加愿望单！",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WEAPONS",
+              "value": "武器",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "INVENTORY",
+              "value": "背包",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Help & Feedback",
+              "value": "帮助和反馈",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "REROLL_REChoice",
+              "value": "重新选择",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "             UNAVAILABLE  \n AT THIS TIME",
+              "value": "   ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CLASS",
+              "value": "   ",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ATTRIBUTE POINTS",
+              "value": "基础属性点",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WorldMapIntro",
+              "value": "多元宇宙已支离破碎。虚无从破碎的天空中倾泻而下。王座空无一人。\n纳克西斯号飞船在一片无边无际的黑色海洋中缓缓前行。铁块发出沉重的声响。蒸汽在空荡荡的走廊中低语。在即将消亡的两个世界之间，只有一条路——幽灵列车。\n它的熔炉燃烧着从被征服的领主那里获取的能源。\n机器维护者守护着逐渐黯淡的灯光。幸存者们相互传递着传闻和遗物。在铁轨旁，执政者们毫无预兆地出现。他们的赠品是有代价的。他们的争斗比记忆还要久远。\n在破碎的世界之中，坐落着破败的城市和古老的战场。锈迹斑斑的盔甲、撕裂的旗帜、破碎的步枪和刀剑。寄生的残骸在腐烂，而亡魂般的机器在永远未苏醒的天空下游荡。\n在废墟之上，一位长着角的暴君统治着这里，他宣称自己掌控着这片现实的碎片。\n击败这些统治者，幽灵列车便会继续前行。每一次胜利都让通往极乐世界的道路稍稍近了一步。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enter World",
+              "value": "进入世界",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reset All Buttons",
+              "value": "重置所有按键",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "This key is already assigned to [Action]. Do you want to reassign it?",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Enable FSR3",
+              "value": "启用FSR3",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Grass Setting",
+              "value": "草地设置",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Auto",
+              "value": "自动",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Name your champion",
+              "value": "为你的英雄命名",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Name",
+              "value": "名称",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NameIntro",
+              "value": "为你的英雄命名，漂流者。这个名字出现在全球排行榜上。您可以在选项|常规设置中更改它。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CONFIRM",
+              "value": "确认",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SKIP",
+              "value": "跳过",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Media Preview",
+              "value": "公告",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MediaPreviewIntro",
+              "value": "感谢你支持《Dark Light: Survivor》。\r\n\r\n这个版本将让你提前体验游戏内容，目前已开放全部 3 张抢先体验地图以及 3 个可游玩的职业供你试玩。\r\n\r\n由于这仍然是抢先体验版本，你在游玩过程中可能会遇到一些 Bug。我们会持续更新游戏，并不断加入新的功能与内容。\r\n\r\n我们是一支小型独立开发团队，你的反馈对我们来说非常重要。如果你喜欢这款游戏，欢迎在社区中分享你的想法，并关注项目的后续开发。\r\n\r\n请注意，在抢先体验期间，游戏的平衡性、内容以及其他部分仍可能会持续调整与变更。",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Your Name...",
+              "value": "你的名字...",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ARMOUR",
+              "value": "护甲",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Pass",
+              "value": "跳过",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ADD",
+              "value": "添加",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ON STEAM",
+              "value": "到Steam",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PICK UP ITEM ",
+              "value": "拾取",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Trade Riftmerchant",
+              "value": "交互",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "RiftMerchant",
+              "value": "裂隙商人",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Salvage Kill",
+              "value": "获得装甲",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Salvage Weapon",
+              "value": "战场遗物",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Confirm/Remove Hold To Drag",
+              "value": "装备/移除 长按拖拽",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SOUL OF THE VOID TITAN SEIZED",
+              "value": "已夺取泰坦的虚空之魂",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": " Kingdom of Forgotten SinsNpSpace",
+              "value": "被遗忘的罪孽之国",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Fractured ZenithNoSpace",
+              "value": "破碎的天顶",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Ashfen of Fractured Suns",
+              "value": "破碎的太阳残骸",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AutoEquipWeapon",
+              "value": "自动装备武器",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Melee Attack Camera Shake",
+              "value": "近战攻击震动",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Ranged Attack Camera Shake",
+              "value": "远程攻击震动",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Switch Comparison",
+              "value": "切换对比",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting",
+              "value": "贴图设置",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting_High",
+              "value": "高",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting_Medium",
+              "value": "中",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Texture Setting_Low",
+              "value": "低",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualitySettingLabel",
+              "value": "贴图设置",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TextureQualitySettingDesc",
+              "value": "高：正常游玩，使用标准贴图质量\n中：略微降低贴图质量 \n低：大幅降低贴图质量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Previous CategoryLabal",
+              "value": "上一页",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Next CategoryLabal",
+              "value": "下一页",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Add50DC",
+              "value": "+50 暗黑币",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Salvage",
+              "value": "回收",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShadowQualitySettingLabel",
+              "value": "阴影质量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShadowQualitySettingDesc",
+              "value": "调整阴影质量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "WaterQualitySettingLabel",
+              "value": "水质量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ShadowQualitySettingDesc",
+              "value": "调整水质量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "VisitTheStore",
+              "value": "访问商店",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Buy",
+              "value": "购买",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SHOP",
+              "value": "商店",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "PreviousLabel",
+              "value": "上一页",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "NextLabel",
+              "value": "下一页",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Block",
+              "value": "举盾",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Aim",
+              "value": "瞄准",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Sprint",
+              "value": "冲刺",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Reload/Interact",
+              "value": "换弹/交互",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Items",
+              "value": "物品",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "AutoAtk",
+              "value": "自动攻击",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfMeleeBattle",
+              "value": "近战脱战时间",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfRangeBattle",
+              "value": "远程脱战时间",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfMeleeBattleDesc",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "TimeOutOfRangeBattleDesc",
+              "value": "",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "MagicAttack",
+              "value": "魔法攻击",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Magic wand / Shield block",
+              "value": "举盾",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "GroundFogSettingDesc",
+              "value": "是否开启额外地面雾效",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Restart",
+              "value": "重新开始",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Begin Anew",
+              "value": "重新开始",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Volumetric Fog",
+              "value": "体积雾",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Sunless Keep",
+              "value": "无日城塞",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Battlefield Of The Black Sun",
+              "value": "黑日战场",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Choose Realm",
+              "value": "选择地图",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Unlock",
+              "value": "解锁",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Upgrade Equipped",
+              "value": "升级装备",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Unlocked",
+              "value": "解锁",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "CrosshairSize",
+              "value": "准星大小",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Change Crosshair Color",
+              "value": "修改准星颜色",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Custom Color",
+              "value": "自定义颜色",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Color",
+              "value": "颜色",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Crosshair Color",
+              "value": "准星颜色",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ADS Horizontal Sensitivity",
+              "value": "开镜水平灵敏度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "ADS Vertical Sensitivity",
+              "value": "开镜垂直灵敏度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Third-Person Aiming",
+              "value": "第三人称瞄准",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Top-Down Aiming",
+              "value": "上帝视角瞄准",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Aiming Horizontal Sensitivity",
+              "value": "瞄准水平灵敏度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Aiming Vertical Sensitivity",
+              "value": "瞄准垂直灵敏度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "QualitySettingLabel",
+              "value": "质量设置",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_High",
+              "value": "高质量",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_Medium",
+              "value": "均衡",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_SteakDeck",
+              "value": "SteamDeck",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_custom",
+              "value": "自定义",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Quality Preset",
+              "value": "质量预设",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Graphics Quality",
+              "value": "图形设置",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Show Input Prompts",
+              "value": "显示输入提示",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "SelectDifficultDes",
+              "value": "选择难度",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            },
+            {
+              "key": "Setting_Optimized",
+              "value": "高性能",
+              "audioValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "spriteValue": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

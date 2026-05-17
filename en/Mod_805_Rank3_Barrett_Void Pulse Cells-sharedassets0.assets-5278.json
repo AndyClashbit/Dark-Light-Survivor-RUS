@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_805_Rank3_Barrett_Void Pulse Cells",
+  "OnlyId": 0,
+  "ModId": 8053,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Void Pulse Cells",
+  "ModDec": "+{0} Lightning Damage on successful hits",
+  "ModIndex": 8,
+  "modAddType": 31,
+  "modAddValue1": 20.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "Ammo",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      85
+    ]
+  }
+}

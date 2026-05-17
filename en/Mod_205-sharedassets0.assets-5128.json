@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_205",
+  "OnlyId": 0,
+  "ModId": 205,
+  "RankId": 3,
+  "RankWeight": 0.0,
+  "ModName": "Tracking Lens III",
+  "ModDec": "Highlights enemies within {1} meters +{0} damage",
+  "ModIndex": 2,
+  "modAddType": 30,
+  "modAddValue1": 20.0,
+  "modAddValue2": 8.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "SniperScope",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      17,
+      7,
+      12,
+      35,
+      34,
+      63,
+      64,
+      66,
+      69
+    ]
+  }
+}

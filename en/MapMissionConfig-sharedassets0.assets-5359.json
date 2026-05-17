@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1443
+  },
+  "m_Name": "MapMissionConfig",
+  "MapMissionList": {
+    "Array": [
+      {
+        "MapType": 6,
+        "MainMission": {
+          "MissionDes": "Destroy {0}",
+          "BossName": "Chaac",
+          "BossTitle": "Wielder of the Lightning Spear",
+          "EnemyIDType": 12
+        }
+      },
+      {
+        "MapType": 9,
+        "MainMission": {
+          "MissionDes": "Vanquish {0}",
+          "BossName": "Velkrath",
+          "BossTitle": "the Bone Marksman",
+          "EnemyIDType": 18
+        }
+      },
+      {
+        "MapType": 10,
+        "MainMission": {
+          "MissionDes": "Break the Curse of {0}",
+          "BossName": "Morvak",
+          "BossTitle": "First of the Frostborn",
+          "EnemyIDType": 22
+        }
+      }
+    ]
+  }
+}

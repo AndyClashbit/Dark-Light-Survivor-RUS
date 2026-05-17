@@ -1,0 +1,99 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3600
+  },
+  "m_Name": "GlobalVariableData",
+  "EnemyHpRateNum": -30.0,
+  "GoldRateNum": 50.0,
+  "DCRateNum": 10.0,
+  "VoidStoneRateNum": 100.0,
+  "ResistanceRate": 1.0,
+  "ShieldPenetrate": 1.0,
+  "ShieldNoPenetrate": 0.1,
+  "NormalHitColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "ShotHeadHitColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "ShotCriticalHitColor": {
+    "r": 1.0,
+    "g": 0.27877468,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "NormalPlayerHitColor": {
+    "r": 1.0,
+    "g": 0.078431375,
+    "b": 0.14509805,
+    "a": 1.0
+  },
+  "PhysicalHitColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "FireHitColor": {
+    "r": 1.0,
+    "g": 0.20313019,
+    "b": 0.20313019,
+    "a": 1.0
+  },
+  "IceHitColor": {
+    "r": 0.35407352,
+    "g": 0.8614297,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "LightHitColor": {
+    "r": 1.0,
+    "g": 0.76661825,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "PoisonHitColor": {
+    "r": 0.0,
+    "g": 1.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "BleedColor": {
+    "r": 0.98039216,
+    "g": 0.17254902,
+    "b": 0.17254902,
+    "a": 1.0
+  },
+  "ExecuteColor": {
+    "r": 1.0,
+    "g": 0.2784314,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "ExecuteEliteColor": {
+    "r": 1.0,
+    "g": 0.2784314,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "AddComboDamagePercent": 10.0,
+  "AddMeleeAtk": 70.0,
+  "AddGunAtk": 55.0,
+  "AddGunRange": 55.0,
+  "LowOrHighNum": 30.0,
+  "ThirdAddGunDamage": 30.0,
+  "ThirdAddGunRange": 30.0,
+  "ExecuteText": "Execute"
+}

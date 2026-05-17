@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1124
+  },
+  "m_Name": "MissleDatabase",
+  "poolsName": {
+    "Array": []
+  },
+  "pools": {
+    "Array": [
+      {
+        "poolName": "GeneratedPool",
+        "templates": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 2588
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2465
+            }
+          ]
+        },
+        "poolLength": {
+          "Array": [
+            30,
+            30
+          ]
+        },
+        "poolLengthMax": {
+          "Array": [
+            30,
+            30
+          ]
+        },
+        "broadcastSpawnName": "OnSpawned",
+        "broadcastDespawnName": "OnDespawned",
+        "delayedSpawnInInstall": 0,
+        "objectsPerUpdate": 5,
+        "needBroadcasting": 1,
+        "optimizeSpawn": 1,
+        "targetFPS": 50,
+        "pooling": 1,
+        "needSort": 0,
+        "needParenting": 0,
+        "needDebug": 0
+      }
+    ]
+  },
+  "namer": "MissleDatabase"
+}

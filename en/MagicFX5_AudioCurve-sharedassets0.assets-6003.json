@@ -1,0 +1,114 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2793
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5392
+  },
+  "m_Name": "",
+  "UseVolumeCurve": 1,
+  "UsePitchCurve": 0,
+  "VolumeOverTime": {
+    "m_Curve": {
+      "Array": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 22.172173,
+          "outSlope": 22.172173,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.033577755
+        },
+        {
+          "time": 0.049999997,
+          "value": 0.99504226,
+          "inSlope": -0.010476486,
+          "outSlope": -0.010476486,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.13751836
+        },
+        {
+          "time": 0.42499998,
+          "value": 0.9900017,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ]
+    },
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "PitchOverTime": {
+    "m_Curve": {
+      "Array": [
+        {
+          "time": 0.0,
+          "value": 0.965,
+          "inSlope": 1.256074,
+          "outSlope": 1.256074,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.033147745,
+          "value": 1.03376,
+          "inSlope": 0.02333605,
+          "outSlope": 0.02333605,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.33333334
+        },
+        {
+          "time": 0.083000004,
+          "value": 0.5499972,
+          "inSlope": 5.846406,
+          "outSlope": 5.846406,
+          "weightedMode": 0,
+          "inWeight": 0.33333334,
+          "outWeight": 0.030128865
+        },
+        {
+          "time": 0.35,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ]
+    },
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "StartDelay": 0.0,
+  "Duration": 2.0,
+  "Loop": 0,
+  "AutoDeactivation": 1,
+  "UseRandomPitch": 0,
+  "PitchOffset": 0.15,
+  "AudioClipStartTimeOffset": 3.0,
+  "RandomClips": {
+    "Array": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5669
+  },
+  "m_Name": "Increase Cybernetics by 1",
+  "WordRank": 1,
+  "AddType": 36,
+  "ArtifactAddValue1": 1.0,
+  "Value1Des": "",
+  "ArtifactAddValue2": 0.0,
+  "Value2Des": "",
+  "ArtifactAddValue3": 0.0,
+  "Value3Des": "",
+  "ArtifactAddValue4": 0.0,
+  "Value4Des": "",
+  "ArtifactAddValue5": 0.0,
+  "Value5Des": "",
+  "ArtifactAddValue6": 0.0,
+  "Value6Des": "",
+  "WordValueCount": 300.0,
+  "wordDes": "Increase Cybernetics by {0}"
+}

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5669
+  },
+  "m_Name": "Critical hits deal +25% damage",
+  "WordRank": 2,
+  "AddType": 127,
+  "ArtifactAddValue1": 10.0,
+  "Value1Des": "",
+  "ArtifactAddValue2": 0.0,
+  "Value2Des": "",
+  "ArtifactAddValue3": 0.0,
+  "Value3Des": "",
+  "ArtifactAddValue4": 0.0,
+  "Value4Des": "",
+  "ArtifactAddValue5": 0.0,
+  "Value5Des": "",
+  "ArtifactAddValue6": 0.0,
+  "Value6Des": "",
+  "WordValueCount": 600.0,
+  "wordDes": "Critical hits deal +{0}% damage"
+}

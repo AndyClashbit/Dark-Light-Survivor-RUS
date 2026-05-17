@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5550
+  },
+  "m_Name": "goat_boss_hit_or_attack",
+  "Name": "goat_boss_hit_or_attack",
+  "audioType": 1,
+  "audioBelong": 0,
+  "clip": {
+    "m_FileID": 0,
+    "m_PathID": 1260
+  },
+  "volum": 1.0,
+  "order": 121,
+  "PitchMin": 0.8,
+  "PitchMax": 1.2,
+  "MaxNum": 3,
+  "Weight": 20,
+  "Change": 100,
+  "MaxDistance": 50,
+  "CutOutTime": 0.0,
+  "CoolDownTime": 0.0
+}

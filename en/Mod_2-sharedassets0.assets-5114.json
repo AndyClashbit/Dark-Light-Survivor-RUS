@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_2",
+  "OnlyId": 0,
+  "ModId": 2,
+  "RankId": 0,
+  "RankWeight": 0.0,
+  "ModName": "OpticSight slot",
+  "ModDec": "Select a Sight.",
+  "ModIndex": 2,
+  "modAddType": 0,
+  "modAddValue1": 0.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 1,
+  "SlotObjName": "",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": []
+  }
+}

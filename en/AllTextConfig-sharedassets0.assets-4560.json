@@ -1,0 +1,573 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 323
+  },
+  "m_Name": "AllTextConfig",
+  "textDataList": {
+    "Array": []
+  },
+  "LoadingTipsTextDataList": {
+    "Array": [
+      {
+        "Engligh": "Find Wraithmonger, the phantom trader, to purchase rare arms and strong upgrades.",
+        "Chinese": "找到幽灵商人Wraithmonger，购买稀有武器和强大的升级。"
+      },
+      {
+        "Engligh": "Seek the Totem of Ascension in the wilds. Spend your hard earned Dark Credits to raise your weapon to the next level.",
+        "Chinese": "在荒野中寻找提升图腾。花费你辛苦赚来的暗黑币来提升你的武器到下一个级别。"
+      },
+      {
+        "Engligh": "War Caches are scattered across the map. Hunt them early to outfit yourself with better armour.",
+        "Chinese": "地图上到处都是军火库。尽早搜寻他们，为自己装备更好的盔甲。"
+      }
+    ]
+  },
+  "SkillTreeDescTextDataList": {
+    "Array": [
+      {
+        "Engligh": "Increase max HP by <color=#00FFA6>5%</color> ",
+        "Chinese": "提升 <color=#00FFA6>5%</color> 最大生命值"
+      },
+      {
+        "Engligh": "Increase max HP by <color=#00FFA6>10%</color> ",
+        "Chinese": "提升 <color=#00FFA6>10%</color> 最大生命值"
+      },
+      {
+        "Engligh": "Increase max HP by <color=#00FFA6>15%</color> ",
+        "Chinese": "提升 <color=#00FFA6>15%</color> 最大生命值"
+      },
+      {
+        "Engligh": "Increase max HP by <color=#00FFA6>20%</color> ",
+        "Chinese": "提升 <color=#00FFA6>20%</color> 最大生命值"
+      },
+      {
+        "Engligh": "Increase max HP by <color=#00FFA6>25%</color> ",
+        "Chinese": "提升 <color=#00FFA6>25%</color> 最大生命值"
+      },
+      {
+        "Engligh": "Reduce all damage taken by <color=#00FFA6>5%</color> ",
+        "Chinese": "降低 <color=#00FFA6>5%</color> 受到的所有伤害"
+      },
+      {
+        "Engligh": "Reduce all damage taken by <color=#00FFA6>10%</color> ",
+        "Chinese": "降低 <color=#00FFA6>10%</color> 受到的所有伤害"
+      },
+      {
+        "Engligh": "Reduce all damage taken by <color=#00FFA6>15%</color> ",
+        "Chinese": "降低 <color=#00FFA6>15%</color> 受到的所有伤害"
+      },
+      {
+        "Engligh": "Reduce all damage taken by <color=#00FFA6>20%</color> ",
+        "Chinese": "降低 <color=#00FFA6>20%</color> 受到的所有伤害"
+      },
+      {
+        "Engligh": "Reduce all damage taken by <color=#00FFA6>25%</color> ",
+        "Chinese": "降低 <color=#00FFA6>25%</color> 受到的所有伤害"
+      },
+      {
+        "Engligh": "Gain <color=#00FFA6>1%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>20%</color>",
+        "Chinese": "每损失 <color=#00FFA6>5%</color> 的生命值获得 <color=#00FFA6>1%</color> 的伤害，最高 <color=#00FFA6>20%</color>"
+      },
+      {
+        "Engligh": "Gain <color=#00FFA6>2%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>40%</color>",
+        "Chinese": "每损失 <color=#00FFA6>5%</color> 的生命值获得 <color=#00FFA6>2%</color> 的伤害，最高 <color=#00FFA6>40%</color>"
+      },
+      {
+        "Engligh": "Gain <color=#00FFA6>3%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>60%</color>",
+        "Chinese": "每损失 <color=#00FFA6>5%</color> 的生命值获得 <color=#00FFA6>3%</color> 的伤害，最高 <color=#00FFA6>60%</color>"
+      },
+      {
+        "Engligh": "Gain <color=#00FFA6>4%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>80%</color>",
+        "Chinese": "每损失 <color=#00FFA6>5%</color> 的生命值获得 <color=#00FFA6>4%</color> 的伤害，最高 <color=#00FFA6>80%</color>"
+      },
+      {
+        "Engligh": "Gain <color=#00FFA6>5%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>100%</color>",
+        "Chinese": "每损失 <color=#00FFA6>5%</color> 的生命值获得 <color=#00FFA6>5%</color> 的伤害，最高 <color=#00FFA6>100%</color>"
+      },
+      {
+        "Engligh": "Increase melee damage by <color=#00FFA6>10%</color> ",
+        "Chinese": "提升 <color=#00FFA6>10%</color> 近战伤害"
+      },
+      {
+        "Engligh": "Increase melee damage by <color=#00FFA6>20%</color> ",
+        "Chinese": "提升 <color=#00FFA6>20%</color> 近战伤害"
+      },
+      {
+        "Engligh": "Increase melee damage by <color=#00FFA6>30%</color> ",
+        "Chinese": "提升 <color=#00FFA6>30%</color> 近战伤害"
+      },
+      {
+        "Engligh": "Increase melee damage by <color=#00FFA6>40%</color> ",
+        "Chinese": "提升 <color=#00FFA6>40%</color> 近战伤害"
+      },
+      {
+        "Engligh": "Increase melee damage by <color=#00FFA6>50%</color> ",
+        "Chinese": "提升 <color=#00FFA6>50%</color> 近战伤害"
+      },
+      {
+        "Engligh": "<color=#00FFA6>30%</color>  chance to heal <color=#00FFA6>2%</color>  of max HP on melee kill",
+        "Chinese": "在近战击杀时有<color=#00FFA6>30%</color>的几率回复<color=#00FFA6>2%</color>最大生命值"
+      },
+      {
+        "Engligh": "<color=#00FFA6>30%</color>  chance to heal <color=#00FFA6>4%</color>  of max HP on melee kill",
+        "Chinese": "在近战击杀时有<color=#00FFA6>30%</color>的几率回复<color=#00FFA6>4%</color>最大生命值"
+      },
+      {
+        "Engligh": "<color=#00FFA6>30%</color>  chance to heal <color=#00FFA6>6%</color>  of max HP on melee kill",
+        "Chinese": "在近战击杀时有<color=#00FFA6>30%</color>的几率回复<color=#00FFA6>6%</color>最大生命值"
+      },
+      {
+        "Engligh": "<color=#00FFA6>30%</color>  chance to heal <color=#00FFA6>8%</color>  of max HP on melee kill",
+        "Chinese": "在近战击杀时有<color=#00FFA6>30%</color>的几率回复<color=#00FFA6>8%</color>最大生命值"
+      },
+      {
+        "Engligh": "<color=#00FFA6>30%</color>  chance to heal <color=#00FFA6>10%</color>  of max HP on melee kill",
+        "Chinese": "在近战击杀时有<color=#00FFA6>30%</color>的几率回复<color=#00FFA6>10%</color>最大生命值"
+      },
+      {
+        "Engligh": "Melee hits more targets",
+        "Chinese": "提升近战攻击距离"
+      },
+      {
+        "Engligh": "Melee hits more targets",
+        "Chinese": "提升近战攻击距离"
+      },
+      {
+        "Engligh": "Melee hits more targets",
+        "Chinese": "提升近战攻击距离"
+      },
+      {
+        "Engligh": "Melee hits more targets",
+        "Chinese": "提升近战攻击距离"
+      },
+      {
+        "Engligh": "Melee hits more targets",
+        "Chinese": "提升近战攻击距离"
+      },
+      {
+        "Engligh": "Less <color=#00FFA6>10%</color> physical damage while stationary",
+        "Chinese": "静止时降低 <color=#00FFA6>10%</color> 受到的伤害"
+      },
+      {
+        "Engligh": "Less <color=#00FFA6>20%</color> physical damage while stationary",
+        "Chinese": "静止时降低 <color=#00FFA6>20%</color> 受到的伤害"
+      },
+      {
+        "Engligh": "Less <color=#00FFA6>30%</color> physical damage while stationary",
+        "Chinese": "静止时降低 <color=#00FFA6>30%</color> 受到的伤害"
+      },
+      {
+        "Engligh": "Less <color=#00FFA6>40%</color> physical damage while stationary",
+        "Chinese": "静止时降低 <color=#00FFA6>40%</color> 受到的伤害"
+      },
+      {
+        "Engligh": "Less <color=#00FFA6>50%</color> physical damage while stationary",
+        "Chinese": "静止时降低 <color=#00FFA6>50%</color> 受到的伤害"
+      },
+      {
+        "Engligh": "<color=#00FFA6>10%</color>  chance to stun for <color=#00FFA6>1s</color>  on melee hit",
+        "Chinese": "近战攻击时有<color=#00FFA6>10%</color> 几率晕眩敌人<color=#00FFA6>1秒</color> "
+      },
+      {
+        "Engligh": "<color=#00FFA6>15%</color>  chance to stun for <color=#00FFA6>1.5s</color>  on melee hit",
+        "Chinese": "近战攻击时有<color=#00FFA6>15%</color> 几率晕眩敌人<color=#00FFA6>1.5秒</color> "
+      },
+      {
+        "Engligh": "<color=#00FFA6>20%</color>  chance to stun for <color=#00FFA6>2s</color>  on melee hit",
+        "Chinese": "近战攻击时有<color=#00FFA6>20%</color> 几率晕眩敌人<color=#00FFA6>2秒</color> "
+      },
+      {
+        "Engligh": "<color=#00FFA6>25%</color>  chance to stun for <color=#00FFA6>2.5s</color>  on melee hit",
+        "Chinese": "近战攻击时有<color=#00FFA6>25%</color> 几率晕眩敌人<color=#00FFA6>2.5秒</color> "
+      },
+      {
+        "Engligh": "<color=#00FFA6>30%</color>  chance to stun for <color=#00FFA6>3s</color>  on melee hit",
+        "Chinese": "近战攻击时有<color=#00FFA6>30%</color> 几率晕眩敌人<color=#00FFA6>3秒</color> "
+      },
+      {
+        "Engligh": "Deal <color=#00FFA6>25%</color>  damage to enemies below <color=#00FFA6>30%</color>  HP",
+        "Chinese": "对生命值低于 <color=#00FFA6>30%</color> 的敌人额外造成 <color=#00FFA6>25%</color> 伤害"
+      },
+      {
+        "Engligh": "Deal <color=#00FFA6>25%</color>  damage to enemies below <color=#00FFA6>40%</color>  HP",
+        "Chinese": "对生命值低于 <color=#00FFA6>40%</color> 的敌人额外造成 <color=#00FFA6>25%</color> 伤害"
+      },
+      {
+        "Engligh": "Deal <color=#00FFA6>40%</color>  damage to enemies below <color=#00FFA6>40%</color>  HP",
+        "Chinese": "对生命值低于 <color=#00FFA6>40%</color> 的敌人额外造成 <color=#00FFA6>40%</color> 伤害"
+      },
+      {
+        "Engligh": "Deal <color=#00FFA6>40%</color>  damage to enemies below <color=#00FFA6>50%</color>  HP",
+        "Chinese": "对生命值低于 <color=#00FFA6>50%</color> 的敌人额外造成 <color=#00FFA6>40%</color> 伤害"
+      },
+      {
+        "Engligh": "Deal <color=#00FFA6>50%</color>  damage to enemies below <color=#00FFA6>50%</color>  HP",
+        "Chinese": "对生命值低于 <color=#00FFA6>50%</color> 的敌人额外造成 <color=#00FFA6>50%</color> 伤害"
+      },
+      {
+        "Engligh": "Increase maximum health<color=#00FFA6>10</color>  points",
+        "Chinese": "提升 <color=#00FFA6>10</color>  点最大生命值"
+      },
+      {
+        "Engligh": "Increase maximum health<color=#00FFA6>20</color>  points",
+        "Chinese": "提升 <color=#00FFA6>20</color>  点最大生命值"
+      },
+      {
+        "Engligh": "Increase maximum health<color=#00FFA6>30</color>  points",
+        "Chinese": "提升 <color=#00FFA6>30</color>  点最大生命值"
+      },
+      {
+        "Engligh": "Increase maximum health<color=#00FFA6>40</color>  points",
+        "Chinese": "提升 <color=#00FFA6>40</color>  点最大生命值"
+      },
+      {
+        "Engligh": "Increase maximum health<color=#00FFA6>50</color>  points",
+        "Chinese": "提升 <color=#00FFA6>50</color>  点最大生命值"
+      },
+      {
+        "Engligh": "Reflect <color=#00FFA6>10%</color>  of melee damage taken",
+        "Chinese": "反弹 <color=#00FFA6>10%</color> 受到的近战伤害"
+      },
+      {
+        "Engligh": "Reflect <color=#00FFA6>20%</color>  of melee damage taken",
+        "Chinese": "反弹 <color=#00FFA6>20%</color> 受到的近战伤害"
+      },
+      {
+        "Engligh": "Reflect <color=#00FFA6>30%</color>  of melee damage taken",
+        "Chinese": "反弹 <color=#00FFA6>30%</color> 受到的近战伤害"
+      },
+      {
+        "Engligh": "Reflect <color=#00FFA6>40%</color>  of melee damage taken",
+        "Chinese": "反弹 <color=#00FFA6>40%</color> 受到的近战伤害"
+      },
+      {
+        "Engligh": "Reflect <color=#00FFA6>50%</color>  of melee damage taken",
+        "Chinese": "反弹 <color=#00FFA6>50%</color> 受到的近战伤害"
+      },
+      {
+        "Engligh": "Reduce all damage taken by <color=#00FFA6>5%</color> ",
+        "Chinese": "降低 <color=#00FFA6>5%</color> 受到的所有伤害"
+      },
+      {
+        "Engligh": "Reduce all damage taken by <color=#00FFA6>10%</color> ",
+        "Chinese": "降低 <color=#00FFA6>10%</color> 受到的所有伤害"
+      },
+      {
+        "Engligh": "Reduce all damage taken by <color=#00FFA6>15%</color> ",
+        "Chinese": "降低 <color=#00FFA6>15%</color> 受到的所有伤害"
+      },
+      {
+        "Engligh": "Reduce all damage taken by <color=#00FFA6>20%</color> ",
+        "Chinese": "降低 <color=#00FFA6>20%</color> 受到的所有伤害"
+      },
+      {
+        "Engligh": "Reduce all damage taken by <color=#00FFA6>25%</color> ",
+        "Chinese": "降低 <color=#00FFA6>25%</color> 受到的所有伤害"
+      },
+      {
+        "Engligh": "Deploy a banner to grant <color=#00FFA6>10%</color>  Damage Increase and <color=#00FFA6>10%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>10s</color>, with a <color=#00FFA6>60s</color> cooldown.",
+        "Chinese": "部署旗帜，旗帜范围内获得 <color=#00FFA6>10%</color> 伤害增加和 <color=#00FFA6>10%</color> 伤害减免。旗帜持续 <color=#00FFA6>10秒</color> ， 冷却时间<color=#00FFA6>60秒</color>。"
+      },
+      {
+        "Engligh": "Deploy a banner to grant <color=#00FFA6>15%</color>  Damage Increase and <color=#00FFA6>15%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>15s</color>, with a <color=#00FFA6>55s</color> cooldown.",
+        "Chinese": "部署旗帜，旗帜范围内获得 <color=#00FFA6>15%</color> 伤害增加和 <color=#00FFA6>15%</color> 伤害减免。旗帜持续 <color=#00FFA6>15秒</color> ， 冷却时间<color=#00FFA6>55秒</color>。"
+      },
+      {
+        "Engligh": "Deploy a banner to grant <color=#00FFA6>20%</color>  Damage Increase and <color=#00FFA6>20%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>20s</color>, with a <color=#00FFA6>50s</color> cooldown.",
+        "Chinese": "部署旗帜，旗帜范围内获得 <color=#00FFA6>20%</color> 伤害增加和 <color=#00FFA6>20%</color> 伤害减免。旗帜持续 <color=#00FFA6>20秒</color> ， 冷却时间<color=#00FFA6>50秒</color>。"
+      },
+      {
+        "Engligh": "Deploy a banner to grant <color=#00FFA6>25%</color>  Damage Increase and <color=#00FFA6>25%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>25s</color>, with a <color=#00FFA6>45s</color> cooldown.",
+        "Chinese": "部署旗帜，旗帜范围内获得 <color=#00FFA6>25%</color> 伤害增加和 <color=#00FFA6>25%</color> 伤害减免。旗帜持续 <color=#00FFA6>25秒</color> ， 冷却时间<color=#00FFA6>45秒</color>。"
+      },
+      {
+        "Engligh": "Deploy a banner to grant <color=#00FFA6>30%</color>  Damage Increase and <color=#00FFA6>30%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>30s</color>, with a <color=#00FFA6>40s</color> cooldown.",
+        "Chinese": "部署旗帜，旗帜范围内获得 <color=#00FFA6>30%</color> 伤害增加和 <color=#00FFA6>30%</color> 伤害减免。旗帜持续 <color=#00FFA6>30秒</color> ， 冷却时间<color=#00FFA6>40秒</color>。"
+      },
+      {
+        "Engligh": "Slows nearby enemies by <color=#00FFA6>10%</color>  in a <color=#00FFA6>3</color> -unit radius. This effect lasts <color=#00FFA6>10s</color> , with a <color=#00FFA6>60s</color> cooldown.",
+        "Chinese": "使周围 <color=#00FFA6>3</color>  单位范围内的敌人减速 <color=#00FFA6>10%</color> 。效果持续 <color=#00FFA6>10</color>  秒，冷却时间 <color=#00FFA6>60</color>  秒"
+      },
+      {
+        "Engligh": "Slows nearby enemies by <color=#00FFA6>15%</color>  in a <color=#00FFA6>4</color> -unit radius. This effect lasts <color=#00FFA6>15s</color> , with a <color=#00FFA6>55s</color> cooldown.",
+        "Chinese": "使周围 <color=#00FFA6>4</color>  单位范围内的敌人减速 <color=#00FFA6>15%</color> 。效果持续 <color=#00FFA6>15</color>  秒，冷却时间 <color=#00FFA6>55</color>  秒"
+      },
+      {
+        "Engligh": "Slows nearby enemies by <color=#00FFA6>20%</color>  in a <color=#00FFA6>5</color> -unit radius. This effect lasts <color=#00FFA6>20s</color> , with a <color=#00FFA6>50s</color> cooldown.",
+        "Chinese": "使周围 <color=#00FFA6>5</color>  单位范围内的敌人减速 <color=#00FFA6>20%</color> 。效果持续 <color=#00FFA6>20</color>  秒，冷却时间 <color=#00FFA6>50</color>  秒"
+      },
+      {
+        "Engligh": "Slows nearby enemies by <color=#00FFA6>25%</color>  in a <color=#00FFA6>6</color> -unit radius. This effect lasts <color=#00FFA6>25s</color> , with a <color=#00FFA6>45s</color> cooldown.",
+        "Chinese": "使周围 <color=#00FFA6>6</color>  单位范围内的敌人减速 <color=#00FFA6>25%</color> 。效果持续 <color=#00FFA6>25</color>  秒，冷却时间 <color=#00FFA6>45</color>  秒"
+      },
+      {
+        "Engligh": "Slows nearby enemies by <color=#00FFA6>30%</color>  in a <color=#00FFA6>7</color> -unit radius. This effect lasts <color=#00FFA6>30s</color> , with a <color=#00FFA6>40s</color> cooldown.",
+        "Chinese": "使周围 <color=#00FFA6>7</color>  单位范围内的敌人减速 <color=#00FFA6>30%</color> 。效果持续 <color=#00FFA6>30</color>  秒，冷却时间 <color=#00FFA6>40</color>  秒"
+      },
+      {
+        "Engligh": "Dash a damage that has a <color=#00FFA6>20%</color>  chance to stun enemy for <color=#00FFA6>1s</color> .",
+        "Chinese": "举盾造成伤害，有 <color=#00FFA6>20%</color> 的几率使敌人晕眩 <color=#00FFA6>1</color> 秒。"
+      },
+      {
+        "Engligh": "Dash a damage that has a <color=#00FFA6>30%</color>  chance to stun enemy for <color=#00FFA6>1.5s</color> .",
+        "Chinese": "举盾造成伤害，有 <color=#00FFA6>30%</color> 的几率使敌人晕眩 <color=#00FFA6>1.5</color> 秒。"
+      },
+      {
+        "Engligh": "Dash a damage that has a <color=#00FFA6>40%</color>  chance to stun enemy for <color=#00FFA6>2s</color> .",
+        "Chinese": "举盾造成伤害，有 <color=#00FFA6>40%</color> 的几率使敌人晕眩 <color=#00FFA6>2</color> 秒。"
+      },
+      {
+        "Engligh": "Dash a damage that has a <color=#00FFA6>50%</color>  chance to stun enemy for <color=#00FFA6>2.5s</color> .",
+        "Chinese": "举盾造成伤害，有 <color=#00FFA6>50%</color> 的几率使敌人晕眩 <color=#00FFA6>2.5</color> 秒。"
+      },
+      {
+        "Engligh": "Dash a damage that has a <color=#00FFA6>60%</color>  chance to stun enemy for <color=#00FFA6>3s</color> .",
+        "Chinese": "举盾造成伤害，有 <color=#00FFA6>60%</color> 的几率使敌人晕眩 <color=#00FFA6>3</color> 秒。"
+      },
+      {
+        "Engligh": "Activates a state that greatly increases HP by <color=#00FFA6>10%</color>  and damage output by <color=#00FFA6>10%</color> , but decreases movement speed by <color=#00FFA6>5%</color> .",
+        "Chinese": "激活泰坦状态，提高 <color=#00FFA6>10%</color> 生命值上限，提升 <color=#00FFA6>10%</color> 伤害输出，但降低 <color=#00FFA6>5%</color> 移动速度,持续 <color=#00FFA6>5</color> 秒。"
+      },
+      {
+        "Engligh": "Activates a state that greatly increases HP by <color=#00FFA6>20%</color>  and damage output by <color=#00FFA6>20%</color> , but decreases movement speed by <color=#00FFA6>10%</color> .",
+        "Chinese": "激活泰坦状态，提高 <color=#00FFA6>20%</color> 生命值上限，提升 <color=#00FFA6>20%</color> 伤害输出，但降低 <color=#00FFA6>10%</color> 移动速度,持续 <color=#00FFA6>6</color> 秒。"
+      },
+      {
+        "Engligh": "Activates a state that greatly increases HP by <color=#00FFA6>30%</color>  and damage output by <color=#00FFA6>30%</color> , but decreases movement speed by <color=#00FFA6>15%</color> .",
+        "Chinese": "激活泰坦状态，提高 <color=#00FFA6>30%</color> 生命值上限，提升 <color=#00FFA6>30%</color> 伤害输出，但降低 <color=#00FFA6>15%</color> 移动速度,持续 <color=#00FFA6>7</color> 秒。"
+      },
+      {
+        "Engligh": "Activates a state that greatly increases HP by <color=#00FFA6>40%</color>  and damage output by <color=#00FFA6>40%</color> , but decreases movement speed by <color=#00FFA6>20%</color> .",
+        "Chinese": "激活泰坦状态，提高 <color=#00FFA6>40%</color> 生命值上限，提升 <color=#00FFA6>40%</color> 伤害输出，但降低 <color=#00FFA6>20%</color> 移动速度,持续 <color=#00FFA6>8</color> 秒。"
+      },
+      {
+        "Engligh": "Activates a state that greatly increases HP by <color=#00FFA6>50%</color>  and damage output by <color=#00FFA6>50%</color> , but decreases movement speed by <color=#00FFA6>25%</color> .",
+        "Chinese": "激活泰坦状态，提高 <color=#00FFA6>50%</color> 生命值上限，提升 <color=#00FFA6>50%</color> 伤害输出，但降低 <color=#00FFA6>25%</color> 移动速度,持续 <color=#00FFA6>10</color> 秒。"
+      },
+      {
+        "Engligh": "Stuns and weakens nearby enemies",
+        "Chinese": "晕眩并使周围敌人虚弱"
+      },
+      {
+        "Engligh": "Stuns and weakens nearby enemies",
+        "Chinese": "晕眩并使周围敌人虚弱"
+      },
+      {
+        "Engligh": "Stuns and weakens nearby enemies",
+        "Chinese": "晕眩并使周围敌人虚弱"
+      },
+      {
+        "Engligh": "Stuns and weakens nearby enemies",
+        "Chinese": "晕眩并使周围敌人虚弱"
+      },
+      {
+        "Engligh": "Stuns and weakens nearby enemies",
+        "Chinese": "晕眩并使周围敌人虚弱"
+      },
+      {
+        "Engligh": "Release <color=#00FFA6>1</color> rotating throwing knife to attack the enemy with a <color=#00FFA6>45s</color> cooldown.",
+        "Chinese": "释放 <color=#00FFA6>1</color> 个旋转飞刀攻击敌人,冷却时间 <color=#00FFA6>45秒</color>。"
+      },
+      {
+        "Engligh": "Release <color=#00FFA6>2</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>40s</color> cooldown.",
+        "Chinese": "释放 <color=#00FFA6>2</color> 个旋转飞刀攻击敌人,冷却时间 <color=#00FFA6>40秒</color>。"
+      },
+      {
+        "Engligh": "Release <color=#00FFA6>3</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>35s</color> cooldown.",
+        "Chinese": "释放 <color=#00FFA6>3</color> 个旋转飞刀攻击敌人,冷却时间 <color=#00FFA6>35秒</color>。"
+      },
+      {
+        "Engligh": "Release <color=#00FFA6>4</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown.",
+        "Chinese": "释放 <color=#00FFA6>4</color> 个旋转飞刀攻击敌人,冷却时间 <color=#00FFA6>30秒</color>。"
+      },
+      {
+        "Engligh": "Release <color=#00FFA6>5</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown.",
+        "Chinese": "释放 <color=#00FFA6>5</color> 个旋转飞刀攻击敌人,冷却时间 <color=#00FFA6>30秒</color>。"
+      }
+    ]
+  },
+  "SkillTreeNameTextDataList": {
+    "Array": [
+      {
+        "Engligh": "HardenedConstitution",
+        "Chinese": "坚硬法则"
+      },
+      {
+        "Engligh": "IroncladArmor",
+        "Chinese": "钢铁之躯"
+      },
+      {
+        "Engligh": "BerserkersFury",
+        "Chinese": "狂战士之怒"
+      },
+      {
+        "Engligh": "BladeMastery",
+        "Chinese": "血刃大师"
+      },
+      {
+        "Engligh": "Bloodthirst",
+        "Chinese": "嗜血"
+      },
+      {
+        "Engligh": "BulwarkStance",
+        "Chinese": "全副武装"
+      },
+      {
+        "Engligh": "Cleave",
+        "Chinese": "劈砍"
+      },
+      {
+        "Engligh": "CrushingBlows",
+        "Chinese": "粉碎性打击"
+      },
+      {
+        "Engligh": "Executioner",
+        "Chinese": "刽子手"
+      },
+      {
+        "Engligh": "IronHeart",
+        "Chinese": "机械之心"
+      },
+      {
+        "Engligh": "SpikedArmor",
+        "Chinese": "尖刺铠甲"
+      },
+      {
+        "Engligh": "SwiftStrikes",
+        "Chinese": "迅捷打击"
+      },
+      {
+        "Engligh": "BattleStandard",
+        "Chinese": "战斗姿态"
+      },
+      {
+        "Engligh": "ChillingAura",
+        "Chinese": "寒冰光环"
+      },
+      {
+        "Engligh": "ShieldBash",
+        "Chinese": "盾击"
+      },
+      {
+        "Engligh": "TitansMight",
+        "Chinese": "泰坦之力"
+      },
+      {
+        "Engligh": "Warcry",
+        "Chinese": "战争怒吼"
+      },
+      {
+        "Engligh": "Whirlwind",
+        "Chinese": "刃旋风"
+      }
+    ]
+  },
+  "SkillTreeUITittleList": {
+    "Array": [
+      {
+        "Engligh": "level |    /1",
+        "Chinese": "   LV  |    /1"
+      },
+      {
+        "Engligh": "level |    /2",
+        "Chinese": "   LV  |    /2"
+      },
+      {
+        "Engligh": "level |    /3",
+        "Chinese": "   LV  |    /3"
+      },
+      {
+        "Engligh": "level |    /4",
+        "Chinese": "   LV  |    /4"
+      },
+      {
+        "Engligh": "level |    /5",
+        "Chinese": "   LV  |    /5"
+      },
+      {
+        "Engligh": "level |    /6",
+        "Chinese": "   LV  |    /6"
+      },
+      {
+        "Engligh": "level |    /7",
+        "Chinese": "   LV  |    /7"
+      }
+    ]
+  },
+  "ArtifactDimensageWordsList": {
+    "Array": []
+  },
+  "ArtifactKnightWordsList": {
+    "Array": []
+  },
+  "ArtifactSoldierWordsList": {
+    "Array": []
+  },
+  "ArtifactRank1WordsList": {
+    "Array": []
+  },
+  "ArtifactRank2WordsList": {
+    "Array": []
+  },
+  "ArtifactRank3WordsList": {
+    "Array": []
+  },
+  "ArtifactNameList": {
+    "Array": [
+      {
+        "Engligh": "RESIDUAL ARTIFACT OF <color=#87CEEB>DEFENSE</color>",
+        "Chinese": "<color=#87CEEB>防御型</color>残响神器"
+      },
+      {
+        "Engligh": "REDISUAL ARTIFACT OF  <color=red>ATTACK</color>",
+        "Chinese": "<color=red>攻击型</color>残响神器"
+      },
+      {
+        "Engligh": "REDISUAL ARTIFACT OF  <color=purple>SCALING</color>",
+        "Chinese": "<color=purple>扩展型</color>残响神器"
+      },
+      {
+        "Engligh": "ATTUNED ARTIFACT OF <color=#87CEEB>DEFENSE</color>",
+        "Chinese": "<color=#87CEEB>防御型</color>共鸣神器"
+      },
+      {
+        "Engligh": "ATTUNED ARTIFACT OF  <color=red>ATTACK</color>",
+        "Chinese": "<color=red>攻击型</color>共鸣神器"
+      },
+      {
+        "Engligh": "ATTUNED ARTIFACT OF  <color=purple>SCALING</color>",
+        "Chinese": "<color=purple>扩展型</color>共鸣神器"
+      },
+      {
+        "Engligh": "ASCENDANT ARTIFACT OF <color=#87CEEB>DEFENSE</color>",
+        "Chinese": "<color=#87CEEB>防御型</color>超凡神器"
+      },
+      {
+        "Engligh": "ASCENDANT ARTIFACT OF  <color=red>ATTACK</color>",
+        "Chinese": "<color=red>攻击型</color>超凡神器"
+      },
+      {
+        "Engligh": "ASCENDANT ARTIFACT OF  <color=purple>SCALING</color>",
+        "Chinese": "<color=purple>扩展型</color>超凡神器"
+      },
+      {
+        "Engligh": "SANCTIFIED ARTIFACT OF <color=yellow>DIMENSAGE</color>",
+        "Chinese": "<color=yellow>法师</color>的极乐圣物"
+      },
+      {
+        "Engligh": "SANCTIFIED ARTIFACT OF <color=yellow>KNIGHT</color>",
+        "Chinese": "<color=yellow>骑士</color>的极乐圣物"
+      },
+      {
+        "Engligh": "SANCTIFIED ARTIFACT OF <color=yellow>SOLDIER</color>",
+        "Chinese": "<color=yellow>战士</color>的极乐圣物"
+      }
+    ]
+  }
+}

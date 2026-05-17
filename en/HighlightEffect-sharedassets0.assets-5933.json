@@ -1,0 +1,351 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2542
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3251
+  },
+  "m_Name": "",
+  "profile": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "profileSync": 0,
+  "previewInEditor": 1,
+  "camerasLayerMask": {
+    "m_Bits": 4294967295
+  },
+  "effectGroup": 0,
+  "effectGroupLayer": {
+    "m_Bits": 4294967295
+  },
+  "effectNameFilter": "",
+  "effectNameUseRegEx": 0,
+  "combineMeshes": 0,
+  "alphaCutOff": 0.0,
+  "cullBackFaces": 1,
+  "padding": 0.0,
+  "ignoreObjectVisibility": 0,
+  "reflectionProbes": 0,
+  "GPUInstancing": 1,
+  "optimizeSkinnedMesh": 1,
+  "depthClip": 0,
+  "cameraDistanceFade": 0,
+  "cameraDistanceFadeNear": 0.0,
+  "cameraDistanceFadeFar": 1000.0,
+  "normalsOption": 0,
+  "ignore": 0,
+  "_highlighted": 0,
+  "fadeInDuration": 0.0,
+  "fadeOutDuration": 0.0,
+  "flipY": 0,
+  "constantWidth": 1,
+  "minimumWidth": 0.0,
+  "subMeshMask": -1,
+  "overlay": 0.0,
+  "overlayMode": 0,
+  "overlayColor": {
+    "r": 1.0,
+    "g": 0.92156863,
+    "b": 0.015686275,
+    "a": 1.0
+  },
+  "overlayAnimationSpeed": 1.0,
+  "overlayMinIntensity": 0.5,
+  "overlayBlending": 1.0,
+  "overlayTexture": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "overlayTextureUVSpace": 0,
+  "overlayTextureScale": 1.0,
+  "overlayTextureScrolling": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "overlayVisibility": 0,
+  "outline": 1.0,
+  "outlineColor": {
+    "r": 0.0,
+    "g": 1.2502167,
+    "b": 1.3567693,
+    "a": 1.0
+  },
+  "outlineColorStyle": 0,
+  "outlineGradient": {
+    "key0": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "key1": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "key2": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key3": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key4": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key5": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key6": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "key7": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "ctime0": 0,
+    "ctime1": 65535,
+    "ctime2": 0,
+    "ctime3": 0,
+    "ctime4": 0,
+    "ctime5": 0,
+    "ctime6": 0,
+    "ctime7": 0,
+    "atime0": 0,
+    "atime1": 65535,
+    "atime2": 0,
+    "atime3": 0,
+    "atime4": 0,
+    "atime5": 0,
+    "atime6": 0,
+    "atime7": 0,
+    "m_Mode": 0,
+    "m_NumColorKeys": 2,
+    "m_NumAlphaKeys": 2
+  },
+  "outlineGradientInLocalSpace": 0,
+  "outlineWidth": 0.45,
+  "outlineBlurPasses": 2,
+  "outlineQuality": 3,
+  "outlineEdgeMode": 0,
+  "outlineEdgeThreshold": 0.995,
+  "outlineSharpness": 1.0,
+  "outlineDownsampling": 1,
+  "outlineVisibility": 0,
+  "glowBlendMode": 0,
+  "outlineOptimalBlit": 1,
+  "outlineBlitDebug": 0,
+  "outlineIndependent": 0,
+  "outlineContourStyle": 0,
+  "glow": 0.0,
+  "glowWidth": 0.4,
+  "glowQuality": 3,
+  "glowBlurMethod": 0,
+  "glowDownsampling": 2,
+  "glowHQColor": {
+    "r": 0.64,
+    "g": 1.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "glowDithering": 1.0,
+  "glowDitheringStyle": 0,
+  "glowMagicNumber1": 0.75,
+  "glowMagicNumber2": 0.5,
+  "glowAnimationSpeed": 1.0,
+  "glowVisibility": 0,
+  "glowOptimalBlit": 1,
+  "glowBlitDebug": 0,
+  "glowBlendPasses": 1,
+  "glowPasses": {
+    "Array": [
+      {
+        "offset": 4.0,
+        "alpha": 0.1,
+        "color": {
+          "r": 0.64,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "offset": 3.0,
+        "alpha": 0.2,
+        "color": {
+          "r": 0.64,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "offset": 2.0,
+        "alpha": 0.3,
+        "color": {
+          "r": 0.64,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "offset": 1.0,
+        "alpha": 0.4,
+        "color": {
+          "r": 0.64,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "glowIgnoreMask": 0,
+  "innerGlow": 0.0,
+  "innerGlowWidth": 1.0,
+  "innerGlowColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "innerGlowBlendMode": 0,
+  "innerGlowVisibility": 0,
+  "targetFX": 0,
+  "targetFXTexture": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "targetFXColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "targetFXCenter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "targetFXRotationSpeed": 50.0,
+  "targetFXInitialScale": 4.0,
+  "targetFXEndScale": 1.5,
+  "targetFXScaleToRenderBounds": 1,
+  "targetFXUseEnclosingBounds": 0,
+  "targetFXAlignToGround": 0,
+  "targetFXOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "targetFXFadePower": 32.0,
+  "targetFXGroundMaxDistance": 10.0,
+  "targetFXGroundLayerMask": {
+    "m_Bits": 4294967295
+  },
+  "targetFXTransitionDuration": 0.5,
+  "targetFXStayDuration": 1.5,
+  "targetFXVisibility": 1,
+  "iconFX": 0,
+  "iconFXMesh": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "iconFXLightColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "iconFXDarkColor": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1.0
+  },
+  "iconFXCenter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "iconFXRotationSpeed": 50.0,
+  "iconFXAnimationOption": 0,
+  "iconFXAnimationAmount": 0.1,
+  "iconFXAnimationSpeed": 3.0,
+  "iconFXScale": 1.0,
+  "iconFXScaleToRenderBounds": 0,
+  "iconFXOffset": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 0.0
+  },
+  "iconFXTransitionDuration": 0.5,
+  "iconFXStayDuration": 1.5,
+  "seeThrough": 2,
+  "seeThroughOccluderMask": {
+    "m_Bits": 4294967295
+  },
+  "seeThroughOccluderThreshold": 0.3,
+  "seeThroughOccluderMaskAccurate": 0,
+  "seeThroughOccluderCheckInterval": 1.0,
+  "seeThroughOccluderCheckIndividualObjects": 0,
+  "seeThroughDepthOffset": 0.0,
+  "seeThroughMaxDepth": 0.0,
+  "seeThroughIntensity": 0.8,
+  "seeThroughTintAlpha": 0.5,
+  "seeThroughTintColor": {
+    "r": 1.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "seeThroughNoise": 1.0,
+  "seeThroughBorder": 0.0,
+  "seeThroughBorderColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "seeThroughBorderOnly": 0,
+  "seeThroughBorderWidth": 0.45,
+  "seeThroughOrdered": 0,
+  "seeThroughTexture": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "seeThroughTextureUVSpace": 0,
+  "seeThroughTextureScale": 1.0,
+  "seeThroughChildrenSortingMode": 0,
+  "rmsCount": 1,
+  "hitFxInitialIntensity": 0.0,
+  "hitFxMode": 0,
+  "hitFxFadeOutDuration": 0.25,
+  "hitFxColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "hitFxRadius": 0.5
+}

@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2704
+  },
+  "m_Name": "GPUInstancerSettings",
+  "versionNo": 1.81,
+  "shaderBindings": {
+    "m_FileID": 0,
+    "m_PathID": 3694
+  },
+  "billboardAtlasBindings": {
+    "m_FileID": 0,
+    "m_PathID": 3692
+  },
+  "shaderVariantCollection": {
+    "m_FileID": 2,
+    "m_PathID": 1590
+  },
+  "packagesLoaded": 1,
+  "isHDRP": 0,
+  "isLWRP": 0,
+  "isURP": 0,
+  "isShaderGraphPresent": 0,
+  "instancingBoundsSize": 10000,
+  "MAX_DETAIL_DISTANCE": 2500.0,
+  "MAX_TREE_DISTANCE": 2500.0,
+  "MAX_PREFAB_DISTANCE": 10000.0,
+  "MAX_PREFAB_EXTRA_BUFFER_SIZE": 16384,
+  "useCustomPreviewBackgroundColor": 0,
+  "previewBackgroundColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "disableAutoGenerateBillboards": 0,
+  "disableShaderVariantCollection": 0,
+  "disableInstanceCountWarning": 0,
+  "disableAutoShaderConversion": 0,
+  "disableAutoVariantHandling": 0,
+  "useOriginalMaterialWhenInstanced": 1,
+  "testBothEyesForVROcclusion": 1,
+  "extensionSettings": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 3690
+      }
+    ]
+  },
+  "renderingSettingPresets": {
+    "Array": [
+      {
+        "platform": 0,
+        "matrixHandlingType": 0,
+        "computeThreadCount": 3
+      },
+      {
+        "platform": 1,
+        "matrixHandlingType": 0,
+        "computeThreadCount": 2
+      },
+      {
+        "platform": 2,
+        "matrixHandlingType": 0,
+        "computeThreadCount": 2
+      },
+      {
+        "platform": 3,
+        "matrixHandlingType": 2,
+        "computeThreadCount": 1
+      },
+      {
+        "platform": 4,
+        "matrixHandlingType": 2,
+        "computeThreadCount": 1
+      },
+      {
+        "platform": 5,
+        "matrixHandlingType": 0,
+        "computeThreadCount": 3
+      },
+      {
+        "platform": 6,
+        "matrixHandlingType": 0,
+        "computeThreadCount": 3
+      }
+    ]
+  },
+  "hasCustomRenderingSettings": 0,
+  "customRenderingSettings": {
+    "platform": 0,
+    "matrixHandlingType": 0,
+    "computeThreadCount": 0
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2556
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 623
+  },
+  "m_Name": "",
+  "shaderFamily": "UIDefault",
+  "blendMode": 6,
+  "renderMode": 0,
+  "maskMode": 0,
+  "maskBehaviour": 0,
+  "overlayColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "overlayTexture": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "overlayTextureOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "overlayTextureScale": {
+    "x": 1.0,
+    "y": 1.0
+  },
+  "framebufferEnabled": 0,
+  "unifiedGrabEnabled": 0,
+  "shareMaterial": 0,
+  "blendMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "componentExtensionState": {
+    "extendedComponent": {
+      "m_FileID": 0,
+      "m_PathID": 5977
+    },
+    "shaderProperties": {
+      "Array": [
+        {
+          "name": "_Hue",
+          "type": 2,
+          "colorValue": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "vectorValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "floatValue": 0.0,
+          "textureValue": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "name": "_Saturation",
+          "type": 2,
+          "colorValue": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "vectorValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "floatValue": 0.0,
+          "textureValue": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "name": "_Brightness",
+          "type": 2,
+          "colorValue": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "vectorValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "floatValue": 0.0,
+          "textureValue": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        },
+        {
+          "name": "_Contrast",
+          "type": 2,
+          "colorValue": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "vectorValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "floatValue": 0.0,
+          "textureValue": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      ]
+    }
+  }
+}

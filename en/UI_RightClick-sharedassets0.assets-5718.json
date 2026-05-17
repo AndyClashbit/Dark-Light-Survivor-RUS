@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5984
+  },
+  "m_Name": "UI/RightClick",
+  "m_Asset": {
+    "m_FileID": 0,
+    "m_PathID": 4215
+  },
+  "m_ActionId": "0aabd767-4ff1-480d-883e-30e70f7adb3b"
+}

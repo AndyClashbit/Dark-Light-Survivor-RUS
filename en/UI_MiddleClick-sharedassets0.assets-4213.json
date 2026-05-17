@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5984
+  },
+  "m_Name": "UI/MiddleClick",
+  "m_Asset": {
+    "m_FileID": 0,
+    "m_PathID": 4215
+  },
+  "m_ActionId": "f917df91-dbd5-4961-ada9-37411f5c2cf4"
+}

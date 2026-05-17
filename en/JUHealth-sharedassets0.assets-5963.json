@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2670
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5931
+  },
+  "m_Name": "",
+  "Health": 100.0,
+  "MaxHealth": 100.0,
+  "Armour": 100.0,
+  "MaxArmour": 100.0,
+  "Shield": 100.0,
+  "MaxShield": 100.0,
+  "EXP": 5,
+  "IsDead": 0,
+  "_enemyHpLifeBar": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_enemyArmourLifeBar": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_enemyShieldLifeBar": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "playerHelper": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "damageBloodAmount": 3.0,
+  "maxBloodIndication": 0.5,
+  "hitRoarCoolDown": 0.0,
+  "forcePower": 12.0,
+  "forcePowerUp": 8.0
+}

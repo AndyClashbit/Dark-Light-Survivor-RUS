@@ -1,0 +1,152 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3801
+  },
+  "m_Name": "EnemyDataList",
+  "DataList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5355
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5324
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5325
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5326
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5328
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5329
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5333
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5340
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5344
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5352
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5353
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5354
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5331
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5341
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5343
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5330
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5351
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5345
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5323
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5334
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5346
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5347
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5348
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5335
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5338
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5336
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5339
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5322
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5349
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5350
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5337
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5342
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5332
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5327
+      }
+    ]
+  }
+}

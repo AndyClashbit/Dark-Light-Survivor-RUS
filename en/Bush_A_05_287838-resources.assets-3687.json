@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 886
+  },
+  "m_Name": "Bush_A_05_287838",
+  "prefabObject": {
+    "m_FileID": 0,
+    "m_PathID": 2051
+  },
+  "isShadowCasting": 1,
+  "useCustomShadowDistance": 0,
+  "shadowDistance": 0.0,
+  "shadowLODMap": {
+    "Array": [
+      0.0,
+      4.0,
+      0.0,
+      0.0,
+      1.0,
+      5.0,
+      0.0,
+      0.0,
+      2.0,
+      6.0,
+      0.0,
+      0.0,
+      3.0,
+      7.0,
+      0.0,
+      0.0
+    ]
+  },
+  "useOriginalShaderForShadow": 0,
+  "cullShadows": 0,
+  "minDistance": 0.0,
+  "maxDistance": 500.0,
+  "isFrustumCulling": 1,
+  "isOcclusionCulling": 1,
+  "frustumOffset": 0.2,
+  "minCullingDistance": 0.0,
+  "occlusionOffset": 0.0,
+  "occlusionAccuracy": 1,
+  "boundsOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "isLODCrossFade": 0,
+  "isLODCrossFadeAnimate": 1,
+  "lodFadeTransitionWidth": 0.1,
+  "lodBiasAdjustment": 1.0,
+  "billboard": {
+    "billboardQuality": 1,
+    "atlasResolution": 2048,
+    "frameCount": 8,
+    "replaceLODCullWithBillboard": 1,
+    "isOverridingOriginalCutoff": 0,
+    "cutoffOverride": -1.0,
+    "billboardBrightness": 0.5,
+    "billboardDistance": 0.8,
+    "quadSize": 0.0,
+    "yPivotOffset": 0.0,
+    "albedoAtlasTexture": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "normalAtlasTexture": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "customBillboardInLODGroup": 0,
+    "useCustomBillboard": 0,
+    "customBillboardMesh": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "customBillboardMaterial": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "isBillboardShadowCasting": 0,
+    "billboardFaceCamPos": 0,
+    "normalStrength": 1.0
+  },
+  "isBillboardDisabled": 0,
+  "useGeneratedBillboard": 0,
+  "checkedForBillboardExtensions": 1,
+  "autoUpdateTransformData": 1,
+  "treeType": 0,
+  "enableRuntimeModifications": 1,
+  "startWithRigidBody": 0,
+  "addRemoveInstancesAtRuntime": 1,
+  "extraBufferSize": 0,
+  "addRuntimeHandlerScript": 1,
+  "hasRigidBody": 0,
+  "rigidbodyData": {
+    "useGravity": 0,
+    "angularDrag": 0.0,
+    "mass": 0.0,
+    "constraints": 0,
+    "drag": 0.0,
+    "isKinematic": 0,
+    "interpolation": 0
+  },
+  "meshRenderersDisabled": 0,
+  "isTransformsSerialized": 0,
+  "serializedTransformData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "serializedTransformDataCount": 0
+}

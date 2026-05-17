@@ -1,0 +1,161 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3238
+  },
+  "m_Name": "Totem of Glassened Might",
+  "totemID": 11,
+  "totemName": "Totem of Glassened Might",
+  "description": "Gain {5} melee damage and {0} attack speed, but permanently lose {1} Max Life and {2} Armor. \\n\\nHealth Globes cannot heal past lose {3} life, and using a Potion damages you for {4} Max Life first.",
+  "normalDesc": {
+    "Array": []
+  },
+  "healDesc": {
+    "Array": [
+      {
+        "Key": 0,
+        "Value": "+10%"
+      },
+      {
+        "Key": 5,
+        "Value": "+40%"
+      }
+    ]
+  },
+  "reduceDesc": {
+    "Array": [
+      {
+        "Key": 4,
+        "Value": "10%"
+      },
+      {
+        "Key": 1,
+        "Value": "30%"
+      },
+      {
+        "Key": 2,
+        "Value": "15%"
+      },
+      {
+        "Key": 3,
+        "Value": "70%"
+      }
+    ]
+  },
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "type": 11,
+  "curseDuration": 0.0,
+  "isPermanent": 1,
+  "progressType": 0,
+  "progressRequirement": 0.0,
+  "hasCompleted": 0,
+  "hasFailed": 0,
+  "HasWeapon": 0,
+  "isRangeWeapon": 0,
+  "weaponID": 0,
+  "weaponQuality": 0,
+  "WeaponName": "",
+  "shopItemRarity": 3,
+  "enableMissingHpDamageBonus": 0,
+  "missingHpDamageBonusPercent": 0.0,
+  "missingHpDamageBonusCap": 0.0,
+  "addAllDamagePercent": 0.0,
+  "addMeleeDamagePercent": 40.0,
+  "addRangedDamagePercent": 0.0,
+  "addAttackSpeedPercent": 10.0,
+  "addMovementSpeedPercent": 0.0,
+  "addMaxHpPercent": 0.0,
+  "addFireDamagePercent": 0.0,
+  "addIceDamagePercent": 0.0,
+  "addLightningDamagePercent": 0.0,
+  "addPoisonDamagePercent": 0.0,
+  "addDCDropPercent": 0.0,
+  "addDCIncomePercent": 0.0,
+  "hpThresholdForDamageReduction": 0.0,
+  "damageLimitAbove60": 0.0,
+  "reduceMaxHpPercent": 30.0,
+  "healthOrbHealReductionPercent": 0.0,
+  "potionHealReductionPercent": 0.0,
+  "shopPriceIncreasePercent": 0.0,
+  "dCLossWhenHitPercent": 0.0,
+  "meleeDamageReductionPercent": 0.0,
+  "sprintStaminaCostIncrease": 0.0,
+  "enableEchoStrike": 0,
+  "enableStaticBarrage": 0,
+  "enableEchoShot": 0,
+  "enableExtraLife": 0,
+  "healthOrbDealsDamage": 0,
+  "meleePenaltyWhenStationary": 0,
+  "addFireResistance": 0.0,
+  "addIceResistance": 0.0,
+  "addLightningResistance": 0.0,
+  "addPoisonResistance": 0.0,
+  "addPhysicalResistance": 0.0,
+  "addAllResistance": 0.0,
+  "hpThresholdForPenalty": 70.0,
+  "aboveHpThresholdDamageReduction": 0.0,
+  "damageStackPerHealthOrb": 0.0,
+  "maxDamageStacks": 0,
+  "staticBarrageChainCount": 0,
+  "staticBarrageChainDamage": 0.0,
+  "echoStrikeDamagePercent": 0.0,
+  "echoSelfDamagePercent": 0.0,
+  "echoShotDamagePercent": 0.0,
+  "echoShotTriggerCount": 0,
+  "grantPermanentBonusOnSuccess": 0,
+  "permanentDamageBonus": 0.0,
+  "permanentAttackSpeedBonus": 0.0,
+  "permanentMovementSpeedBonus": 0.0,
+  "permanentDCIncomeBonus": 0.0,
+  "applyPermanentPenaltyOnFail": 0,
+  "permanentMaxHpReduction": 0.0,
+  "instantHpDamagePercent": 0.0,
+  "BindCursedWeapon": 0,
+  "failedHealthOrbHealReductionPercent": 0.0,
+  "failedMaxHPReductionPercent": 0.0,
+  "onTotemActivated": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onTotemSuccess": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onTotemFailed": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "isActive": 1,
+  "currentTime": 16.66794,
+  "currentProgress": 0.0,
+  "hasCompletedRequirement": 1,
+  "playerHitOnStillDamageValue": 0.0,
+  "haveCursedWeaponReduceMaxHpRef": 0.0,
+  "HealingOrbReduction": 0.0,
+  "PotionHealingReduction": 0.0,
+  "potionsHealDamage": 10.0,
+  "healthOrbHealMaxHpRef": 70.0,
+  "haveCursedWeaponAddFireResistance": 0.0,
+  "haveCursedWeaponAddIceResistance": 0.0,
+  "haveCursedWeaponAddLightningResistance": 0.0,
+  "haveCursedWeaponAddPoisonResistance": 0.0,
+  "haveCursedWeaponAddPhysicalResistance": 0.0,
+  "haveCursedWeaponAddAllResistance": 0.0
+}

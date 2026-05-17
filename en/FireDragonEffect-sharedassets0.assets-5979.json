@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2378
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4874
+  },
+  "m_Name": "",
+  "meshTerrainAdapters": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 6020
+      }
+    ]
+  },
+  "triggerSphere": {
+    "m_FileID": 0,
+    "m_PathID": 3782
+  },
+  "endPos": {
+    "m_FileID": 0,
+    "m_PathID": 3064
+  },
+  "meshTerrainAdapter_ForParticle": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "meshTerrainAdapter_ForParticle2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "meshTerrainAdapter_ForParticle3": {
+    "m_FileID": 0,
+    "m_PathID": 6011
+  },
+  "selfDamage": 150.0
+}

@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2518
+  },
+  "m_Enabled": 0,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2652
+  },
+  "m_Name": "",
+  "Point": 24,
+  "SpecialFollowHead": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "UpDistance": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "SpecialPos1": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "SpecialRot1": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "SpecialSca1": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "SpecialPos2": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "SpecialRot2": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "SpecialSca2": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2670
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5524
+  },
+  "m_Name": "",
+  "enemyBaseData": {
+    "m_FileID": 0,
+    "m_PathID": 5340
+  },
+  "enemyData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "health": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "enemyAI": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "AI_Gorilla": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rb": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DropItemLoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hitEffectCreater": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "secondsToDie": 2.0,
+  "pool": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "characterHitStop": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "enemyAnimManager": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CurEnemyStatus": 0,
+  "LastEnemyStatus": 0,
+  "selfEnemyCollider": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ShieldMoveCollider": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "enemyBuffManager": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "EnemyId": 8,
+  "BelongArea": "",
+  "CanSplit": 0,
+  "bCreateSummon": 0,
+  "createType": 0,
+  "bNeedCrazy": 0,
+  "crazyType": 0,
+  "bBreakCrazy": 0,
+  "bBreakCrazying": 0,
+  "bFlyMoveingAtk": 0,
+  "curSkillType": 0,
+  "bNeedGroup": 0,
+  "roarChance": -1.0,
+  "bBornOver": 0,
+  "bHighInfectivity": 0,
+  "FrameCube": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "frameSkinnedMeshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "aimConstraint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rig": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "StartSelfPos": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "EyeCollider": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CurRigWeight": 0.0,
+  "curhitStatus": 0
+}

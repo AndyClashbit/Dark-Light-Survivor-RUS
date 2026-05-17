@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2600
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4336
+  },
+  "m_Name": "",
+  "UsePropertyBlock": 1,
+  "AutoRaycast": 0,
+  "RaycastLength": 1.0,
+  "RaycastOffset": 0.15
+}

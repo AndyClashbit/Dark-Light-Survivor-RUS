@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1462
+  },
+  "m_Name": "RiftMerchantData_Weapon_Q1",
+  "Name": "",
+  "Describe": "",
+  "SpawnTime": 120.0,
+  "DurationTime": 230.0,
+  "CanSelectNum": 4,
+  "MerchantItemList": {
+    "Array": [
+      {
+        "ID": 0,
+        "Name": 1,
+        "TitleName": "",
+        "Describe": "",
+        "Weight": 5.0,
+        "Purchase": -1,
+        "Price": 0,
+        "WeaponWeightNum": 3,
+        "weaponIDTypes": {
+          "Array": [
+            17,
+            0,
+            4,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        "weaponIDTypeWeight": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 0
+      }
+    ]
+  },
+  "MerchantItemRecoverHpNum": 60
+}

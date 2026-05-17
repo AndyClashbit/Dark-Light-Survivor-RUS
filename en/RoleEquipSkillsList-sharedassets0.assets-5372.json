@@ -1,0 +1,1032 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5326
+  },
+  "m_Name": "RoleEquipSkillsList",
+  "roleSkillsList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5579
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5580
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5581
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5582
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5583
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5564
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5565
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5566
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5567
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5568
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5569
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5570
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5571
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5572
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5573
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5574
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5575
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5576
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5577
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5578
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5584
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5585
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5586
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5587
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5588
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5589
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5590
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5591
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5592
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5593
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5484
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5485
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5486
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5487
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5488
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5499
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5500
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5501
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5502
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5503
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5504
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5505
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5506
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5507
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5508
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5509
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5510
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5511
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5512
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5513
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5514
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5515
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5516
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5517
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5518
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5494
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5495
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5496
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5497
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5498
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5489
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5490
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5491
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5492
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5493
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5519
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5520
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5521
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5522
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5523
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5384
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5385
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5386
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5387
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5388
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5389
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5390
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5391
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5392
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5393
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5394
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5395
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5396
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5397
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5398
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5404
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5405
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5406
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5407
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5408
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5399
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5400
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5401
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5402
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5403
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5409
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5410
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5411
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5412
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5413
+      }
+    ]
+  },
+  "roleSkillInfoData": {
+    "RoleSkillInfoList_Soilder": {
+      "Array": [
+        {
+          "skillId": 1108,
+          "widthIdx": 0,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1655
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Deploy a banner to grant <color=#00FFA6>10%</color>  Damage Increase and <color=#00FFA6>10%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>10s</color>, with a <color=#00FFA6>60s</color> cooldown.",
+              "Deploy a banner to grant <color=#00FFA6>15%</color>  Damage Increase and <color=#00FFA6>15%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>12s</color>, with a <color=#00FFA6>55s</color> cooldown.",
+              "Deploy a banner to grant <color=#00FFA6>20%</color>  Damage Increase and <color=#00FFA6>20%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>12s</color>, with a <color=#00FFA6>50s</color> cooldown.",
+              "Deploy a banner to grant <color=#00FFA6>25%</color>  Damage Increase and <color=#00FFA6>25%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>15s</color>, with a <color=#00FFA6>45s</color> cooldown.",
+              "Deploy a banner to grant <color=#00FFA6>30%</color>  Damage Increase and <color=#00FFA6>30%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>15s</color>, with a <color=#00FFA6>40s</color> cooldown."
+            ]
+          }
+        },
+        {
+          "skillId": 1114,
+          "widthIdx": 0,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 1000,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 2246
+          },
+          "RequestSkillId": {
+            "Array": [
+              1107
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Activates a state that greatly increases HP by <color=#00FFA6>10%</color>  and damage output by <color=#00FFA6>10%</color> , but decreases movement speed by <color=#00FFA6>5%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>20%</color>  and damage output by <color=#00FFA6>20%</color> , but decreases movement speed by <color=#00FFA6>10%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>30%</color>  and damage output by <color=#00FFA6>30%</color> , but decreases movement speed by <color=#00FFA6>15%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>40%</color>  and damage output by <color=#00FFA6>40%</color> , but decreases movement speed by <color=#00FFA6>20%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>50%</color>  and damage output by <color=#00FFA6>50%</color> , but decreases movement speed by <color=#00FFA6>25%</color> ."
+            ]
+          }
+        },
+        {
+          "skillId": 1107,
+          "widthIdx": 1,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 2258
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Dash a damage that has a <color=#00FFA6>20%</color>  chance to stun enemy for <color=#00FFA6>1s</color> .",
+              "Dash a damage that has a <color=#00FFA6>30%</color>  chance to stun enemy for <color=#00FFA6>1.5s</color> .",
+              "Dash a damage that has a <color=#00FFA6>40%</color>  chance to stun enemy for <color=#00FFA6>2s</color> .",
+              "Dash a damage that has a <color=#00FFA6>50%</color>  chance to stun enemy for <color=#00FFA6>2.5s</color> .",
+              "Dash a damage that has a <color=#00FFA6>60%</color>  chance to stun enemy for <color=#00FFA6>3s</color> ."
+            ]
+          }
+        },
+        {
+          "skillId": 1112,
+          "widthIdx": 1,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1947
+          },
+          "RequestSkillId": {
+            "Array": [
+              1108
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Slows nearby enemies by <color=#00FFA6>10%</color>  in a <color=#00FFA6>3</color> -unit radius. This effect lasts <color=#00FFA6>10s</color> , with a <color=#00FFA6>60s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>15%</color>  in a <color=#00FFA6>4</color> -unit radius. This effect lasts <color=#00FFA6>15s</color> , with a <color=#00FFA6>55s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>20%</color>  in a <color=#00FFA6>5</color> -unit radius. This effect lasts <color=#00FFA6>20s</color> , with a <color=#00FFA6>50s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>25%</color>  in a <color=#00FFA6>6</color> -unit radius. This effect lasts <color=#00FFA6>25s</color> , with a <color=#00FFA6>45s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>30%</color>  in a <color=#00FFA6>7</color> -unit radius. This effect lasts <color=#00FFA6>30s</color> , with a <color=#00FFA6>40s</color> cooldown."
+            ]
+          }
+        },
+        {
+          "skillId": 1115,
+          "widthIdx": 2,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1653
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies"
+            ]
+          }
+        },
+        {
+          "skillId": 1113,
+          "widthIdx": 2,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1701
+          },
+          "RequestSkillId": {
+            "Array": [
+              1115
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Release <color=#00FFA6>1</color> rotating throwing knife to attack the enemy with a <color=#00FFA6>45s</color> cooldown.",
+              "Release <color=#00FFA6>2</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>40s</color> cooldown.",
+              "Release <color=#00FFA6>3</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>35s</color> cooldown.",
+              "Release <color=#00FFA6>4</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown.",
+              "Release <color=#00FFA6>5</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown."
+            ]
+          }
+        }
+      ]
+    },
+    "RoleSkillInfoList_Magic": {
+      "Array": [
+        {
+          "skillId": 1201,
+          "widthIdx": 0,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1655
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Deploy a banner to grant <color=#00FFA6>10%</color>  Damage Increase and <color=#00FFA6>10%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>10s</color>, with a <color=#00FFA6>60s</color> cooldown.",
+              "Deploy a banner to grant <color=#00FFA6>15%</color>  Damage Increase and <color=#00FFA6>15%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>12s</color>, with a <color=#00FFA6>55s</color> cooldown.",
+              "Deploy a banner to grant <color=#00FFA6>20%</color>  Damage Increase and <color=#00FFA6>20%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>12s</color>, with a <color=#00FFA6>50s</color> cooldown.",
+              "Deploy a banner to grant <color=#00FFA6>25%</color>  Damage Increase and <color=#00FFA6>25%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>15s</color>, with a <color=#00FFA6>45s</color> cooldown.",
+              "Deploy a banner to grant <color=#00FFA6>30%</color>  Damage Increase and <color=#00FFA6>30%</color> Damage Reduction to allies in range. It lasts <color=#00FFA6>15s</color>, with a <color=#00FFA6>40s</color> cooldown."
+            ]
+          }
+        },
+        {
+          "skillId": 1202,
+          "widthIdx": 0,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 1000,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 2246
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Activates a state that greatly increases HP by <color=#00FFA6>10%</color>  and damage output by <color=#00FFA6>10%</color> , but decreases movement speed by <color=#00FFA6>5%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>20%</color>  and damage output by <color=#00FFA6>20%</color> , but decreases movement speed by <color=#00FFA6>10%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>30%</color>  and damage output by <color=#00FFA6>30%</color> , but decreases movement speed by <color=#00FFA6>15%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>40%</color>  and damage output by <color=#00FFA6>40%</color> , but decreases movement speed by <color=#00FFA6>20%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>50%</color>  and damage output by <color=#00FFA6>50%</color> , but decreases movement speed by <color=#00FFA6>25%</color> ."
+            ]
+          }
+        },
+        {
+          "skillId": 1203,
+          "widthIdx": 1,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 2258
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Dash a damage that has a <color=#00FFA6>20%</color>  chance to stun enemy for <color=#00FFA6>1s</color> .",
+              "Dash a damage that has a <color=#00FFA6>30%</color>  chance to stun enemy for <color=#00FFA6>1.5s</color> .",
+              "Dash a damage that has a <color=#00FFA6>40%</color>  chance to stun enemy for <color=#00FFA6>2s</color> .",
+              "Dash a damage that has a <color=#00FFA6>50%</color>  chance to stun enemy for <color=#00FFA6>2.5s</color> .",
+              "Dash a damage that has a <color=#00FFA6>60%</color>  chance to stun enemy for <color=#00FFA6>3s</color> ."
+            ]
+          }
+        },
+        {
+          "skillId": 1204,
+          "widthIdx": 1,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1660
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Slows nearby enemies by <color=#00FFA6>10%</color>  in a <color=#00FFA6>3</color> -unit radius. This effect lasts <color=#00FFA6>10s</color> , with a <color=#00FFA6>60s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>15%</color>  in a <color=#00FFA6>4</color> -unit radius. This effect lasts <color=#00FFA6>15s</color> , with a <color=#00FFA6>55s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>20%</color>  in a <color=#00FFA6>5</color> -unit radius. This effect lasts <color=#00FFA6>20s</color> , with a <color=#00FFA6>50s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>25%</color>  in a <color=#00FFA6>6</color> -unit radius. This effect lasts <color=#00FFA6>25s</color> , with a <color=#00FFA6>45s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>30%</color>  in a <color=#00FFA6>7</color> -unit radius. This effect lasts <color=#00FFA6>30s</color> , with a <color=#00FFA6>40s</color> cooldown."
+            ]
+          }
+        },
+        {
+          "skillId": 1205,
+          "widthIdx": 2,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1653
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies"
+            ]
+          }
+        },
+        {
+          "skillId": 1206,
+          "widthIdx": 2,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1701
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Release <color=#00FFA6>1</color> rotating throwing knife to attack the enemy with a <color=#00FFA6>45s</color> cooldown.",
+              "Release <color=#00FFA6>2</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>40s</color> cooldown.",
+              "Release <color=#00FFA6>3</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>35s</color> cooldown.",
+              "Release <color=#00FFA6>4</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown.",
+              "Release <color=#00FFA6>5</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown."
+            ]
+          }
+        }
+      ]
+    },
+    "RoleSkillInfoList_Gunslinger": {
+      "Array": [
+        {
+          "skillId": 1303,
+          "widthIdx": 0,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1655
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Power shot that resets cooldowns on kill.300% damage, resets skills on kill",
+              "+25% crit vs <30% HP",
+              "Kill refunds 50% Judgment cooldown",
+              "Kill refunds 50% Judgment cooldown",
+              "Kill refunds 50% Judgment cooldown"
+            ]
+          }
+        },
+        {
+          "skillId": 1307,
+          "widthIdx": 0,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 1000,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 2246
+          },
+          "RequestSkillId": {
+            "Array": [
+              1303
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Activates a state that greatly increases HP by <color=#00FFA6>10%</color>  and damage output by <color=#00FFA6>10%</color> , but decreases movement speed by <color=#00FFA6>5%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>20%</color>  and damage output by <color=#00FFA6>20%</color> , but decreases movement speed by <color=#00FFA6>10%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>30%</color>  and damage output by <color=#00FFA6>30%</color> , but decreases movement speed by <color=#00FFA6>15%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>40%</color>  and damage output by <color=#00FFA6>40%</color> , but decreases movement speed by <color=#00FFA6>20%</color> .",
+              "Activates a state that greatly increases HP by <color=#00FFA6>50%</color>  and damage output by <color=#00FFA6>50%</color> , but decreases movement speed by <color=#00FFA6>25%</color> ."
+            ]
+          }
+        },
+        {
+          "skillId": 1306,
+          "widthIdx": 1,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 2258
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Dash a damage that has a <color=#00FFA6>20%</color>  chance to stun enemy for <color=#00FFA6>1s</color> .",
+              "Dash a damage that has a <color=#00FFA6>30%</color>  chance to stun enemy for <color=#00FFA6>1.5s</color> .",
+              "Dash a damage that has a <color=#00FFA6>40%</color>  chance to stun enemy for <color=#00FFA6>2s</color> .",
+              "Dash a damage that has a <color=#00FFA6>50%</color>  chance to stun enemy for <color=#00FFA6>2.5s</color> .",
+              "Dash a damage that has a <color=#00FFA6>60%</color>  chance to stun enemy for <color=#00FFA6>3s</color> ."
+            ]
+          }
+        },
+        {
+          "skillId": 1302,
+          "widthIdx": 1,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1660
+          },
+          "RequestSkillId": {
+            "Array": [
+              1306
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Slows nearby enemies by <color=#00FFA6>10%</color>  in a <color=#00FFA6>3</color> -unit radius. This effect lasts <color=#00FFA6>10s</color> , with a <color=#00FFA6>60s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>15%</color>  in a <color=#00FFA6>4</color> -unit radius. This effect lasts <color=#00FFA6>15s</color> , with a <color=#00FFA6>55s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>20%</color>  in a <color=#00FFA6>5</color> -unit radius. This effect lasts <color=#00FFA6>20s</color> , with a <color=#00FFA6>50s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>25%</color>  in a <color=#00FFA6>6</color> -unit radius. This effect lasts <color=#00FFA6>25s</color> , with a <color=#00FFA6>45s</color> cooldown.",
+              "Slows nearby enemies by <color=#00FFA6>30%</color>  in a <color=#00FFA6>7</color> -unit radius. This effect lasts <color=#00FFA6>30s</color> , with a <color=#00FFA6>40s</color> cooldown."
+            ]
+          }
+        },
+        {
+          "skillId": 1308,
+          "widthIdx": 2,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1653
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies",
+              "Stuns and weakens nearby enemies"
+            ]
+          }
+        },
+        {
+          "skillId": 1305,
+          "widthIdx": 2,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1701
+          },
+          "RequestSkillId": {
+            "Array": [
+              1308
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Release <color=#00FFA6>1</color> rotating throwing knife to attack the enemy with a <color=#00FFA6>45s</color> cooldown.",
+              "Release <color=#00FFA6>2</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>40s</color> cooldown.",
+              "Release <color=#00FFA6>3</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>35s</color> cooldown.",
+              "Release <color=#00FFA6>4</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown.",
+              "Release <color=#00FFA6>5</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown."
+            ]
+          }
+        },
+        {
+          "skillId": 1301,
+          "widthIdx": 3,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1701
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Release <color=#00FFA6>1</color> rotating throwing knife to attack the enemy with a <color=#00FFA6>45s</color> cooldown.",
+              "Release <color=#00FFA6>2</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>40s</color> cooldown.",
+              "Release <color=#00FFA6>3</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>35s</color> cooldown.",
+              "Release <color=#00FFA6>4</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown.",
+              "Release <color=#00FFA6>5</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown."
+            ]
+          }
+        },
+        {
+          "skillId": 1304,
+          "widthIdx": 3,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1701
+          },
+          "RequestSkillId": {
+            "Array": [
+              1301
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Release <color=#00FFA6>1</color> rotating throwing knife to attack the enemy with a <color=#00FFA6>45s</color> cooldown.",
+              "Release <color=#00FFA6>2</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>40s</color> cooldown.",
+              "Release <color=#00FFA6>3</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>35s</color> cooldown.",
+              "Release <color=#00FFA6>4</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown.",
+              "Release <color=#00FFA6>5</color> rotating throwing knifes to attack the enemy with a <color=#00FFA6>30s</color> cooldown."
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "resetPriceTable": {
+    "Array": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      1900,
+      2000,
+      2100,
+      2200,
+      2300,
+      2400,
+      2500,
+      2600,
+      2700,
+      2800,
+      2900,
+      3000,
+      3100,
+      3200,
+      3300,
+      3400,
+      3500,
+      3600,
+      3700,
+      3800,
+      3900,
+      4000,
+      4100,
+      4200,
+      4300,
+      4400,
+      4500,
+      4600,
+      4700,
+      4800,
+      4900,
+      5000
+    ]
+  }
+}

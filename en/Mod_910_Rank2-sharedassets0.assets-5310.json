@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_910_Rank2",
+  "OnlyId": 0,
+  "ModId": 9100,
+  "RankId": 2,
+  "RankWeight": 1.0,
+  "ModName": "Forward Lock Grip II",
+  "ModDec": "+{0}% Damage within {1} meters",
+  "ModIndex": 9,
+  "modAddType": 29,
+  "modAddValue1": 10.0,
+  "modAddValue2": 5.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "FrontGrip",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      17,
+      7
+    ]
+  }
+}

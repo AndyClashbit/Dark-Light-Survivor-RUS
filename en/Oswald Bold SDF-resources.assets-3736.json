@@ -1,0 +1,360 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2706
+  },
+  "m_Name": "Oswald Bold SDF",
+  "hashCode": 1490843414,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 577
+  },
+  "materialHashCode": 1112331510,
+  "m_Version": "1.1.0",
+  "m_SourceFontFileGUID": "c9f6d0e7bc8541498c9a4799ba184ede",
+  "m_SourceFontFile": {
+    "m_FileID": 0,
+    "m_PathID": 1659
+  },
+  "m_AtlasPopulationMode": 1,
+  "m_FaceInfo": {
+    "m_FaceIndex": 0,
+    "m_FamilyName": "Oswald",
+    "m_StyleName": "Bold",
+    "m_PointSize": 90,
+    "m_Scale": 1.0,
+    "m_UnitsPerEM": 0,
+    "m_LineHeight": 133.37402,
+    "m_AscentLine": 107.40234,
+    "m_CapLine": 80.0,
+    "m_MeanLine": 58.0,
+    "m_Baseline": 0.0,
+    "m_DescentLine": -25.97168,
+    "m_SuperscriptOffset": 107.40234,
+    "m_SuperscriptSize": 0.5,
+    "m_SubscriptOffset": -25.97168,
+    "m_SubscriptSize": 0.5,
+    "m_UnderlineOffset": -13.491211,
+    "m_UnderlineThickness": 4.482422,
+    "m_StrikethroughOffset": 23.2,
+    "m_StrikethroughThickness": 4.482422,
+    "m_TabWidth": 18.0
+  },
+  "m_GlyphTable": {
+    "Array": []
+  },
+  "m_CharacterTable": {
+    "Array": []
+  },
+  "m_AtlasTextures": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1221
+      }
+    ]
+  },
+  "m_AtlasTextureIndex": 0,
+  "m_IsMultiAtlasTexturesEnabled": 0,
+  "m_ClearDynamicDataOnBuild": 1,
+  "m_UsedGlyphRects": {
+    "Array": []
+  },
+  "m_FreeGlyphRects": {
+    "Array": [
+      {
+        "m_X": 0,
+        "m_Y": 0,
+        "m_Width": 1023,
+        "m_Height": 1023
+      }
+    ]
+  },
+  "m_fontInfo": {
+    "Name": "Oswald",
+    "PointSize": 71.0,
+    "Scale": 1.0,
+    "CharacterCount": 97,
+    "LineHeight": 105.21875,
+    "Baseline": 0.0,
+    "Ascender": 84.71875,
+    "CapHeight": 62.40625,
+    "Descender": -20.5,
+    "CenterLine": 0.0,
+    "SuperscriptOffset": 84.71875,
+    "SubscriptOffset": -10.643066,
+    "SubSize": 0.5,
+    "Underline": -10.643066,
+    "UnderlineThickness": 3.5361328,
+    "strikethrough": 24.9625,
+    "strikethroughThickness": 0.0,
+    "TabWidth": 142.1875,
+    "Padding": 5.0,
+    "AtlasWidth": 512.0,
+    "AtlasHeight": 512.0
+  },
+  "atlas": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_AtlasWidth": 1024,
+  "m_AtlasHeight": 1024,
+  "m_AtlasPadding": 9,
+  "m_AtlasRenderMode": 4165,
+  "m_glyphInfoList": {
+    "Array": []
+  },
+  "m_KerningTable": {
+    "kerningPairs": {
+      "Array": []
+    }
+  },
+  "m_FontFeatureTable": {
+    "m_GlyphPairAdjustmentRecords": {
+      "Array": []
+    }
+  },
+  "fallbackFontAssets": {
+    "Array": []
+  },
+  "m_FallbackFontAssetTable": {
+    "Array": []
+  },
+  "m_CreationSettings": {
+    "sourceFontFileName": "",
+    "sourceFontFileGUID": "c9f6d0e7bc8541498c9a4799ba184ede",
+    "pointSizeSamplingMode": 1,
+    "pointSize": 90,
+    "padding": 9,
+    "packingMode": 4,
+    "atlasWidth": 1024,
+    "atlasHeight": 1024,
+    "characterSetSelectionMode": 6,
+    "characterSequence": "20-7E,A0,2026",
+    "referencedFontAssetGUID": "0161d805a3764c089bef00bfe00793f5",
+    "referencedTextAssetGUID": "",
+    "fontStyle": 0,
+    "fontStyleModifier": 0.0,
+    "renderMode": 4165,
+    "includeFontFeatures": 0
+  },
+  "m_FontWeightTable": {
+    "Array": [
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    ]
+  },
+  "fontWeights": {
+    "Array": [
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "regularTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "italicTypeface": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    ]
+  },
+  "normalStyle": 0.0,
+  "normalSpacingOffset": 0.0,
+  "boldStyle": 0.75,
+  "boldSpacing": 7.0,
+  "italicStyle": 35,
+  "tabSize": 10
+}

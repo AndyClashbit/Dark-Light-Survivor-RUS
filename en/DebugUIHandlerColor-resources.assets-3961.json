@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2038
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2118
+  },
+  "m_Name": "",
+  "colorDefault": {
+    "r": 0.8,
+    "g": 0.8,
+    "b": 0.8,
+    "a": 1.0
+  },
+  "colorSelected": {
+    "r": 0.25,
+    "g": 0.65,
+    "b": 0.8,
+    "a": 1.0
+  },
+  "nameLabel": {
+    "m_FileID": 0,
+    "m_PathID": 3874
+  },
+  "valueToggle": {
+    "m_FileID": 0,
+    "m_PathID": 3952
+  },
+  "colorImage": {
+    "m_FileID": 0,
+    "m_PathID": 3953
+  },
+  "fieldR": {
+    "m_FileID": 0,
+    "m_PathID": 3985
+  },
+  "fieldG": {
+    "m_FileID": 0,
+    "m_PathID": 3816
+  },
+  "fieldB": {
+    "m_FileID": 0,
+    "m_PathID": 3968
+  },
+  "fieldA": {
+    "m_FileID": 0,
+    "m_PathID": 3889
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_206_Rank3",
+  "OnlyId": 0,
+  "ModId": 2061,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Focused Beam Optics III",
+  "ModDec": "+{0}% Damage for each consecutive hit on the same target",
+  "ModIndex": 2,
+  "modAddType": 8,
+  "modAddValue1": 60.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "SniperScope_Scope",
+  "bCanUseMod": 0,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": []
+  }
+}

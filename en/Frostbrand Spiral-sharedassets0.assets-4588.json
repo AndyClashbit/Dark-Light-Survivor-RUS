@@ -1,0 +1,396 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5094
+  },
+  "m_Name": "Frostbrand Spiral",
+  "Id": 26,
+  "Name": "Frostbrand_Spiral",
+  "Name_OnlyShowAsUI": "Frostbrand Spiral",
+  "Dec": "A melee weapon with special skills",
+  "GearId": 0,
+  "ShieldAnimId": 0,
+  "shieldEquipSlot": 0,
+  "UseAnimIdx": 1,
+  "GameMainIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1774
+  },
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 1967
+  },
+  "BackpackIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1967
+  },
+  "BackpackWidth": 2,
+  "BackpackHeight": 3,
+  "weaponTypeMeleeOrRange": 0,
+  "weaponKindType": 6,
+  "magicElementType": 0,
+  "MuzzlePosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "GunSightPosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "ClipPosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "WeaponRotation": {
+    "x": 90.0,
+    "y": 0.0,
+    "z": -90.0
+  },
+  "WeaponPosition": {
+    "x": 0.55,
+    "y": 0.15,
+    "z": 0.0
+  },
+  "WeaponScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "RemoteModSoltListIndex": {
+    "Array": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  "WeaponCanUseName": {
+    "Array": []
+  },
+  "WeaponCanUseDes": {
+    "Array": []
+  },
+  "BackPackWeaponPosition": {
+    "x": -0.1015,
+    "y": 0.0385,
+    "z": -0.0536
+  },
+  "BackPackWeaponRotation": {
+    "x": -153.658,
+    "y": -65.16602,
+    "z": -34.185
+  },
+  "BackPackWeaponScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "BackPackWeaponPosition2": {
+    "x": -0.102,
+    "y": 0.044,
+    "z": -0.048
+  },
+  "BackPackWeaponRotation2": {
+    "x": -146.656,
+    "y": -64.724,
+    "z": -21.37399
+  },
+  "BackPackWeaponScale2": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "PlayerWeaponPosition": {
+    "x": -0.0496,
+    "y": -0.0068,
+    "z": -0.0089
+  },
+  "PlayerWeaponRotation": {
+    "x": -141.317,
+    "y": -100.358,
+    "z": -42.772
+  },
+  "PlayerWeaponScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "Player2WeaponPosition": {
+    "x": -0.10975,
+    "y": 0.00921,
+    "z": -0.04241
+  },
+  "Player2WeaponRotation": {
+    "x": -141.317,
+    "y": -100.358,
+    "z": -5.609985
+  },
+  "Player2WeaponScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "Player3WeaponPosition_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponRotation_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponScale_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponPosition_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponRotation_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponPosition_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponRotation_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponPosition_NoFight_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponRotation_NoFight_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponPosition": {
+    "x": 0.0,
+    "y": 46.5,
+    "z": -10.0
+  },
+  "BagWeaponRotation": {
+    "x": 0.0,
+    "y": 90.0,
+    "z": 0.0
+  },
+  "BagWeaponPositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponPosition_R": {
+    "x": -47.03,
+    "y": 0.0,
+    "z": -10.0
+  },
+  "BagWeaponRotation_R": {
+    "x": 90.0,
+    "y": 0.0,
+    "z": 90.0
+  },
+  "BagWeaponPositionOffset_R": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponScale": {
+    "x": 100.0,
+    "y": 100.0,
+    "z": 100.0
+  },
+  "BagWeaponScaleOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "FireGreatSowrdWeaponScaleBag": {
+    "x": 75.0,
+    "y": 75.0,
+    "z": 75.0
+  },
+  "EquipWeaponPosition": {
+    "x": -81.4,
+    "y": 0.0,
+    "z": -10.0
+  },
+  "EquipWeaponRotation": {
+    "x": 90.0,
+    "y": 0.0,
+    "z": 90.0
+  },
+  "EquipWeaponScale": {
+    "x": 170.0,
+    "y": 170.0,
+    "z": 170.0
+  },
+  "FireGreatSowrdWeaponScaleEquip": {
+    "x": 130.0,
+    "y": 130.0,
+    "z": 130.0
+  },
+  "PlayerShieldUnusePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnuseRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnuseScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnusePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnuseRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnuseScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "IsSuperWeapon": 0,
+  "NeedDisableMod": 0,
+  "currentRecoilProfile": {
+    "maxPositionOffset": {
+      "x": 0.0,
+      "y": 0.05,
+      "z": -0.2
+    },
+    "maxRotationOffset": {
+      "x": 0.0,
+      "y": -5.0,
+      "z": 0.0
+    },
+    "decaySpeed": 8.0
+  },
+  "PlayerSkillWeaponPosition2": {
+    "x": -0.10975,
+    "y": 0.00921,
+    "z": -0.04241
+  },
+  "PlayerSkillWeaponRotation2": {
+    "x": -141.317,
+    "y": -100.358,
+    "z": -5.609985
+  },
+  "PlayerWeaponPosition_OnArm": {
+    "x": -0.0847,
+    "y": 0.0296,
+    "z": -0.0378
+  },
+  "PlayerWeaponRotation_OnArm": {
+    "x": -157.19,
+    "y": -92.599,
+    "z": -3.445984
+  },
+  "Player2WeaponPosition_OnArm": {
+    "x": -0.101,
+    "y": -0.047,
+    "z": -0.021
+  },
+  "Player2WeaponRotation_OnArm": {
+    "x": 172.081,
+    "y": -95.60101,
+    "z": -12.766
+  },
+  "weaponAcquireSource": {
+    "WeaponIDType": 26,
+    "EnemyList": {
+      "Array": [
+        11,
+        5,
+        7,
+        4,
+        1,
+        23,
+        6,
+        21,
+        28,
+        8
+      ]
+    },
+    "CanGetFromCommonBox": 1,
+    "CanGetFromSpecialBox": 1,
+    "CanGetFromRiftMerchant": 0,
+    "CanUsePlayerList": {
+      "Array": [
+        1,
+        0,
+        2
+      ]
+    },
+    "NewPriceDataList": {
+      "Array": []
+    },
+    "Weight": 100,
+    "PurchaseLimitCount": 0,
+    "QualityLimit": {
+      "Array": []
+    }
+  }
+}

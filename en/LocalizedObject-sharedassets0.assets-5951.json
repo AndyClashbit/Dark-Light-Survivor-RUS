@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2404
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5688
+  },
+  "m_Name": "",
+  "localizationSettings": {
+    "m_FileID": 0,
+    "m_PathID": 5653
+  },
+  "textObj": {
+    "m_FileID": 0,
+    "m_PathID": 5779
+  },
+  "audioObj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "imageObj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "tableIndex": 0,
+  "localizationKey": "",
+  "objectType": 2,
+  "updateMode": 0,
+  "rebuildLayoutOnUpdate": 0,
+  "forceAddToManager": 0,
+  "onLanguageChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "isInitialized": 0
+}

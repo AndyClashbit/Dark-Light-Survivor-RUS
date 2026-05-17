@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2575
+  },
+  "m_Name": "Residual Artifact Of Defense 1",
+  "isEquip": 0,
+  "ArtifactOnlyID": "",
+  "Id": 1,
+  "IdInAllArtifact": 1,
+  "Rank": 0,
+  "Colour_Type": 1,
+  "Pos": 0,
+  "careerType": 0,
+  "Name": "",
+  "isMarking": 0,
+  "ArtifactName": "RESIDUAL ARTIFACT OF DEFENSE",
+  "ArtifactDes": "",
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 1813
+  },
+  "spriteIndexInSpriteList": 4,
+  "words": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4373
+      }
+    ]
+  },
+  "RankInSorting": 0.0,
+  "valueCount": 100.0,
+  "rankNum": 0
+}

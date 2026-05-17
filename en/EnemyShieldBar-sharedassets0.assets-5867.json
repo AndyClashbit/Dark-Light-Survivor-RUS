@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2759
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 239
+  },
+  "m_Name": "",
+  "_lifeBar1": {
+    "m_FileID": 0,
+    "m_PathID": 3118
+  },
+  "_lifeBar2": {
+    "m_FileID": 0,
+    "m_PathID": 3092
+  },
+  "defaultScale": {
+    "x": 0.035,
+    "y": 0.04,
+    "z": 1.0
+  },
+  "distance": 0.062,
+  "closeLifeBar1Time": 0.0,
+  "closeAllBarTime": 0.0
+}

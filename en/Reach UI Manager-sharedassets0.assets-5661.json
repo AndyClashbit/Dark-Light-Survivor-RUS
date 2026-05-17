@@ -1,0 +1,141 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3542
+  },
+  "m_Name": "Reach UI Manager",
+  "enableDynamicUpdate": 1,
+  "achievementLibrary": {
+    "m_FileID": 0,
+    "m_PathID": 5655
+  },
+  "commonColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 255.0
+  },
+  "rareColor": {
+    "r": 1.0,
+    "g": 0.49019608,
+    "b": 1.0,
+    "a": 255.0
+  },
+  "legendaryColor": {
+    "r": 1.0,
+    "g": 0.6862745,
+    "b": 0.0,
+    "a": 255.0
+  },
+  "hoverSound": {
+    "m_FileID": 0,
+    "m_PathID": 1528
+  },
+  "clickSound": {
+    "m_FileID": 0,
+    "m_PathID": 1211
+  },
+  "notificationSound": {
+    "m_FileID": 0,
+    "m_PathID": 1181
+  },
+  "accentColor": {
+    "r": 0.0,
+    "g": 0.78431374,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "accentColorInvert": {
+    "r": 0.09803922,
+    "g": 0.13725491,
+    "b": 0.1764706,
+    "a": 1.0
+  },
+  "primaryColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "secondaryColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "negativeColor": {
+    "r": 1.0,
+    "g": 0.29411766,
+    "b": 0.29411766,
+    "a": 1.0
+  },
+  "backgroundColor": {
+    "r": 0.09803922,
+    "g": 0.13725491,
+    "b": 0.1764706,
+    "a": 1.0
+  },
+  "wishlistColor": {
+    "r": 0.5411765,
+    "g": 0.48235294,
+    "b": 0.34117648,
+    "a": 1.0
+  },
+  "totalHighBlueColor": {
+    "r": 0.0,
+    "g": 1.0,
+    "b": 0.9764706,
+    "a": 1.0
+  },
+  "fontLight": {
+    "m_FileID": 0,
+    "m_PathID": 5647
+  },
+  "fontRegular": {
+    "m_FileID": 0,
+    "m_PathID": 5649
+  },
+  "fontMedium": {
+    "m_FileID": 0,
+    "m_PathID": 5648
+  },
+  "fontSemiBold": {
+    "m_FileID": 0,
+    "m_PathID": 5650
+  },
+  "fontBold": {
+    "m_FileID": 0,
+    "m_PathID": 5646
+  },
+  "customFont": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "enableLocalization": 1,
+  "localizationSettings": {
+    "m_FileID": 0,
+    "m_PathID": 5653
+  },
+  "currentLanguage": {
+    "m_FileID": 0,
+    "m_PathID": 5652
+  },
+  "brandLogo": {
+    "m_FileID": 0,
+    "m_PathID": 1949
+  },
+  "gameLogo": {
+    "m_FileID": 0,
+    "m_PathID": 1844
+  },
+  "enableSplashScreen": 0,
+  "showSplashScreenOnce": 1,
+  "pakType": 0,
+  "pakText": "Press {Any Key} To Start",
+  "pakLocalizationText": "PAK_Part1 {PAK_Key} PAK_Part2"
+}

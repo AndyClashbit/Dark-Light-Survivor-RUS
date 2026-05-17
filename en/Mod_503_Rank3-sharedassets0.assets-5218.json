@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_503_Rank3",
+  "OnlyId": 0,
+  "ModId": 5031,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Balanced Guard III",
+  "ModDec": "+{0}% Accuracy",
+  "ModIndex": 5,
+  "modAddType": 8,
+  "modAddValue1": 10.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "TacticalRails_SmoothHandguard",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      17,
+      7
+    ]
+  }
+}

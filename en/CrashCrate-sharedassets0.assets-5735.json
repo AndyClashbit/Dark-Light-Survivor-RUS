@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2885
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5761
+  },
+  "m_Name": "",
+  "wholeCrate": {
+    "m_FileID": 0,
+    "m_PathID": 3455
+  },
+  "boxCollider": {
+    "m_FileID": 0,
+    "m_PathID": 3742
+  },
+  "fracturedCrate": {
+    "m_FileID": 0,
+    "m_PathID": 2492
+  },
+  "crashAudioClip": {
+    "m_FileID": 0,
+    "m_PathID": 3754
+  },
+  "innerCollider": {
+    "m_FileID": 0,
+    "m_PathID": 3747
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6049
+  },
+  "m_Name": "Config",
+  "geometryOverrideLayer": 1,
+  "geometryLayerID": 1,
+  "geometryTag": "Untagged",
+  "geometryRenderQueue": 3000,
+  "renderPipeline": 0,
+  "forceSinglePass": 0,
+  "renderingMode": 0,
+  "beamShader1Pass": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "beamShader2Pass": {
+    "m_FileID": 0,
+    "m_PathID": 1468
+  },
+  "sharedMeshSides": 16,
+  "sharedMeshSegments": 5,
+  "globalNoiseScale": 1.295,
+  "globalNoiseVelocity": {
+    "x": 0.07,
+    "y": 0.18,
+    "z": 0.05
+  },
+  "fadeOutCameraTag": "MainCamera",
+  "noise3DData": {
+    "m_FileID": 0,
+    "m_PathID": 1564
+  },
+  "noise3DSize": 64,
+  "dustParticlesPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3009
+  },
+  "pluginVersion": 1640
+}

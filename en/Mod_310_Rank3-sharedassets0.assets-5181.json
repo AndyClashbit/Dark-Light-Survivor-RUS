@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_310_Rank3",
+  "OnlyId": 0,
+  "ModId": 3101,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Reactive Mag III",
+  "ModDec": "+{0}% chance to restore {1} ammo on a critical hit",
+  "ModIndex": 3,
+  "modAddType": 54,
+  "modAddValue1": 20.0,
+  "modAddValue2": 1.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "StandardMag_ExtendedMag_HeavyMag",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      17,
+      7
+    ]
+  }
+}

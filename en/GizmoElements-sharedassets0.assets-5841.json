@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2376
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 896
+  },
+  "m_Name": "",
+  "baseImage": {
+    "m_FileID": 0,
+    "m_PathID": 5749
+  },
+  "signImage": {
+    "m_FileID": 0,
+    "m_PathID": 5762
+  },
+  "distanceText": {
+    "m_FileID": 0,
+    "m_PathID": 5836
+  },
+  "titleText": {
+    "m_FileID": 0,
+    "m_PathID": 6050
+  },
+  "arrowPivot": {
+    "m_FileID": 0,
+    "m_PathID": 4081
+  },
+  "Evacuation": {
+    "m_FileID": 0,
+    "m_PathID": 2543
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3238
+  },
+  "m_Name": "Totem of Echoing Shots",
+  "totemID": 12,
+  "totemName": "Totem of Echoing Shots",
+  "description": "{0} before the curse claims you.\\n\\nIf the curse endures, you die.If you are struck, you die at once.\\nCast away this weapon to lift the curse. Take it up again, and the curse returns.\\n\\nOn pickup, lose {1} Max Life, {2} Healing Received, and {3} Fire Resist.",
+  "normalDesc": {
+    "Array": [
+      {
+        "Key": 0,
+        "Value": "Slay 30 foes"
+      }
+    ]
+  },
+  "healDesc": {
+    "Array": []
+  },
+  "reduceDesc": {
+    "Array": [
+      {
+        "Key": 1,
+        "Value": "50%"
+      },
+      {
+        "Key": 2,
+        "Value": "50%"
+      },
+      {
+        "Key": 3,
+        "Value": "20%"
+      }
+    ]
+  },
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "type": 12,
+  "curseDuration": 30.0,
+  "isPermanent": 0,
+  "progressType": 1,
+  "progressRequirement": 30.0,
+  "hasCompleted": 0,
+  "hasFailed": 0,
+  "HasWeapon": 1,
+  "isRangeWeapon": 1,
+  "weaponID": 0,
+  "weaponQuality": 0,
+  "WeaponName": "Rifle",
+  "shopItemRarity": 3,
+  "enableMissingHpDamageBonus": 0,
+  "missingHpDamageBonusPercent": 0.0,
+  "missingHpDamageBonusCap": 0.0,
+  "addAllDamagePercent": 0.0,
+  "addMeleeDamagePercent": 0.0,
+  "addRangedDamagePercent": 0.0,
+  "addAttackSpeedPercent": 0.0,
+  "addMovementSpeedPercent": 0.0,
+  "addMaxHpPercent": 0.0,
+  "addFireDamagePercent": 0.0,
+  "addIceDamagePercent": 0.0,
+  "addLightningDamagePercent": 0.0,
+  "addPoisonDamagePercent": 0.0,
+  "addDCDropPercent": 0.0,
+  "addDCIncomePercent": 0.0,
+  "hpThresholdForDamageReduction": 0.0,
+  "damageLimitAbove60": 0.0,
+  "reduceMaxHpPercent": 0.0,
+  "healthOrbHealReductionPercent": 0.0,
+  "potionHealReductionPercent": 0.0,
+  "shopPriceIncreasePercent": 0.0,
+  "dCLossWhenHitPercent": 0.0,
+  "meleeDamageReductionPercent": 0.0,
+  "sprintStaminaCostIncrease": 0.0,
+  "enableEchoStrike": 0,
+  "enableStaticBarrage": 0,
+  "enableEchoShot": 0,
+  "enableExtraLife": 0,
+  "healthOrbDealsDamage": 0,
+  "meleePenaltyWhenStationary": 0,
+  "addFireResistance": 0.0,
+  "addIceResistance": 0.0,
+  "addLightningResistance": 0.0,
+  "addPoisonResistance": 0.0,
+  "addPhysicalResistance": 0.0,
+  "addAllResistance": 0.0,
+  "hpThresholdForPenalty": 0.0,
+  "aboveHpThresholdDamageReduction": 0.0,
+  "damageStackPerHealthOrb": 0.0,
+  "maxDamageStacks": 0,
+  "staticBarrageChainCount": 0,
+  "staticBarrageChainDamage": 0.0,
+  "echoStrikeDamagePercent": 0.0,
+  "echoSelfDamagePercent": 0.0,
+  "echoShotDamagePercent": 60.0,
+  "echoShotTriggerCount": 3,
+  "grantPermanentBonusOnSuccess": 0,
+  "permanentDamageBonus": 0.0,
+  "permanentAttackSpeedBonus": 0.0,
+  "permanentMovementSpeedBonus": 0.0,
+  "permanentDCIncomeBonus": 0.0,
+  "applyPermanentPenaltyOnFail": 0,
+  "permanentMaxHpReduction": 0.0,
+  "instantHpDamagePercent": 20.0,
+  "BindCursedWeapon": 0,
+  "failedHealthOrbHealReductionPercent": 0.0,
+  "failedMaxHPReductionPercent": 0.0,
+  "onTotemActivated": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onTotemSuccess": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onTotemFailed": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "isActive": 1,
+  "currentTime": 14.845558,
+  "currentProgress": 0.0,
+  "hasCompletedRequirement": 0,
+  "playerHitOnStillDamageValue": 50.0,
+  "haveCursedWeaponReduceMaxHpRef": 50.0,
+  "HealingOrbReduction": 50.0,
+  "PotionHealingReduction": 50.0,
+  "potionsHealDamage": 0.0,
+  "healthOrbHealMaxHpRef": 0.0,
+  "haveCursedWeaponAddFireResistance": -20.0,
+  "haveCursedWeaponAddIceResistance": 0.0,
+  "haveCursedWeaponAddLightningResistance": 0.0,
+  "haveCursedWeaponAddPoisonResistance": 0.0,
+  "haveCursedWeaponAddPhysicalResistance": 0.0,
+  "haveCursedWeaponAddAllResistance": 0.0
+}

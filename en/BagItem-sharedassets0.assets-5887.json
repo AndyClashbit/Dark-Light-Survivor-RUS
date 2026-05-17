@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2377
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5339
+  },
+  "m_Name": "",
+  "ItemInfo": {
+    "ItemId": 0,
+    "ItemName": "",
+    "ItemDesc": "",
+    "ItemIconIndex": 0,
+    "ItemQuality": 0,
+    "itemType": 0
+  },
+  "bagSlot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "iconImg": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "originalParent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

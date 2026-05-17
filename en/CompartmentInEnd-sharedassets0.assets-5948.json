@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2513
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3587
+  },
+  "m_Name": "",
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "curIDInBag": 0,
+  "artifactInfo": {
+    "isEquip": 0,
+    "ArtifactOnlyID": "",
+    "Id": 0,
+    "Rank": 0,
+    "Colour_Type": 0,
+    "Pos": 0,
+    "Name": "",
+    "isMarking": 0,
+    "ArtifactName": "",
+    "ArtifactDes": "",
+    "Icon": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "spriteIndexInSpriteList": 0,
+    "words": {
+      "Array": []
+    },
+    "RankInSorting": 0.0,
+    "artifactValue": 0.0
+  },
+  "artifactId": {
+    "m_FileID": 0,
+    "m_PathID": 5894
+  },
+  "artifactBagUIManager": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "numCount": 0,
+  "equipArtifactManager": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hasGet": 0,
+  "iconImage": {
+    "m_FileID": 0,
+    "m_PathID": 5965
+  },
+  "artifactDes": {
+    "m_FileID": 0,
+    "m_PathID": 5927
+  },
+  "mouse": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "showDes": 0,
+  "judgeDis": 0.7,
+  "emptyParent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "highLightImage": {
+    "m_FileID": 0,
+    "m_PathID": 5955
+  },
+  "gameEndPanel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

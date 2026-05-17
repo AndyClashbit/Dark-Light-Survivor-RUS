@@ -1,0 +1,3438 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2548
+  },
+  "m_Name": "AudioRes",
+  "Map_SwampMusicA": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4655
+      }
+    ]
+  },
+  "Map_SwampMusicB": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4656
+      }
+    ]
+  },
+  "Map_SwampMusicC": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4657
+      }
+    ]
+  },
+  "Map_SwampMusicD": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4658
+      }
+    ]
+  },
+  "Map_SwampMusicE": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4659
+      }
+    ]
+  },
+  "Map_SwampMusicF": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4660
+      }
+    ]
+  },
+  "Map_SwampMusicG": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4661
+      }
+    ]
+  },
+  "Map_SwampMusicH": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4662
+      }
+    ]
+  },
+  "Map_SwampMusicI": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4663
+      }
+    ]
+  },
+  "Map_SwampMusicJ": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4664
+      }
+    ]
+  },
+  "Map_SwampMusicK": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4665
+      }
+    ]
+  },
+  "MAP_ForestMusicA": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4635
+      }
+    ]
+  },
+  "MAP_ForestMusicB": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4636
+      }
+    ]
+  },
+  "MAP_ForestMusicC": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4637
+      }
+    ]
+  },
+  "MAP_ForestMusicD": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4638
+      }
+    ]
+  },
+  "MAP_ForestMusicE": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4639
+      }
+    ]
+  },
+  "MAP_ForestMusicF": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4640
+      }
+    ]
+  },
+  "MAP_ForestMusicG": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4641
+      }
+    ]
+  },
+  "MAP_ForestMusicH": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4642
+      }
+    ]
+  },
+  "MAP_ForestMusicI": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4643
+      }
+    ]
+  },
+  "MAP_ForestMusicJ": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4644
+      }
+    ]
+  },
+  "MAP_ForestMusicK": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4645
+      }
+    ]
+  },
+  "MAP_IceFieldMusicA": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4648
+      }
+    ]
+  },
+  "MAP_IceFieldMusicB": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4649
+      }
+    ]
+  },
+  "MAP_IceFieldMusicC": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4650
+      }
+    ]
+  },
+  "MAP_IceFieldMusicD": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4651
+      }
+    ]
+  },
+  "EnterStartMusic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4653
+      }
+    ]
+  },
+  "EnterRoleSceneMusic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4652
+      }
+    ]
+  },
+  "LoadingSceneMusic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4634
+      }
+    ]
+  },
+  "Map_SwampMusic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4654
+      }
+    ]
+  },
+  "TownMusic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4666
+      }
+    ]
+  },
+  "BossAtkMusic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4631
+      }
+    ]
+  },
+  "BossAtkMusic_Forest_Start": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4633
+      }
+    ]
+  },
+  "BossAtkMusic_Forest_Loop": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4632
+      }
+    ]
+  },
+  "BossAtkMusic_IceField_Start": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4647
+      }
+    ]
+  },
+  "BossAtkMusic_IceField_Loop": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4646
+      }
+    ]
+  },
+  "meleeAtkList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4897
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4898
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4900
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4901
+      }
+    ]
+  },
+  "enemyMeleeHitList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4890
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4891
+      }
+    ]
+  },
+  "enemyRangeHitList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4921
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4922
+      }
+    ]
+  },
+  "enemyRangeHitHeadList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4923
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4924
+      }
+    ]
+  },
+  "enemyRangeHitHeadWithDeadList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4925
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4926
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4927
+      }
+    ]
+  },
+  "enemyHitRoarList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4820
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4827
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4832
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4822
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4829
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4824
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4825
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4934
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4821
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4828
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4833
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4835
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4836
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4826
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4831
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4834
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4769
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4770
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4771
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4772
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4823
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4830
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4767
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4768
+      }
+    ]
+  },
+  "enemyDeadRoarList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4789
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4790
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4792
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4787
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4749
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4788
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4791
+      }
+    ]
+  },
+  "enemyAtkRoarList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4710
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4712
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4711
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4713
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4714
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4626
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4627
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4628
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4629
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4743
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4744
+      }
+    ]
+  },
+  "enemyAtkEffectList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4696
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4698
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4697
+      }
+    ]
+  },
+  "enemyMoveFootEffectList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4815
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4902
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4903
+      }
+    ]
+  },
+  "ShutM4GunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4960
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4961
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4962
+      }
+    ]
+  },
+  "ShutM4SilencerGunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4954
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4955
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4956
+      }
+    ]
+  },
+  "ShutM4Tail": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4957
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4958
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4959
+      }
+    ]
+  },
+  "ShutAk74GunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4946
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4947
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4948
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4949
+      }
+    ]
+  },
+  "ShutAk74SilencerGunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4938
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4939
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4940
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4941
+      }
+    ]
+  },
+  "ShutAk74Tail": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4942
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4943
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4944
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4945
+      }
+    ]
+  },
+  "ShutWraithEnsnaringGunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4550
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4551
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4552
+      }
+    ]
+  },
+  "ShutWraithEnsnaringSilencerGunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4550
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4551
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4552
+      }
+    ]
+  },
+  "ShutM82GunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4963
+      }
+    ]
+  },
+  "ShutP226GunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4964
+      }
+    ]
+  },
+  "ShutP226GunTailList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4969
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4970
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4971
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4972
+      }
+    ]
+  },
+  "Shut98KGunList": {
+    "Array": []
+  },
+  "ShutP226SilencerGunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4965
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4966
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4967
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4968
+      }
+    ]
+  },
+  "ShutUMPGunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4982
+      }
+    ]
+  },
+  "M98KFire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4527
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4528
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4529
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4530
+      }
+    ]
+  },
+  "M98KSilenceFire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4531
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4532
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4533
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4534
+      }
+    ]
+  },
+  "M98KFireTail": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4535
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4536
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4537
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4538
+      }
+    ]
+  },
+  "BarrettFire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4515
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4516
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4517
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4518
+      }
+    ]
+  },
+  "BarrettSilenceFire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4519
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4520
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4521
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4522
+      }
+    ]
+  },
+  "BarrettTail": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4523
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4524
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4525
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4526
+      }
+    ]
+  },
+  "UZIFire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4545
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4546
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4547
+      }
+    ]
+  },
+  "UZISilenceFire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4539
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4540
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4541
+      }
+    ]
+  },
+  "UZIFireTrail": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4542
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4544
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4543
+      }
+    ]
+  },
+  "ShutDroneGunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4950
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4951
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4952
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4953
+      }
+    ]
+  },
+  "ShutHandGunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4886
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4887
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4888
+      }
+    ]
+  },
+  "ShutHandGunSilencerList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4880
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4881
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4882
+      }
+    ]
+  },
+  "ShutHandGunTailList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4883
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4884
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4885
+      }
+    ]
+  },
+  "ShutShotGunList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4979
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4980
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4981
+      }
+    ]
+  },
+  "ShutShotGunSilencerList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4973
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4974
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4975
+      }
+    ]
+  },
+  "ShutShotGunTailList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4976
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4977
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4978
+      }
+    ]
+  },
+  "AK74ReloadList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4928
+      }
+    ]
+  },
+  "WraithEnsnaringReloadList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4549
+      }
+    ]
+  },
+  "P226ReloadList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4931
+      }
+    ]
+  },
+  "ShotgunReloadList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4933
+      }
+    ]
+  },
+  "RevolverReloadList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4932
+      }
+    ]
+  },
+  "M4ReloadList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4930
+      }
+    ]
+  },
+  "BoltList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4667
+      }
+    ]
+  },
+  "RollList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4935
+      }
+    ]
+  },
+  "TelePotList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5026
+      }
+    ]
+  },
+  "ChangeWeaponList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4684
+      }
+    ]
+  },
+  "BossBornList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4683
+      }
+    ]
+  },
+  "CollectEnergyList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4686
+      }
+    ]
+  },
+  "HitMetalList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4895
+      }
+    ]
+  },
+  "DeadBloodList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4689
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4690
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4691
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4692
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4693
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4694
+      }
+    ]
+  },
+  "UIChangeItem": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4513
+      }
+    ]
+  },
+  "UIClickEnter": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4512
+      }
+    ]
+  },
+  "UIEnterEquipWeapon": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5031
+      }
+    ]
+  },
+  "UILeaveEquipWeapon": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5032
+      }
+    ]
+  },
+  "UIBagEquipWeapon": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5029
+      }
+    ]
+  },
+  "UIBagUnEquipWeapon": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5030
+      }
+    ]
+  },
+  "UIBagDragEquipWeapon": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5028
+      }
+    ]
+  },
+  "HelicoperSoundList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4889
+      }
+    ]
+  },
+  "LightningGun": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4899
+      }
+    ]
+  },
+  "LevelUpPanel": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4873
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4874
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4875
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4876
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4877
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4878
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4879
+      }
+    ]
+  },
+  "LevelUpSaySound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4867
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4868
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4869
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4870
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4871
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4872
+      }
+    ]
+  },
+  "PickUpWeaponOrMod": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4906
+      }
+    ]
+  },
+  "CollectDC": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4685
+      }
+    ]
+  },
+  "DropDC": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4695
+      }
+    ]
+  },
+  "PickUpDC": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4905
+      }
+    ]
+  },
+  "HitByLightning": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4894
+      }
+    ]
+  },
+  "HitByFire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4892
+      }
+    ]
+  },
+  "HitByIce": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4893
+      }
+    ]
+  },
+  "ShieldZombieBeHit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4936
+      }
+    ]
+  },
+  "ShockSphere": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4937
+      }
+    ]
+  },
+  "Thunderclap": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5027
+      }
+    ]
+  },
+  "StormcallerStrike": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5025
+      }
+    ]
+  },
+  "CryoNova": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4688
+      }
+    ]
+  },
+  "EnemyFreez": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4857
+      }
+    ]
+  },
+  "EnemyShatter": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4858
+      }
+    ]
+  },
+  "PlayerBeHit_Light": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4910
+      }
+    ]
+  },
+  "PlayerBeHit_Hard": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4907
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4908
+      }
+    ]
+  },
+  "PlayerBeHit_Heavy": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4909
+      }
+    ]
+  },
+  "PlayerBeHit_Magic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4918
+      }
+    ]
+  },
+  "PlayerAttack_Magic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4915
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4916
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4917
+      }
+    ]
+  },
+  "PlayerFoot_Magic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4920
+      }
+    ]
+  },
+  "Explode": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4859
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4860
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4861
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4862
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4863
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4864
+      }
+    ]
+  },
+  "IceFreeze": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4866
+      }
+    ]
+  },
+  "IceExplode": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4896
+      }
+    ]
+  },
+  "BossSteps": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4679
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4680
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4681
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4682
+      }
+    ]
+  },
+  "BossAttack0": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "BossAttack1": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4668
+      }
+    ]
+  },
+  "BossOnHit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4677
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4678
+      }
+    ]
+  },
+  "BossFireBallRoar": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4671
+      }
+    ]
+  },
+  "BossFireBallSkillHint": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4672
+      }
+    ]
+  },
+  "BossFireBall": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4669
+      }
+    ]
+  },
+  "BossFireBallExplode": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4670
+      }
+    ]
+  },
+  "BossLaserSkillHint": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4676
+      }
+    ]
+  },
+  "BossLaser": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4674
+      }
+    ]
+  },
+  "BossLaserHit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4675
+      }
+    ]
+  },
+  "BossLanding": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4673
+      }
+    ]
+  },
+  "EnemyExplode": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4856
+      }
+    ]
+  },
+  "ExploderScream": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4813
+      }
+    ]
+  },
+  "CollectShard": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4687
+      }
+    ]
+  },
+  "RusherDeath": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4495
+      }
+    ]
+  },
+  "RusherHit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4496
+      }
+    ]
+  },
+  "SoldierDeath": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4506
+      }
+    ]
+  },
+  "SoldierHit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4507
+      }
+    ]
+  },
+  "ShieldDefendingHit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4497
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4499
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4498
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4500
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4501
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4502
+      }
+    ]
+  },
+  "GoatBossAttack": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4741
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4742
+      }
+    ]
+  },
+  "GoatBossHit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4748
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4774
+      }
+    ]
+  },
+  "GoatBossDeath": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4751
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4752
+      }
+    ]
+  },
+  "GoatBossShout": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4774
+      }
+    ]
+  },
+  "GoatManAttack": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4703
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4704
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4705
+      }
+    ]
+  },
+  "GoatManHit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4839
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4840
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4841
+      }
+    ]
+  },
+  "GoatManDeath": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4795
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4753
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4851
+      }
+    ]
+  },
+  "GoatManShout": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4841
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4851
+      }
+    ]
+  },
+  "ArcaneConductor_GroundImpact": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4983
+      }
+    ]
+  },
+  "SkyFireRig_Fire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5008
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5009
+      }
+    ]
+  },
+  "SkyFireRig_Reload": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5011
+      }
+    ]
+  },
+  "SkyFireRig_Explode": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5010
+      }
+    ]
+  },
+  "StormcallerStrike_Cloud": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5015
+      }
+    ]
+  },
+  "StormcallerStrike_Lightning": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5016
+      }
+    ]
+  },
+  "SolarFlareBlast_Explode": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5012
+      }
+    ]
+  },
+  "BlazeRush_Fire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4987
+      }
+    ]
+  },
+  "FlameShield_Fire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4993
+      }
+    ]
+  },
+  "FlameShield_Shield": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4994
+      }
+    ]
+  },
+  "SolarRebirth": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5014
+      }
+    ]
+  },
+  "BladeDancer": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4986
+      }
+    ]
+  },
+  "VulcanSentry_Start": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5023
+      }
+    ]
+  },
+  "VulcanSentry_OnGround": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5022
+      }
+    ]
+  },
+  "VulcanSentry_Fire": {
+    "Array": []
+  },
+  "CelestialBolt_Cast": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4992
+      }
+    ]
+  },
+  "CelestialBolt_Attack": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4991
+      }
+    ]
+  },
+  "PyroclasmSurge": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4997
+      }
+    ]
+  },
+  "SolarFlareBombardment_Cast": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4998
+      }
+    ]
+  },
+  "SolarFlareBombardment_Explosion": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4999
+      }
+    ]
+  },
+  "WraithbloomSurge_Explosion": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5020
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5021
+      }
+    ]
+  },
+  "ArcSphere_Summoning": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4990
+      }
+    ]
+  },
+  "ArcSphere_Explosion": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4989
+      }
+    ]
+  },
+  "Poison_Nova": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5006
+      }
+    ]
+  },
+  "Plague_Grenade_Launcher": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5005
+      }
+    ]
+  },
+  "Plague_Grenade_Drop": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5003
+      }
+    ]
+  },
+  "Plague_Grenade_Explosion": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5004
+      }
+    ]
+  },
+  "Venom_Lash": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5019
+      }
+    ]
+  },
+  "Frozen_Nova": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4996
+      }
+    ]
+  },
+  "ShooterAttack": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4852
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4853
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4854
+      }
+    ]
+  },
+  "Thunder_Nova": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5017
+      }
+    ]
+  },
+  "Lightning_Leap": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5002
+      }
+    ]
+  },
+  "Hellvector_Drone": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5000
+      }
+    ]
+  },
+  "Frostwave_Pulse": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4995
+      }
+    ]
+  },
+  "WeaponEffectSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4439
+      }
+    ]
+  },
+  "CannonAttackSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4440
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4441
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4442
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4443
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4444
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4445
+      }
+    ]
+  },
+  "CannonAttackExplode": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4446
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4447
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4448
+      }
+    ]
+  },
+  "AutoLoadSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4984
+      }
+    ]
+  },
+  "ShieldAttack": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5007
+      }
+    ]
+  },
+  "Warcry": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5024
+      }
+    ]
+  },
+  "BattleStandard": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4985
+      }
+    ]
+  },
+  "ChillingAura": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4988
+      }
+    ]
+  },
+  "TitansMight": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5018
+      }
+    ]
+  },
+  "ExplosionLightning": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4472
+      }
+    ]
+  },
+  "LightningBall": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4473
+      }
+    ]
+  },
+  "UI_Special_Select": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4513
+      }
+    ]
+  },
+  "UI_Special_Click": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4512
+      }
+    ]
+  },
+  "UI_Special_ChangePanel": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4511
+      }
+    ]
+  },
+  "PickUpItems": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4474
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4475
+      }
+    ]
+  },
+  "PickUpRangeWeapon": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4476
+      }
+    ]
+  },
+  "FootSounds": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4449
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4452
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4453
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4454
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4455
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4456
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4457
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4458
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4459
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4450
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4451
+      }
+    ]
+  },
+  "MagicShowSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4461
+      }
+    ]
+  },
+  "GunReloadSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4460
+      }
+    ]
+  },
+  "WeaponOnShoulder": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4463
+      }
+    ]
+  },
+  "WeaponDrawMetal": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4462
+      }
+    ]
+  },
+  "GunslingerDrawGun": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4464
+      }
+    ]
+  },
+  "GunslingerRollGun": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4467
+      }
+    ]
+  },
+  "GunslingerReadyGun": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4466
+      }
+    ]
+  },
+  "GunslingerFoot": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4465
+      }
+    ]
+  },
+  "OpenBox": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4904
+      }
+    ]
+  },
+  "OpenBox2DUI": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4509
+      }
+    ]
+  },
+  "InfernalBarrier": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5001
+      }
+    ]
+  },
+  "PlayerDeath": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4477
+      }
+    ]
+  },
+  "PlayerDeath_Magic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4919
+      }
+    ]
+  },
+  "ChooseClick": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4508
+      }
+    ]
+  },
+  "RocketBoostLand": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4505
+      }
+    ]
+  },
+  "RocketBoostJump": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4504
+      }
+    ]
+  },
+  "HelicopterMonsterAttack": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4468
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4469
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4470
+      }
+    ]
+  },
+  "HelicopterMonsterRoar": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4471
+      }
+    ]
+  },
+  "CrawlerDeath": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4785
+      }
+    ]
+  },
+  "UI_SellArtifact": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4510
+      }
+    ]
+  },
+  "EnemyBulletExplode": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4855
+      }
+    ]
+  },
+  "Skill_PyroclasmSurge": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5013
+      }
+    ]
+  },
+  "BoxBreak": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4548
+      }
+    ]
+  },
+  "BoomStaticBullet": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4514
+      }
+    ]
+  },
+  "FireDragonSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4503
+      }
+    ]
+  },
+  "GoblinAttack1": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4706
+      }
+    ]
+  },
+  "GoblinAttack2": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4707
+      }
+    ]
+  },
+  "GoblinAttack3": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4708
+      }
+    ]
+  },
+  "GoblinAttack4": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4709
+      }
+    ]
+  },
+  "GoblinDead": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4786
+      }
+    ]
+  },
+  "Goblin_Tall_Attack": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4719
+      }
+    ]
+  },
+  "Goblin_Tall_WhirlwindAtk": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4728
+      }
+    ]
+  },
+  "Goblin_Tall_Roar": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4724
+      }
+    ]
+  },
+  "Goblin_Tall_FlameWaveAtk": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4720
+      }
+    ]
+  },
+  "Goblin_Tall_Dead": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4668
+      }
+    ]
+  },
+  "Goblin_Tall_Hit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4818
+      }
+    ]
+  },
+  "Goblin_Tall_Swing": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4729
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4730
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4731
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4732
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4733
+      }
+    ]
+  },
+  "FireArrowShoot": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4778
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4777
+      }
+    ]
+  },
+  "FireArrowExplosion": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4763
+      }
+    ]
+  },
+  "FireArrow_FireArea": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4756
+      }
+    ]
+  },
+  "CommonArrow_Explosion": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4762
+      }
+    ]
+  },
+  "CommonArrow_Volley": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4755
+      }
+    ]
+  },
+  "CommonArrow_VolleyWarning": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4754
+      }
+    ]
+  },
+  "Goblin_Shaman_MagicMissleAtk": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4721
+      }
+    ]
+  },
+  "Goblin_Shaman_TometicAtk": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4726
+      }
+    ]
+  },
+  "Goblin_Shaman_Recover": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4722
+      }
+    ]
+  },
+  "Goblin_Shaman_hit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4817
+      }
+    ]
+  },
+  "Goblin_Shaman_Die": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4793
+      }
+    ]
+  },
+  "Goblin_Shaman_Roar": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4723
+      }
+    ]
+  },
+  "Goblin_Shaman_SummonTometic": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4802
+      }
+    ]
+  },
+  "Sphere_Explosion": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4812
+      }
+    ]
+  },
+  "AttackScream_AlienCreature": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4715
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4717
+      }
+    ]
+  },
+  "LaserAttack_AlienCreature": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4699
+      }
+    ]
+  },
+  "SphereFly_AlienCreature": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4800
+      }
+    ]
+  },
+  "DeathOnGround_AlienCreature": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4780
+      }
+    ]
+  },
+  "PointBlankVolleyAttackSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4493
+      }
+    ]
+  },
+  "TwoHandGunNormalAttackSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4494
+      }
+    ]
+  },
+  "LeadTempestJumpUpSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4479
+      }
+    ]
+  },
+  "LeadTempestLandingSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4480
+      }
+    ]
+  },
+  "LeadTempestShootingSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4481
+      }
+    ]
+  },
+  "GoldenGunShootingSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4478
+      }
+    ]
+  },
+  "OrbExplosionSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4490
+      }
+    ]
+  },
+  "MagicBallExplosionSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4489
+      }
+    ]
+  },
+  "EmberboltSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4483
+      }
+    ]
+  },
+  "Firebrandray_loopSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4485
+      }
+    ]
+  },
+  "Firebrandray_StartSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4484
+      }
+    ]
+  },
+  "FlameJetLoopSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4486
+      }
+    ]
+  },
+  "FlameJetStartSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4487
+      }
+    ]
+  },
+  "Infernal_MaelstromSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4488
+      }
+    ]
+  },
+  "Zombie_burning_loopSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4492
+      }
+    ]
+  },
+  "Cube_droppingSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4482
+      }
+    ]
+  },
+  "PyroclasticEruptionExplodeSound": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4491
+      }
+    ]
+  },
+  "MagicFireBall": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4911
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4912
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4913
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4914
+      }
+    ]
+  },
+  "MagicIceReload": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4929
+      }
+    ]
+  },
+  "MagicFireIceBall": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4865
+      }
+    ]
+  },
+  "ChestPunchRoar_Gorilla": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4747
+      }
+    ]
+  },
+  "ThrowIceBall_Gorilla": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4740
+      }
+    ]
+  },
+  "IceBallLanding_Gorilla": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4758
+      }
+    ]
+  },
+  "IceBallBreak_Gorilla": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4757
+      }
+    ]
+  },
+  "IceShields_Gorilla": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4759
+      }
+    ]
+  },
+  "FootStep_Gorilla": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4765
+      }
+    ]
+  },
+  "PunchGround_Gorilla": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4738
+      }
+    ]
+  },
+  "JumpaAttack_Gorilla": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4775
+      }
+    ]
+  },
+  "JumpaLanding_Gorilla": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4776
+      }
+    ]
+  },
+  "Walk_InsectCrawler": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4816
+      }
+    ]
+  },
+  "Attack_InsectCrawler": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4701
+      }
+    ]
+  },
+  "GreenBall_InsectCrawler": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4797
+      }
+    ]
+  },
+  "GreenBallExplode_InsectCrawler": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4811
+      }
+    ]
+  },
+  "Jump_InsectCrawler": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4842
+      }
+    ]
+  },
+  "RushScream_InsectCrawler": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4725
+      }
+    ]
+  },
+  "Rush_InsectCrawler": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4702
+      }
+    ]
+  },
+  "Die_InsectCrawler": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4781
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4782
+      }
+    ]
+  },
+  "Hit_InsectCrawler": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4819
+      }
+    ]
+  },
+  "FireBallExplode_Shaman": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4810
+      }
+    ]
+  },
+  "FireBall_Shaman": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4796
+      }
+    ]
+  },
+  "PillarBurn_Shaman": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4798
+      }
+    ]
+  },
+  "PillarLanding_Shaman": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4799
+      }
+    ]
+  },
+  "SpreadFire_Shaman": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4801
+      }
+    ]
+  },
+  "AttackScream_Gargoyle": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4716
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4718
+      }
+    ]
+  },
+  "MeleeAttack_Gargoyle": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4700
+      }
+    ]
+  },
+  "ThrowFireBall_Gargoyle": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4803
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4804
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4805
+      }
+    ]
+  },
+  "FireBallExplode_Gargoyle": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4806
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4807
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4808
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4809
+      }
+    ]
+  },
+  "FlapTheWing_Gargoyle": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4814
+      }
+    ]
+  },
+  "SpiderHit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4773
+      }
+    ]
+  },
+  "SpiderBossDie": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4750
+      }
+    ]
+  },
+  "AttackScream": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4745
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4746
+      }
+    ]
+  },
+  "SpiderClawAttack": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4739
+      }
+    ]
+  },
+  "SpiderYellowFire": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4761
+      }
+    ]
+  },
+  "SpiderShoot": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4779
+      }
+    ]
+  },
+  "SpiderWalk": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4766
+      }
+    ]
+  },
+  "SpiderHiss": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4760
+      }
+    ]
+  },
+  "SpiderExplode": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4764
+      }
+    ]
+  },
+  "WarriorDie": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4783
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4784
+      }
+    ]
+  },
+  "WarriorBeforDie": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4794
+      }
+    ]
+  },
+  "WarriorHit": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4837
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4838
+      }
+    ]
+  },
+  "WarriorBlock": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4737
+      }
+    ]
+  },
+  "WarriorAttackRoar": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4727
+      }
+    ]
+  },
+  "WarriorAtk1": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4734
+      }
+    ]
+  },
+  "WarriorAtk2": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4735
+      }
+    ]
+  },
+  "WarriorAtk3": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4736
+      }
+    ]
+  },
+  "EnemyKnockbackStart_Goblin": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4846
+      }
+    ]
+  },
+  "EnemyKnockbackStart_Skeleton": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4847
+      }
+    ]
+  },
+  "EnemyKnockbackEnd": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4843
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4844
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4845
+      }
+    ]
+  },
+  "EnemyZobieRoar": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4848
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4849
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4850
+      }
+    ]
+  }
+}

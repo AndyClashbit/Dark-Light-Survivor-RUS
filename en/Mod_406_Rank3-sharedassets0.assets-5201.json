@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_406_Rank3",
+  "OnlyId": 0,
+  "ModId": 4061,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Adaptive Targeting Laser III",
+  "ModDec": "Highlights enemy movement paths for {1} seconds",
+  "ModIndex": 4,
+  "modAddType": 7,
+  "modAddValue1": 40.0,
+  "modAddValue2": 3.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "Laser",
+  "bCanUseMod": 0,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2670
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 919
+  },
+  "m_Name": "",
+  "hitStopType": 1,
+  "changeTime": 0.0,
+  "restoreSpeed": 0.0,
+  "duration": 0.2,
+  "hitStopCooldown": 0.0,
+  "needHitStop": 1
+}

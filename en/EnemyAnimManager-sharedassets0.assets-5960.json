@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2670
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2541
+  },
+  "m_Name": "",
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "enemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "moveType": 0.0,
+  "AtkNum": 0.0,
+  "radius": 0.5,
+  "targetMask": {
+    "m_Bits": 262144
+  },
+  "isAttacking": 0,
+  "fireCooldown": 0.1,
+  "playerHelperScript": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "EnemyFireSpeed": 12.0,
+  "rayList": {
+    "Array": [
+      {
+        "currStart": {
+          "m_FileID": 0,
+          "m_PathID": 3032
+        },
+        "currEnd": {
+          "m_FileID": 0,
+          "m_PathID": 3101
+        },
+        "lastStartPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "lastEndPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      {
+        "currStart": {
+          "m_FileID": 0,
+          "m_PathID": 3209
+        },
+        "currEnd": {
+          "m_FileID": 0,
+          "m_PathID": 3056
+        },
+        "lastStartPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "lastEndPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    ]
+  }
+}

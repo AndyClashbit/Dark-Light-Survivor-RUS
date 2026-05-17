@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Soldier_PointBlankVolley_5",
+  "SkillId": 1303,
+  "SkillName": "PointBlank Volley",
+  "SkillIconType": 0,
+  "BaseSkillType": 2,
+  "Faction": -1,
+  "SkillType": 2,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 5,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Shotgun crits +50% damage",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1661
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1303,
+        "GuidInSkill": 0,
+        "Rank": 5,
+        "SkillDescribe": "Stagger target and blast with shotgun.Stun chance {0}%,Bleed change {1}%.Increases critical hit chance by {2}%.Critical hits deal {3}% increased damage.",
+        "SkillDamage": 0,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 8.0,
+        "CurTrigerCd": -0.0049796673,
+        "BuffId": 0,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "",
+        "EffectPoint": 0,
+        "TrigerEvent": 0,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 50.0,
+        "describe1": "Stun Probability",
+        "Value2": 50.0,
+        "describe2": "Bleed Probability",
+        "Value3": 50.0,
+        "describe3": "Crit",
+        "Value4": 50.0,
+        "describe4": "Crit Damage",
+        "Value5": 0.0,
+        "describe5": "",
+        "Value6": 0.0,
+        "describe6": "",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

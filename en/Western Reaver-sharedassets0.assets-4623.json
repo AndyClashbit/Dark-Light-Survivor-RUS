@@ -1,0 +1,415 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5094
+  },
+  "m_Name": "Western Reaver",
+  "Id": 34,
+  "Name": "Western_Reaver",
+  "Name_OnlyShowAsUI": "Marshal Peacemaker",
+  "Dec": "Western_Reaver",
+  "GearId": 0,
+  "ShieldAnimId": 0,
+  "shieldEquipSlot": 0,
+  "UseAnimIdx": 0,
+  "GameMainIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1757
+  },
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 1979
+  },
+  "BackpackIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1979
+  },
+  "BackpackWidth": 3,
+  "BackpackHeight": 1,
+  "weaponTypeMeleeOrRange": 1,
+  "weaponKindType": 0,
+  "magicElementType": 0,
+  "MuzzlePosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "GunSightPosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "ClipPosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "WeaponRotation": {
+    "x": -0.5,
+    "y": -90.0,
+    "z": 0.0
+  },
+  "WeaponPosition": {
+    "x": 0.43,
+    "y": 0.21,
+    "z": 0.0
+  },
+  "WeaponScale": {
+    "x": 2.5,
+    "y": 2.5,
+    "z": 2.5
+  },
+  "RemoteModSoltListIndex": {
+    "Array": [
+      1,
+      2,
+      4,
+      8
+    ]
+  },
+  "WeaponCanUseName": {
+    "Array": []
+  },
+  "WeaponCanUseDes": {
+    "Array": [
+      "Never fair, always final.",
+      "Travels light, hits heavy, preaches fire.",
+      "Fires like a beast, spins like a wheel of fate.",
+      "Built on betrayal. Loaded with doubt.",
+      "Passes judgment with undead precision.",
+      "Shines gold, feeds on corpses.",
+      "Six shots, one sermon.",
+      "Aged to perfection. Kills with elegance.",
+      "Fast on the draw, faster to bury.",
+      "Each shot a curse spoken in steel.",
+      "Carries cold justice. Delivers warm blood.",
+      "Never wrong, never patient.",
+      "Spins until your sins are spent.",
+      "When it speaks, something always dies.",
+      "Offers peace… at six chances only.",
+      "Old-world fire with a new-world grudge.",
+      "Plays the tune of vengeance.",
+      "Floats steady. Hits hard.",
+      "Baptized in battle, forged in fury.",
+      "Rings once. Screams forever."
+    ]
+  },
+  "BackPackWeaponPosition": {
+    "x": -0.0742,
+    "y": 0.0277,
+    "z": -0.0355
+  },
+  "BackPackWeaponRotation": {
+    "x": 7.497,
+    "y": -97.78,
+    "z": -4.305
+  },
+  "BackPackWeaponScale": {
+    "x": 1.5,
+    "y": 1.5,
+    "z": 1.5
+  },
+  "BackPackWeaponPosition2": {
+    "x": -0.1219,
+    "y": 0.0344,
+    "z": -0.0433
+  },
+  "BackPackWeaponRotation2": {
+    "x": 3.0,
+    "y": -97.78,
+    "z": -6.616
+  },
+  "BackPackWeaponScale2": {
+    "x": 1.5,
+    "y": 1.5,
+    "z": 1.5
+  },
+  "PlayerWeaponPosition": {
+    "x": -0.0917,
+    "y": 0.0366,
+    "z": -0.029
+  },
+  "PlayerWeaponRotation": {
+    "x": 3.608,
+    "y": -86.268,
+    "z": 1.117
+  },
+  "PlayerWeaponScale": {
+    "x": 1.5,
+    "y": 1.5,
+    "z": 1.5
+  },
+  "Player2WeaponPosition": {
+    "x": -0.1308,
+    "y": 0.0466,
+    "z": -0.0472
+  },
+  "Player2WeaponRotation": {
+    "x": 3.0,
+    "y": -85.149,
+    "z": -6.616
+  },
+  "Player2WeaponScale": {
+    "x": 1.5,
+    "y": 1.5,
+    "z": 1.5
+  },
+  "Player3WeaponPosition_LeftGun": {
+    "x": -0.1308,
+    "y": 0.0466,
+    "z": -0.0472
+  },
+  "Player3WeaponRotation_LeftGun": {
+    "x": 3.0,
+    "y": -85.149,
+    "z": -6.616
+  },
+  "Player3WeaponScale_LeftGun": {
+    "x": 1.5,
+    "y": 1.5,
+    "z": 1.5
+  },
+  "PlayerWeaponPosition_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponRotation_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponPosition_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponRotation_NoFight": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponPosition_NoFight_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponRotation_NoFight_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponPosition": {
+    "x": -30.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponRotation": {
+    "x": 0.0,
+    "y": 90.0,
+    "z": 0.0
+  },
+  "BagWeaponPositionOffset": {
+    "x": -50.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponPosition_R": {
+    "x": 0.0,
+    "y": -30.0,
+    "z": 0.0
+  },
+  "BagWeaponRotation_R": {
+    "x": -90.0,
+    "y": 0.0,
+    "z": 90.0
+  },
+  "BagWeaponPositionOffset_R": {
+    "x": 0.0,
+    "y": -50.0,
+    "z": 0.0
+  },
+  "BagWeaponScale": {
+    "x": 300.0,
+    "y": 300.0,
+    "z": 300.0
+  },
+  "BagWeaponScaleOffset": {
+    "x": 275.0,
+    "y": 275.0,
+    "z": 275.0
+  },
+  "FireGreatSowrdWeaponScaleBag": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "EquipWeaponPosition": {
+    "x": 0.0,
+    "y": -43.0,
+    "z": 0.0
+  },
+  "EquipWeaponRotation": {
+    "x": -90.0,
+    "y": 90.0,
+    "z": 0.0
+  },
+  "EquipWeaponScale": {
+    "x": 370.0,
+    "y": 370.0,
+    "z": 370.0
+  },
+  "FireGreatSowrdWeaponScaleEquip": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnusePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnuseRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnuseScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnusePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnuseRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnuseScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "IsSuperWeapon": 0,
+  "NeedDisableMod": 0,
+  "currentRecoilProfile": {
+    "maxPositionOffset": {
+      "x": 0.0,
+      "y": 0.05,
+      "z": -0.2
+    },
+    "maxRotationOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -45.0
+    },
+    "decaySpeed": 16.0
+  },
+  "PlayerSkillWeaponPosition2": {
+    "x": -0.1308,
+    "y": 0.0466,
+    "z": -0.0472
+  },
+  "PlayerSkillWeaponRotation2": {
+    "x": 3.0,
+    "y": -85.149,
+    "z": -6.616
+  },
+  "PlayerWeaponPosition_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponRotation_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponPosition_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponRotation_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "weaponAcquireSource": {
+    "WeaponIDType": 34,
+    "EnemyList": {
+      "Array": [
+        11,
+        5,
+        7,
+        4,
+        1,
+        23,
+        6,
+        21,
+        28,
+        8
+      ]
+    },
+    "CanGetFromCommonBox": 1,
+    "CanGetFromSpecialBox": 1,
+    "CanGetFromRiftMerchant": 1,
+    "CanUsePlayerList": {
+      "Array": [
+        1,
+        0,
+        2
+      ]
+    },
+    "NewPriceDataList": {
+      "Array": []
+    },
+    "Weight": 100,
+    "PurchaseLimitCount": 0,
+    "QualityLimit": {
+      "Array": []
+    }
+  }
+}

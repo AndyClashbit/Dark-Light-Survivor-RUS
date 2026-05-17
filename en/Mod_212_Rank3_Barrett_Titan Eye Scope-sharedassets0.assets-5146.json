@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_212_Rank3_Barrett_Titan Eye Scope",
+  "OnlyId": 0,
+  "ModId": 2123,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Titan Eye Scope",
+  "ModDec": "Headshot damage +{0}%",
+  "ModIndex": 2,
+  "modAddType": 42,
+  "modAddValue1": 50.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "SniperScope",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      85
+    ]
+  }
+}

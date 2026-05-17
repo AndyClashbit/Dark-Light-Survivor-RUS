@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5271
+  },
+  "m_Name": "Mist",
+  "effectType": 0,
+  "enableDithering": 0,
+  "ditherStrength": 0.03,
+  "alpha": 0.75,
+  "noiseStrength": 0.6,
+  "noiseScale": 0.1,
+  "distance": 0.0,
+  "distanceFallOff": 0.07,
+  "maxDistance": 0.999,
+  "maxDistanceFallOff": 0.0,
+  "height": 4.4,
+  "maxHeight": 100.0,
+  "heightFallOff": 1.0,
+  "baselineHeight": 0.0,
+  "clipUnderBaseline": 0,
+  "turbulence": 0.0,
+  "speed": 0.01,
+  "windDirection": {
+    "x": 1.0,
+    "y": 0.0,
+    "z": 1.0
+  },
+  "color": {
+    "r": 0.89,
+    "g": 0.89,
+    "b": 0.89,
+    "a": 1.0
+  },
+  "color2": {
+    "r": 0.89,
+    "g": 0.89,
+    "b": 0.89,
+    "a": 1.0
+  },
+  "skyHaze": 15.0,
+  "skySpeed": 0.11,
+  "skyNoiseStrength": 1.0,
+  "skyAlpha": 0.33,
+  "useXZDistance": 0,
+  "scattering": 0.7,
+  "scatteringColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 0.8,
+    "a": 1.0
+  },
+  "skyboxBlending": 0
+}

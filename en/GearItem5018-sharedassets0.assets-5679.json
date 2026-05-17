@@ -1,0 +1,10182 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3512
+  },
+  "m_Name": "GearItem5018",
+  "playerIDType": 1,
+  "arrayID": 107,
+  "itemId": 5018,
+  "Weight": 1.0,
+  "specialGear": 0,
+  "itemIdString": "5018",
+  "strRoleType": "Warrior_Mage",
+  "BackpackWidth": 2,
+  "BackpackHeight": 2,
+  "referenceName": "Fine Skull of Strength",
+  "hasPrefix": 1,
+  "hasSuffix": 1,
+  "specialItem": 0,
+  "inventoryIcon": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1626
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2278
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1611
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2313
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1602
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "sideInfoIcon": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1626
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2278
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1611
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2313
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1602
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "largeBackgroundImage": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "worldDropIcon": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  },
+  "notes": "",
+  "sellPrice": {
+    "Array": [
+      200,
+      200,
+      200,
+      200,
+      200,
+      200,
+      200,
+      200,
+      200,
+      200,
+      200
+    ]
+  },
+  "rank": 2,
+  "gearModeltype": 0,
+  "gearSetType": 0,
+  "prefixRank1": 0,
+  "prefixRank2": 0,
+  "prefixRank3": 1,
+  "prefixRank4": 0,
+  "prefixRank5": 1,
+  "suffixRank1": 0,
+  "suffixRank2": 0,
+  "suffixRank3": 0,
+  "suffixRank4": 0,
+  "suffixRank5": 3,
+  "specialPrefix": 2,
+  "specialSufix": 8,
+  "gearHead": {
+    "Array": [
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  "gearChest": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "gearArm": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "gearPauldrons": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "gearLeg": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "AttributesMin": {
+    "Array": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "AttributesMax": {
+    "Array": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  "giSubLists": {
+    "Array": [
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            2,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            0.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            5,
+            5
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            10,
+            10
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            1,
+            1,
+            5,
+            5,
+            10,
+            1,
+            5,
+            5
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            2,
+            1,
+            5,
+            10,
+            15,
+            4,
+            10,
+            10
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            0.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            5
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            10
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": []
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": []
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": []
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": []
+        }
+      },
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            1,
+            2,
+            3,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            1.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            10,
+            10
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            15,
+            15
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            3,
+            1,
+            3,
+            15,
+            15,
+            5,
+            6,
+            6
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            5,
+            1,
+            2,
+            20,
+            20,
+            8,
+            10,
+            10
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            1.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            10
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            15
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": [
+            45,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            1,
+            3,
+            3,
+            2,
+            0,
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            30,
+            30,
+            30,
+            30,
+            30,
+            30
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            1.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            15,
+            15
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            30,
+            30
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            3,
+            1,
+            3,
+            20,
+            20,
+            9,
+            11,
+            11
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            4,
+            1,
+            3,
+            25,
+            25,
+            12,
+            15,
+            15
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            1.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            15
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            30
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            30,
+            30,
+            30,
+            30,
+            30,
+            30
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            30,
+            30,
+            30,
+            30,
+            30,
+            30
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": [
+            45,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            2,
+            3,
+            3,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            21,
+            25,
+            25,
+            25,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            30,
+            39,
+            39,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            14,
+            14,
+            14,
+            14,
+            14,
+            14,
+            14,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            10,
+            10,
+            11,
+            10,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            19,
+            10,
+            19,
+            19,
+            19,
+            10,
+            19,
+            10,
+            19,
+            10,
+            19,
+            10,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            20,
+            12,
+            20,
+            20,
+            20,
+            12,
+            20,
+            12,
+            20,
+            12,
+            20,
+            12,
+            0,
+            0
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            1.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            4,
+            1,
+            4,
+            25,
+            25,
+            13,
+            16,
+            16,
+            4,
+            10,
+            4,
+            13
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            4,
+            1,
+            4,
+            30,
+            30,
+            16,
+            20,
+            20,
+            4,
+            15,
+            5,
+            18
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            1.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            13,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            16,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            13,
+            13,
+            13,
+            13,
+            13,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            16,
+            16,
+            16,
+            16,
+            16,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            6,
+            6,
+            6,
+            6,
+            6
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            7,
+            7,
+            7,
+            7,
+            7
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": [
+            45,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            2,
+            3,
+            3,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            31,
+            40,
+            40,
+            35,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            40,
+            50,
+            50,
+            50,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            16,
+            16,
+            16,
+            16,
+            16,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            20,
+            13,
+            20,
+            20,
+            20,
+            13,
+            20,
+            13,
+            20,
+            13,
+            20,
+            13,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            25,
+            15,
+            25,
+            25,
+            25,
+            15,
+            25,
+            15,
+            25,
+            15,
+            25,
+            15,
+            0,
+            0
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            1.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            5,
+            1,
+            5,
+            35,
+            35,
+            17,
+            21,
+            21,
+            5,
+            15,
+            5,
+            19
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            5,
+            1,
+            6,
+            50,
+            50,
+            20,
+            25,
+            25,
+            5,
+            20,
+            6,
+            25
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            0.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            17,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            20,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            17,
+            17,
+            17,
+            17,
+            17,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            7,
+            7,
+            7,
+            7,
+            7
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            11,
+            11,
+            11,
+            11,
+            11
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": [
+            45,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            1,
+            5,
+            5,
+            35,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            5,
+            9,
+            9,
+            50,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            2,
+            3,
+            3,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            1,
+            13,
+            1,
+            1,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            5,
+            15,
+            5,
+            5,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            0,
+            0
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            1.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            5,
+            1,
+            5,
+            35,
+            35,
+            1,
+            1,
+            1,
+            5,
+            15,
+            5,
+            1
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            5,
+            1,
+            6,
+            50,
+            50,
+            4,
+            5,
+            5,
+            5,
+            20,
+            6,
+            3
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            1.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            7,
+            7,
+            7,
+            7,
+            7
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            11,
+            11,
+            11,
+            11,
+            11
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": [
+            45,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            1,
+            5,
+            5,
+            35,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            5,
+            9,
+            9,
+            50,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            2,
+            3,
+            3,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            1,
+            13,
+            1,
+            1,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            5,
+            15,
+            5,
+            5,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            0,
+            0
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            1.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            5,
+            1,
+            5,
+            35,
+            35,
+            1,
+            1,
+            1,
+            5,
+            15,
+            5,
+            1
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            5,
+            1,
+            6,
+            50,
+            50,
+            4,
+            5,
+            5,
+            5,
+            20,
+            6,
+            3
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            1.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": [
+            45,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            1,
+            5,
+            5,
+            35,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            5,
+            9,
+            9,
+            50,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            2,
+            3,
+            3,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            1,
+            13,
+            1,
+            1,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            5,
+            15,
+            5,
+            5,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            0,
+            0
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            1.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            5,
+            0,
+            5,
+            35,
+            35,
+            1,
+            1,
+            1,
+            5,
+            15,
+            5,
+            1
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            5,
+            0,
+            6,
+            50,
+            50,
+            4,
+            5,
+            5,
+            5,
+            20,
+            6,
+            3
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            1.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": [
+            45,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            1,
+            5,
+            5,
+            35,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            5,
+            9,
+            9,
+            50,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            2,
+            3,
+            3,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            1,
+            13,
+            1,
+            1,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            5,
+            15,
+            5,
+            5,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            0,
+            0
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            1.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            5,
+            1,
+            5,
+            35,
+            35,
+            1,
+            1,
+            1,
+            5,
+            15,
+            5,
+            1
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            5,
+            1,
+            6,
+            50,
+            50,
+            4,
+            5,
+            5,
+            5,
+            20,
+            6,
+            3
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            1.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": [
+            45,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            1,
+            5,
+            5,
+            35,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            5,
+            9,
+            9,
+            50,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            2,
+            3,
+            3,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            1,
+            13,
+            1,
+            1,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            5,
+            15,
+            5,
+            5,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            0,
+            0
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            1.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            5,
+            1,
+            5,
+            35,
+            35,
+            1,
+            1,
+            1,
+            5,
+            15,
+            5,
+            1
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            5,
+            1,
+            6,
+            50,
+            50,
+            4,
+            5,
+            5,
+            5,
+            20,
+            6,
+            3
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            1.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": [
+            45,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "groupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        },
+        "groupLimit": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        "groupRequiredCount": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "groupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "statValueGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        "statValueGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statValueGroupMin": {
+          "Array": [
+            1,
+            5,
+            5,
+            35,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "statValueGroupMax": {
+          "Array": [
+            5,
+            9,
+            9,
+            50,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6,
+            6
+          ]
+        },
+        "resistanceGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "resistanceGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        "resistanceGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "resistanceGroupMax": {
+          "Array": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupChance": {
+          "Array": [
+            1.0,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "statPointsGroupEnabled": {
+          "Array": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "statPointsGroupMax": {
+          "Array": [
+            2,
+            3,
+            3,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ]
+        },
+        "damageStatsGroupEnabled": {
+          "Array": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMin": {
+          "Array": [
+            1,
+            13,
+            1,
+            1,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            1,
+            13,
+            0,
+            0
+          ]
+        },
+        "damageStatsGroupMax": {
+          "Array": [
+            5,
+            15,
+            5,
+            5,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            5,
+            15,
+            0,
+            0
+          ]
+        },
+        "skillsGroupChance": {
+          "Array": [
+            1.0,
+            1.0
+          ]
+        },
+        "skillsGroupEnabled": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupRequired": {
+          "Array": [
+            0,
+            0
+          ]
+        },
+        "skillsGroupMin": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillsGroupMax": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "otherGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        "otherGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "otherGroupMin": {
+          "Array": [
+            5,
+            1,
+            5,
+            35,
+            35,
+            1,
+            1,
+            1,
+            5,
+            15,
+            5,
+            1
+          ]
+        },
+        "otherGroupMax": {
+          "Array": [
+            5,
+            1,
+            6,
+            50,
+            50,
+            4,
+            5,
+            5,
+            5,
+            20,
+            6,
+            3
+          ]
+        },
+        "setGroupChance": {
+          "Array": [
+            1.0
+          ]
+        },
+        "setGroupEnabled": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupRequired": {
+          "Array": [
+            0
+          ]
+        },
+        "setGroupMin": {
+          "Array": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "setGroupMax": {
+          "Array": [
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ]
+        },
+        "enemyDamageGroupEnabled": {
+          "Array": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        "enemyDamageGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "enemyDamageGroupMax": {
+          "Array": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "skillCastGroupEnabled": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupRequired": {
+          "Array": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "skillCastGroupMin": {
+          "Array": [
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7
+          ]
+        },
+        "skillCastGroupMax": {
+          "Array": [
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11
+          ]
+        },
+        "droneSkills": {
+          "Array": [
+            0,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "droneSkillsUpgrade": {
+          "Array": [
+            45,
+            59,
+            52,
+            55,
+            54,
+            58,
+            50,
+            49,
+            46,
+            56,
+            0,
+            1,
+            40,
+            9,
+            3,
+            5,
+            15,
+            47,
+            44,
+            17,
+            16,
+            18,
+            39,
+            43
+          ]
+        },
+        "droneSkillsUpgradeLevelMin": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeLevelMax": {
+          "Array": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "droneSkillsUpgradeChance": {
+          "Array": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      }
+    ]
+  },
+  "minMeleeLeechValue": {
+    "Array": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "maxMeleeLeechValue": {
+    "Array": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "minRangeLeechValue": {
+    "Array": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "maxRangeLeechValue": {
+    "Array": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "minMeleeFreezeValue": {
+    "Array": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "maxMeleeFreezeValue": {
+    "Array": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "minMeleeLightningValue": {
+    "Array": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "maxMeleeLightningValue": {
+    "Array": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "LightningNum": {
+    "Array": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "setUnlockCount": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "lightningNovaOnHitLevel": {
+    "Array": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  "poisonNovaOnHitLevel": {
+    "Array": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  "frostNovaOnHitLevel": {
+    "Array": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  "fireBallOnHitLevel": {
+    "Array": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  "bladeShieldOnHitLevel": {
+    "Array": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  "chargedBoltOnHitLevel": {
+    "Array": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  },
+  "requiredLevel": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "requiredLevelRef": "GearReqLevel",
+  "requiredStrenght": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "requiredStrenghtRef": "GearReqStrenght",
+  "requiredAgility": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "requiredAgilityRef": "GearReqAgility",
+  "requiredIntelect": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "requiredIntelectRef": "GearReqIntelect",
+  "requiredFaith": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "requiredFaithRef": "GearReqFaith",
+  "requiredBlood": {
+    "Array": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "requiredBloodRef": "GearReqBlood",
+  "droneSkillChance": {
+    "Array": [
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "droneSkillsListSize": {
+    "Array": [
+      24,
+      24,
+      23,
+      1,
+      23,
+      1,
+      1,
+      1,
+      1,
+      1,
+      24
+    ]
+  },
+  "droneSkillUpgradeChance": {
+    "Array": [
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "droneSkillsUpgradeListSize": {
+    "Array": [
+      0,
+      24,
+      24,
+      23,
+      24,
+      0,
+      0,
+      0,
+      0,
+      0,
+      24
+    ]
+  },
+  "gearDropItemRankColor": {
+    "Array": [
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    ]
+  },
+  "gearInventoryRankColor": {
+    "Array": [
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      },
+      {
+        "r": 1.0,
+        "g": 0.69411767,
+        "b": 0.0,
+        "a": 1.0
+      }
+    ]
+  },
+  "gearDropItemRankColorHue": {
+    "Array": [
+      -0.5,
+      -0.5,
+      -0.5,
+      -0.5,
+      -0.5,
+      -0.5,
+      -0.5,
+      -0.5,
+      -0.5,
+      -0.5,
+      -0.5
+    ]
+  },
+  "gearDropItemRankColorSaturation": {
+    "Array": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ]
+  },
+  "gearRankIconColor": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    ]
+  }
+}

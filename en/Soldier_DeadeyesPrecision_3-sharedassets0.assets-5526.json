@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Soldier_DeadeyesPrecision_3",
+  "SkillId": 1326,
+  "SkillName": "Deadeyes Precision",
+  "SkillIconType": 0,
+  "BaseSkillType": 0,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 3,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Gain crit damage from headshots.",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2267
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1326,
+        "GuidInSkill": 0,
+        "Rank": 3,
+        "SkillDescribe": "After a headshot, increases critical damage by {0}% and critical hit chance by {1}% for {8} s.",
+        "SkillDamage": 0,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 0.5,
+        "CurTrigerCd": -2104.902,
+        "BuffId": 0,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "DeadeyesPrecisionEffect",
+        "EffectPoint": 30,
+        "TrigerEvent": 5,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 40.0,
+        "describe1": "每层暴击伤害增加百分比",
+        "Value2": 8.0,
+        "describe2": "每层暴击率增加值",
+        "Value3": 0.0,
+        "describe3": "",
+        "Value4": 1.0,
+        "describe4": "最大层数",
+        "Value5": 0.0,
+        "describe5": "",
+        "Value6": 5.0,
+        "describe6": "状态持续时间",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

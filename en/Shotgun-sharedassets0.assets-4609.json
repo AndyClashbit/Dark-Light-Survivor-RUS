@@ -1,0 +1,414 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5094
+  },
+  "m_Name": "Shotgun",
+  "Id": 13,
+  "Name": "Shotgun",
+  "Name_OnlyShowAsUI": "Trench 02",
+  "Dec": "This rifle has put down twenty ghouls in a single night. Their shrieks still linger in its chamber.",
+  "GearId": 0,
+  "ShieldAnimId": 0,
+  "shieldEquipSlot": 0,
+  "UseAnimIdx": 0,
+  "GameMainIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2154
+  },
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 2134
+  },
+  "BackpackIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2134
+  },
+  "BackpackWidth": 4,
+  "BackpackHeight": 1,
+  "weaponTypeMeleeOrRange": 1,
+  "weaponKindType": 3,
+  "magicElementType": 0,
+  "MuzzlePosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "GunSightPosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "ClipPosition": {
+    "Array": [
+      0,
+      1
+    ]
+  },
+  "WeaponRotation": {
+    "x": 0.0,
+    "y": -75.0,
+    "z": 0.0
+  },
+  "WeaponPosition": {
+    "x": 0.7,
+    "y": 0.04,
+    "z": 0.0
+  },
+  "WeaponScale": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 2.0
+  },
+  "RemoteModSoltListIndex": {
+    "Array": [
+      1,
+      2,
+      4,
+      8
+    ]
+  },
+  "WeaponCanUseName": {
+    "Array": []
+  },
+  "WeaponCanUseDes": {
+    "Array": [
+      "A single blast can bury three men.",
+      "What it swallows, it doesn’t return.",
+      "Lights your path in blood and smoke.",
+      "Every shell is a prophecy fulfilled.",
+      "Not all gods answer with grace.",
+      "Where it fires, red blooms follow.",
+      "Its hunger is loud and final.",
+      "Kicked out of the temple for preaching with lead.",
+      "Sings in blasts, harmonizes in screams.",
+      "Blessed in the trenches, holy in the hunt.",
+      "Tears through cover like truth through lies.",
+      "Keeps the monsters away. Makes more in the process.",
+      "Fires like a cleaver, reloads like a warning.",
+      "Your last line. Your best line.",
+      "Rings out once per pull. That's all it needs.",
+      "Weeps shells, leaves silence.",
+      "Built from scavenged parts, rules in ruin.",
+      "Covered in smoke, burns in recoil.",
+      "Fires in rhythm, finishes in sc"
+    ]
+  },
+  "BackPackWeaponPosition": {
+    "x": -0.0542,
+    "y": -0.0179,
+    "z": -0.0304
+  },
+  "BackPackWeaponRotation": {
+    "x": 7.044,
+    "y": -108.517,
+    "z": 3.117
+  },
+  "BackPackWeaponScale": {
+    "x": 0.9,
+    "y": 0.9,
+    "z": 0.9
+  },
+  "BackPackWeaponPosition2": {
+    "x": -0.0947,
+    "y": 0.0093,
+    "z": -0.0383
+  },
+  "BackPackWeaponRotation2": {
+    "x": 12.03,
+    "y": -82.72,
+    "z": 5.806
+  },
+  "BackPackWeaponScale2": {
+    "x": 1.0,
+    "y": 0.9,
+    "z": 1.0
+  },
+  "PlayerWeaponPosition": {
+    "x": -0.0415,
+    "y": -0.0135,
+    "z": -0.0602
+  },
+  "PlayerWeaponRotation": {
+    "x": 9.214,
+    "y": -72.336,
+    "z": 6.747
+  },
+  "PlayerWeaponScale": {
+    "x": 1.0,
+    "y": 0.9,
+    "z": 1.0
+  },
+  "Player2WeaponPosition": {
+    "x": -0.0947,
+    "y": 0.0093,
+    "z": -0.0383
+  },
+  "Player2WeaponRotation": {
+    "x": 12.03,
+    "y": -82.72,
+    "z": 5.806
+  },
+  "Player2WeaponScale": {
+    "x": 1.0,
+    "y": 0.9,
+    "z": 1.0
+  },
+  "Player3WeaponPosition_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponRotation_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponScale_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponPosition_NoFight": {
+    "x": -0.09067091,
+    "y": -0.01370169,
+    "z": -0.02560462
+  },
+  "PlayerWeaponRotation_NoFight": {
+    "x": 27.313,
+    "y": -114.481,
+    "z": 21.89
+  },
+  "Player2WeaponPosition_NoFight": {
+    "x": -0.0907,
+    "y": -0.0137,
+    "z": -0.0256
+  },
+  "Player2WeaponRotation_NoFight": {
+    "x": 11.442,
+    "y": -107.931,
+    "z": 21.755
+  },
+  "Player3WeaponPosition_NoFight_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player3WeaponRotation_NoFight_LeftGun": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "BagWeaponPosition": {
+    "x": -50.0,
+    "y": -9.2,
+    "z": -10.0
+  },
+  "BagWeaponRotation": {
+    "x": 0.0,
+    "y": 90.0,
+    "z": 0.0
+  },
+  "BagWeaponPositionOffset": {
+    "x": -70.0,
+    "y": -10.0,
+    "z": -10.0
+  },
+  "BagWeaponPosition_R": {
+    "x": 9.2,
+    "y": -50.0,
+    "z": -10.0
+  },
+  "BagWeaponRotation_R": {
+    "x": -90.0,
+    "y": 90.0,
+    "z": 0.0
+  },
+  "BagWeaponPositionOffset_R": {
+    "x": 10.0,
+    "y": -70.0,
+    "z": -10.0
+  },
+  "BagWeaponScale": {
+    "x": 170.0,
+    "y": 170.0,
+    "z": 170.0
+  },
+  "BagWeaponScaleOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "FireGreatSowrdWeaponScaleBag": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "EquipWeaponPosition": {
+    "x": 21.0,
+    "y": -90.0,
+    "z": 0.0
+  },
+  "EquipWeaponRotation": {
+    "x": -90.0,
+    "y": 90.0,
+    "z": 0.0
+  },
+  "EquipWeaponScale": {
+    "x": 220.0,
+    "y": 220.0,
+    "z": 220.0
+  },
+  "FireGreatSowrdWeaponScaleEquip": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnusePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnuseRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerShieldUnuseScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnusePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnuseRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2ShieldUnuseScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerOnStunScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2OnStunScale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "IsSuperWeapon": 0,
+  "NeedDisableMod": 0,
+  "currentRecoilProfile": {
+    "maxPositionOffset": {
+      "x": 0.0,
+      "y": 0.05,
+      "z": -0.3
+    },
+    "maxRotationOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -30.0
+    },
+    "decaySpeed": 8.0
+  },
+  "PlayerSkillWeaponPosition2": {
+    "x": -0.0947,
+    "y": 0.0093,
+    "z": -0.0383
+  },
+  "PlayerSkillWeaponRotation2": {
+    "x": -21.0,
+    "y": -82.72,
+    "z": 5.806
+  },
+  "PlayerWeaponPosition_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "PlayerWeaponRotation_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponPosition_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "Player2WeaponRotation_OnArm": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "weaponAcquireSource": {
+    "WeaponIDType": 13,
+    "EnemyList": {
+      "Array": [
+        11,
+        5,
+        7,
+        4,
+        1,
+        23,
+        6,
+        21,
+        28,
+        8
+      ]
+    },
+    "CanGetFromCommonBox": 1,
+    "CanGetFromSpecialBox": 1,
+    "CanGetFromRiftMerchant": 1,
+    "CanUsePlayerList": {
+      "Array": [
+        1,
+        0,
+        2
+      ]
+    },
+    "NewPriceDataList": {
+      "Array": []
+    },
+    "Weight": 100,
+    "PurchaseLimitCount": 0,
+    "QualityLimit": {
+      "Array": []
+    }
+  }
+}

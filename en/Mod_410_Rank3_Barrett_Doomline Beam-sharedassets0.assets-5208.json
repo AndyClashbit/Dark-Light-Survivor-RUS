@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_410_Rank3_Barrett_Doomline Beam",
+  "OnlyId": 0,
+  "ModId": 4103,
+  "RankId": 3,
+  "RankWeight": 0.0,
+  "ModName": "Doomline Beam",
+  "ModDec": "{0}% chance to blind enemies on hit",
+  "ModIndex": 4,
+  "modAddType": 56,
+  "modAddValue1": 20.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "Torch",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      85
+    ]
+  }
+}

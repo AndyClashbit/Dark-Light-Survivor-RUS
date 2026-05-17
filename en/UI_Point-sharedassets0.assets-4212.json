@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5984
+  },
+  "m_Name": "UI/Point",
+  "m_Asset": {
+    "m_FileID": 0,
+    "m_PathID": 4215
+  },
+  "m_ActionId": "095ddd8c-6f84-4d35-9c7e-43649b0420a8"
+}

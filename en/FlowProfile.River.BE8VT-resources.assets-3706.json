@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 774
+  },
+  "m_Name": "FlowProfile.River.BE8VT",
+  "AreaSize": 300,
+  "AreaPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "FlowmapResolution": 4096,
+  "FlowmapTexture": {
+    "m_FileID": 0,
+    "m_PathID": 590
+  },
+  "FluidsMaskTexture": {
+    "m_FileID": 0,
+    "m_PathID": 589
+  },
+  "FluidsPrebakedTexture": {
+    "m_FileID": 0,
+    "m_PathID": 588
+  }
+}

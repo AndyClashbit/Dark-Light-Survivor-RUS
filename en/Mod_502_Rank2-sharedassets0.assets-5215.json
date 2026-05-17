@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_502_Rank2",
+  "OnlyId": 0,
+  "ModId": 5020,
+  "RankId": 2,
+  "RankWeight": 1.0,
+  "ModName": "Tactical Hold II",
+  "ModDec": "+{0}% Damage in third-person mode",
+  "ModIndex": 5,
+  "modAddType": 27,
+  "modAddValue1": 5.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "TacticalRails_SmoothHandguard",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      17,
+      7
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2575
+  },
+  "m_Name": "Sanctified Artifact Of Knight 2",
+  "isEquip": 0,
+  "ArtifactOnlyID": "",
+  "Id": 2,
+  "IdInAllArtifact": 99,
+  "Rank": 2,
+  "Colour_Type": 3,
+  "Pos": 1,
+  "careerType": 1,
+  "Name": "",
+  "isMarking": 0,
+  "ArtifactName": "SANCTIFIED ARTIFACT",
+  "ArtifactDes": "",
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 1910
+  },
+  "spriteIndexInSpriteList": 1,
+  "words": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4342
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4345
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4346
+      }
+    ]
+  },
+  "RankInSorting": 0.0,
+  "valueCount": 300.0,
+  "rankNum": 0
+}

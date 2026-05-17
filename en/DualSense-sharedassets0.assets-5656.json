@@ -1,0 +1,521 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1589
+  },
+  "m_Name": "DualSense",
+  "controllerName": "Wireless Controller",
+  "items": {
+    "Array": [
+      {
+        "itemID": "Untitled-1",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1817
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Exit",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2002
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Go Back",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2002
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Navigate",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1980
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Select",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1840
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Next",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2129
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Previous",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2022
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Faster Credits",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2129
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Get Ready",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2090
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Scroll Horizontal",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2121
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Scroll Vertical",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1892
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Scroll",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2104
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Move Slider",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2073
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Upgrade",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1795
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Rotate",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2090
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Drop",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2111
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "righttrigger",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2111
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "rightshoulder",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2129
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "lefttrigger",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2093
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "leftshoulder",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2022
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "buttonnorth",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1795
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "buttoneast",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2002
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "buttonwest",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2090
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "buttonsouth",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1840
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "dpad/right",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1799
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "dpad/left",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1838
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "dpad/up",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2064
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "dpad/down",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1998
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "rightstick",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2104
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "leftstick",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1980
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "leftstickpress",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1971
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "rightstickpress",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2044
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "select",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1776
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "start",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1915
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "systembutton",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1784
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Move",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1886
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "SelectItem",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1886
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "SellArtifact",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2104
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "OrderByRanksArtifact",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1971
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "ChangeSortKind",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2064
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "touchpadbutton",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1756
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "EnterKey",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1840
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "GoTown",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2002
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "WorldIntro",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1795
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Talk",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1840
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Action",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1795
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Leave",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2002
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "ControlHint",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1776
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "EquipSkill",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1795
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Equip",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1840
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "UpgradeWeapon",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1795
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Wishlist",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1795
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Switch",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1799
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "UpgradeWeapon",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2064
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Restart",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1795
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "SelectDifficulty",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1795
+        },
+        "itemText": ""
+      }
+    ]
+  }
+}

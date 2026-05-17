@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5550
+  },
+  "m_Name": "ShutM4_1",
+  "Name": "ShutM4",
+  "audioType": 1,
+  "audioBelong": 1,
+  "clip": {
+    "m_FileID": 0,
+    "m_PathID": 1449
+  },
+  "volum": 1.0,
+  "order": 1,
+  "PitchMin": 0.8,
+  "PitchMax": 1.2,
+  "MaxNum": 10,
+  "Weight": 20,
+  "Change": 100,
+  "MaxDistance": 0,
+  "CutOutTime": 0.0,
+  "CoolDownTime": 0.0
+}

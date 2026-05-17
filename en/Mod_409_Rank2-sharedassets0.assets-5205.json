@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_409_Rank2",
+  "OnlyId": 0,
+  "ModId": 4090,
+  "RankId": 2,
+  "RankWeight": 1.0,
+  "ModName": "Searchlight Attachment II",
+  "ModDec": "Increases visibility in fog or low-light, +{0}% Range",
+  "ModIndex": 4,
+  "modAddType": 7,
+  "modAddValue1": 10.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "Torch",
+  "bCanUseMod": 0,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": []
+  }
+}

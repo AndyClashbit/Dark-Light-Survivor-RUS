@@ -1,0 +1,168 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 74
+  },
+  "m_Name": "Enemy_Demon",
+  "Name": "Enemy_Demon",
+  "Name_OnlyShowAsUI": "Crimson Impaler",
+  "EnemyIDType": 10,
+  "EnemyType": 0,
+  "DamageType": 0,
+  "enemyRaces": {
+    "Array": [
+      5
+    ]
+  },
+  "WeaponQualityDataList": {
+    "Array": []
+  },
+  "ArmourQualityDataList": {
+    "Array": []
+  },
+  "AtkNum": 50.0,
+  "ArmourNum": 0.0,
+  "HpNum": 350.0,
+  "enemyDescribe": "精致的投矛僵尸",
+  "MinIdleTimeToAttack": 2.0,
+  "MaxIdleTimeToAttack": 2.0,
+  "OPenColliderTime": 1433,
+  "MinGunIdleTimeToAttack": 2.0,
+  "MaxGunIdleTimeToAttack": 3.0,
+  "PhysicalResistance": 10.0,
+  "FireResistance": 0.0,
+  "IceResistance": 0.0,
+  "LightResistance": 0.0,
+  "PoisonResistance": 0.0,
+  "PhysicalShield": 0.0,
+  "FireShield": 0.0,
+  "IceShield": 0.0,
+  "LightShield": 0.0,
+  "PoisonShield": 0.0,
+  "bNeedRootMotion": 0,
+  "StepSpeed": 2.5,
+  "AniMoveSpeed": 2.5,
+  "AniAtkSpeed": 1.5,
+  "MoveAndAniSpeedRate": 1.0,
+  "MeleeAtkDistance": 4.0,
+  "GunAtkDistance": 10.0,
+  "ExplodeDamageToEnemy": 0.0,
+  "ExplodeDamageToPlayer": 0.0,
+  "shardDrop": 1,
+  "shardEnergy": 0,
+  "shardDC": 10,
+  "CanSelectNum": 1,
+  "MerchantItemList": {
+    "Array": [
+      {
+        "ID": 1001,
+        "Name": 7,
+        "TitleName": "Juggernaut Core",
+        "Describe": "This dark tech pulses with the strength of the dead—grants+<color=#00FFA6>{0}</color> Max HP when installed. ",
+        "Weight": 1.0,
+        "Purchase": 1,
+        "Price": 0,
+        "WeaponWeightNum": 0,
+        "weaponIDTypes": {
+          "Array": []
+        },
+        "weaponIDTypeWeight": {
+          "Array": []
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 60
+      },
+      {
+        "ID": 3001,
+        "Name": 6,
+        "TitleName": "",
+        "Describe": "范围冰冻",
+        "Weight": 100.0,
+        "Purchase": 1,
+        "Price": 0,
+        "WeaponWeightNum": 0,
+        "weaponIDTypes": {
+          "Array": []
+        },
+        "weaponIDTypeWeight": {
+          "Array": []
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 0
+      },
+      {
+        "ID": 3002,
+        "Name": 6,
+        "TitleName": "",
+        "Describe": "掉落手雷",
+        "Weight": 10.0,
+        "Purchase": 1,
+        "Price": 0,
+        "WeaponWeightNum": 0,
+        "weaponIDTypes": {
+          "Array": []
+        },
+        "weaponIDTypeWeight": {
+          "Array": []
+        },
+        "WeaponQailty": 0,
+        "gearTypeWeight": {
+          "Array": []
+        },
+        "EquipQailty": 0,
+        "IncreasesWeaponDamage": 0.0,
+        "AddMaxHpNum": 0
+      }
+    ]
+  },
+  "DropEquipDataList": {
+    "Array": []
+  },
+  "RvoPriority": 0.6,
+  "RvoRadius": 0.4,
+  "AtkAddRate": 0.0,
+  "AtkSkillCd": 0.0,
+  "AtkSkillCdProb": 0.0,
+  "AtkJumpCd": 0.0,
+  "AtkJumpCdProb": 0.0,
+  "AtkCD_Whirdwind": 0.0,
+  "AtkCD_FlameWave": 0.0,
+  "AtkCD_Jump": 0.0,
+  "AtkDistance": 0.0,
+  "AtkDistance_Whirdwind": 0.0,
+  "AtkDistance_FlameWave": 0.0,
+  "AtkLongDist_Min": 0.0,
+  "AtkLongDist_Max": 0.0,
+  "AtkWeight_Jump": 0,
+  "AtkWeight_Whirdwind": 0,
+  "AtkWeight_FlameWave": 0,
+  "RollCD": 0.0,
+  "RollWeight": 0,
+  "TotalRollDamage": 0.0,
+  "TotalRollTime": 0.0,
+  "AvoidCD": 0.0,
+  "AvoidWeight": 0,
+  "TotalAvoidDamage": 0.0,
+  "TotalAvoidTime": 0.0,
+  "HitWeight": 0,
+  "ChangeMoveTypePR": 0.0,
+  "StepSpeedSlow": 0.0,
+  "StepSpeedFast": 0.0,
+  "FireBallAtkNum": 0.0,
+  "SurroundTime": 0.0
+}

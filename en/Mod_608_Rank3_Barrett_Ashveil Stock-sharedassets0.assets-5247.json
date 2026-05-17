@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_608_Rank3_Barrett_Ashveil Stock",
+  "OnlyId": 0,
+  "ModId": 6083,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Ashveil Stock",
+  "ModDec": "+{0}% Accuracy, +{1}% Fire Rate",
+  "ModIndex": 6,
+  "modAddType": 16,
+  "modAddValue1": 15.0,
+  "modAddValue2": 30.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "LightweightStock",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      85
+    ]
+  }
+}

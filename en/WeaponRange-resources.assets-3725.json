@@ -1,0 +1,208 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1124
+  },
+  "m_Name": "WeaponRange",
+  "poolsName": {
+    "Array": []
+  },
+  "pools": {
+    "Array": [
+      {
+        "poolName": "GeneratedPool",
+        "templates": {
+          "Array": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 2601
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2469
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2543
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2483
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2488
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2455
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2416
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2425
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2501
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2475
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2441
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2442
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2536
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2408
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2540
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2481
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2413
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2396
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2493
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2502
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2546
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2428
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2431
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2472
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2438
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2423
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 2448
+            }
+          ]
+        },
+        "poolLength": {
+          "Array": [
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            500,
+            50
+          ]
+        },
+        "poolLengthMax": {
+          "Array": [
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            500,
+            50
+          ]
+        },
+        "broadcastSpawnName": "OnSpawned",
+        "broadcastDespawnName": "OnDespawned",
+        "delayedSpawnInInstall": 0,
+        "objectsPerUpdate": 5,
+        "needBroadcasting": 1,
+        "optimizeSpawn": 0,
+        "targetFPS": 50,
+        "pooling": 1,
+        "needSort": 0,
+        "needParenting": 0,
+        "needDebug": 0
+      }
+    ]
+  },
+  "namer": "WeaponRange"
+}

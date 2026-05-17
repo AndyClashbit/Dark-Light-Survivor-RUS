@@ -1,0 +1,276 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3447
+  },
+  "m_Name": "GPUInstancerShaderBindings",
+  "shaderInstances": {
+    "Array": [
+      {
+        "name": "BOXOPHOBIC/The Vegetation Engine/Geometry/Plant Subsurface Lit",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 957
+        },
+        "modifiedDate": "09/12/2025 01:25:09.112",
+        "isOriginalInstanced": 0,
+        "extensionCode": ""
+      },
+      {
+        "name": "Standard-DoubleSided",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 914
+        },
+        "modifiedDate": "02/14/2025 17:14:39.401",
+        "isOriginalInstanced": 0,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUInstancer/CrowdAnimations/Custom/Dissolve",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 970
+        },
+        "modifiedDate": "02/18/2024 17:11:20.472",
+        "isOriginalInstanced": 1,
+        "extensionCode": "CROWD_ANIM"
+      },
+      {
+        "name": "GPUICA22_tttttttttttttttttttttttttttt",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 924
+        },
+        "modifiedDate": "07/16/2024 15:17:43.839",
+        "isOriginalInstanced": 1,
+        "extensionCode": "CROWD_ANIM"
+      },
+      {
+        "name": "GPUI_Enemy",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 924
+        },
+        "modifiedDate": "08/29/2024 16:08:46.248",
+        "isOriginalInstanced": 1,
+        "extensionCode": "CROWD_ANIM"
+      },
+      {
+        "name": "GPUInstancer/ColorVariationShader",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 946
+        },
+        "modifiedDate": "08/30/2024 12:20:19.021",
+        "isOriginalInstanced": 1,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUInstancer/AsteroidHaze",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 954
+        },
+        "modifiedDate": "08/30/2024 12:21:56.294",
+        "isOriginalInstanced": 1,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUI_EnemyWithMetallic_A",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 945
+        },
+        "modifiedDate": "09/19/2024 10:43:02.541",
+        "isOriginalInstanced": 1,
+        "extensionCode": "CROWD_ANIM"
+      },
+      {
+        "name": "GPUI_Enemy222",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 955
+        },
+        "modifiedDate": "12/27/2024 14:31:09.635",
+        "isOriginalInstanced": 1,
+        "extensionCode": ""
+      },
+      {
+        "name": "BOXOPHOBIC/The Visual Engine/Geometry/General Standard Lit",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 926
+        },
+        "modifiedDate": "02/21/2025 18:20:52.518",
+        "isOriginalInstanced": 0,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUI_Enemy_SeeThrough",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 948
+        },
+        "modifiedDate": "09/10/2025 12:00:41.699",
+        "isOriginalInstanced": 1,
+        "extensionCode": "CROWD_ANIM"
+      },
+      {
+        "name": "ANGRYMESH/Nature Pack/Standard/Tree Bark Snow",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 943
+        },
+        "modifiedDate": "02/10/2026 20:16:20.460",
+        "isOriginalInstanced": 0,
+        "extensionCode": ""
+      },
+      {
+        "name": "ANGRYMESH/Nature Pack/Standard/Tree Leaf Snow",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 920
+        },
+        "modifiedDate": "03/19/2026 12:28:24.754",
+        "isOriginalInstanced": 0,
+        "extensionCode": ""
+      },
+      {
+        "name": "ANGRYMESH/Nature Pack/Standard/Tree Cross Snow",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 950
+        },
+        "modifiedDate": "11/19/2025 16:37:28.561",
+        "isOriginalInstanced": 0,
+        "extensionCode": ""
+      },
+      {
+        "name": "Custom/Lordenfel/FoliageWind",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 942
+        },
+        "modifiedDate": "03/19/2026 12:28:27.306",
+        "isOriginalInstanced": 0,
+        "extensionCode": ""
+      },
+      {
+        "name": "ANGRYMESH/Nature Pack/Standard/Tree Bark Snow Fade",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 935
+        },
+        "modifiedDate": "12/16/2025 10:21:41.313",
+        "isOriginalInstanced": 0,
+        "extensionCode": ""
+      },
+      {
+        "name": "ANGRYMESH/Nature Pack/Standard/Tree Leaf Snow Fade",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 952
+        },
+        "modifiedDate": "12/16/2025 10:21:43.485",
+        "isOriginalInstanced": 0,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUInstancer/ANGRYMESH/Nature Pack/Standard/Tree Leaf Snow",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 920
+        },
+        "modifiedDate": "12/07/2025 11:20:36.469",
+        "isOriginalInstanced": 1,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUI_Enemy_doubleSide",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 906
+        },
+        "modifiedDate": "12/26/2025 19:08:04.020",
+        "isOriginalInstanced": 1,
+        "extensionCode": "CROWD_ANIM"
+      },
+      {
+        "name": "GPUI_Enemy_Smile",
+        "instancedShader": {
+          "m_FileID": 0,
+          "m_PathID": 1485
+        },
+        "modifiedDate": "01/10/2026 16:29:45.643",
+        "isOriginalInstanced": 1,
+        "extensionCode": "CROWD_ANIM"
+      },
+      {
+        "name": "ANGRYMESH/Nature Pack/Standard/Tree Bark Snow_Alaph",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 929
+        },
+        "modifiedDate": "03/19/2026 12:28:29.953",
+        "isOriginalInstanced": 0,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUInstancer/ANGRYMESH/Nature Pack/Standard/Tree Bark Snow_Alaph",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 929
+        },
+        "modifiedDate": "02/11/2026 10:51:03.759",
+        "isOriginalInstanced": 1,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUInstancer/ColorVariationShader_ForTree",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 946
+        },
+        "modifiedDate": "02/11/2026 16:03:23.960",
+        "isOriginalInstanced": 1,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUInstancer/ColorVariationShader_ForTreeTop",
+        "instancedShader": {
+          "m_FileID": 2,
+          "m_PathID": 982
+        },
+        "modifiedDate": "02/11/2026 19:01:12.798",
+        "isOriginalInstanced": 1,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUInstancer/ColorVariationShader_ForTree_Dither",
+        "instancedShader": {
+          "m_FileID": 1,
+          "m_PathID": 9
+        },
+        "modifiedDate": "02/12/2026 15:17:49.953",
+        "isOriginalInstanced": 1,
+        "extensionCode": ""
+      },
+      {
+        "name": "GPUInstancer/ColorVariationShader_ForTreeTop_Dither",
+        "instancedShader": {
+          "m_FileID": 1,
+          "m_PathID": 8
+        },
+        "modifiedDate": "02/12/2026 17:25:18.071",
+        "isOriginalInstanced": 1,
+        "extensionCode": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 129
+  },
+  "m_Name": "ShaderResources",
+  "shaders": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1401
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1491
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1392
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1516
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1537
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1495
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1345
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1395
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1554
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1546
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 931
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1367
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1442
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1502
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1438
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1430
+      }
+    ]
+  },
+  "additionalPaths": {
+    "Array": []
+  }
+}

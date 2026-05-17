@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5894
+  },
+  "m_Name": "MapConfigBinding",
+  "mapEntries": {
+    "Array": [
+      {
+        "mapName": "MAP_Swamp",
+        "selectedConfig": {
+          "m_FileID": 0,
+          "m_PathID": 5318
+        }
+      },
+      {
+        "mapName": "MAP_Forest",
+        "selectedConfig": {
+          "m_FileID": 0,
+          "m_PathID": 5319
+        }
+      },
+      {
+        "mapName": "MAP_Icefield",
+        "selectedConfig": {
+          "m_FileID": 0,
+          "m_PathID": 5317
+        }
+      }
+    ]
+  }
+}

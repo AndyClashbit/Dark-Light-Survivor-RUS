@@ -1,0 +1,314 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1589
+  },
+  "m_Name": "Keyboard & Mouse",
+  "controllerName": "Keyboard & Mouse",
+  "items": {
+    "Array": [
+      {
+        "itemID": "Exit",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "ESC"
+      },
+      {
+        "itemID": "Go Back",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "ESC"
+      },
+      {
+        "itemID": "Navigate",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1861
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Select",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1763
+        },
+        "itemText": "ESC"
+      },
+      {
+        "itemID": "Next",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "E"
+      },
+      {
+        "itemID": "Previous",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "Q"
+      },
+      {
+        "itemID": "Faster Credits",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "Space"
+      },
+      {
+        "itemID": "Get Ready",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "R"
+      },
+      {
+        "itemID": "Scroll Vertical",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2132
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Scroll",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2132
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Upgrade",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2132
+        },
+        "itemText": "I"
+      },
+      {
+        "itemID": "Rotate",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2132
+        },
+        "itemText": "R"
+      },
+      {
+        "itemID": "Drop",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2132
+        },
+        "itemText": "V"
+      },
+      {
+        "itemID": "Untitled-1",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1817
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Move",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "D"
+      },
+      {
+        "itemID": "SelectItem",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1876
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "SellArtifact",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "T"
+      },
+      {
+        "itemID": "OrderByRanksArtifact",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "R"
+      },
+      {
+        "itemID": "ChangeSortKind",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "U"
+      },
+      {
+        "itemID": "EnterKey",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "Enter"
+      },
+      {
+        "itemID": "GoTown",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "GoTown"
+      },
+      {
+        "itemID": "WorldIntro",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "I"
+      },
+      {
+        "itemID": "Talk",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "F"
+      },
+      {
+        "itemID": "Action",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "Enter"
+      },
+      {
+        "itemID": "Leave",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "Esc"
+      },
+      {
+        "itemID": "ControlHint",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "Tab"
+      },
+      {
+        "itemID": "EquipSkill",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2078
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "Equip",
+        "itemType": 0,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1763
+        },
+        "itemText": ""
+      },
+      {
+        "itemID": "UpgradeWeapon",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "I"
+      },
+      {
+        "itemID": "Wishlist",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "Space"
+      },
+      {
+        "itemID": "Switch",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "Space"
+      },
+      {
+        "itemID": "Restart",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "R"
+      },
+      {
+        "itemID": "SelectDifficulty",
+        "itemType": 1,
+        "itemIcon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "itemText": "C"
+      }
+    ]
+  }
+}

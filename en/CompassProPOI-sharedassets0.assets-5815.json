@@ -1,0 +1,121 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2531
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2327
+  },
+  "m_Name": "",
+  "id": -745078945,
+  "priority": 0,
+  "title": "COFFER OF BLADES",
+  "eventType": 3,
+  "baseSprite": {
+    "m_FileID": 0,
+    "m_PathID": 1847
+  },
+  "spriteColor": {
+    "r": 0.70980394,
+    "g": 0.37254903,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "basePos": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "baseRot": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "baseSize": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "baseFloatingFrequency": 0.0,
+  "baseFloatingRange": 0.0,
+  "signSprite": {
+    "m_FileID": 0,
+    "m_PathID": 2120
+  },
+  "signPos": {
+    "x": 0.0,
+    "y": 19.0,
+    "z": 0.0
+  },
+  "signSize": {
+    "x": 38.0,
+    "y": 38.0
+  },
+  "signRot": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "signColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "canBeVisited": 1,
+  "isVisited": 0,
+  "visitedText": "CAPTURE",
+  "radius": 0.5,
+  "showOnScreenIndicator": 1,
+  "onScreenIndicatorShowDistance": 1,
+  "onScreenIndicatorShowTitle": 1,
+  "positionOffset": {
+    "x": 0.0,
+    "y": 1.5,
+    "z": 0.0
+  },
+  "showOffScreenIndicator": 1,
+  "onScreenIndicatorNearFadeDistance": 0.0,
+  "onScreenIndicatorNearFadeMin": 0.0,
+  "BeUsed": 0,
+  "AlwaysShow": 0,
+  "forceRefreshTitle": 0,
+  "scene": {
+    "m_Handle": -6036686
+  },
+  "indicatorRT": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "baseImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "signImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "indicatorCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "indicatorArrowRT": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "indicatorDistanceText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "indicatorTitleText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bOpenChangeNearImage": 0,
+  "NearImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "nearDistance": 0.0,
+  "dontHideNear": 0
+}

@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5550
+  },
+  "m_Name": "DeadBlood 5",
+  "Name": "Smashed_Explosion_v1_wav VG",
+  "audioType": 1,
+  "audioBelong": 0,
+  "clip": {
+    "m_FileID": 0,
+    "m_PathID": 1304
+  },
+  "volum": 0.5,
+  "order": 129,
+  "PitchMin": 0.8,
+  "PitchMax": 1.2,
+  "MaxNum": 3,
+  "Weight": 20,
+  "Change": 100,
+  "MaxDistance": 0,
+  "CutOutTime": 0.0,
+  "CoolDownTime": 0.0
+}

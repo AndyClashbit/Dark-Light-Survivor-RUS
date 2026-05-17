@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 987
+  },
+  "m_Name": "MapInfoConfig",
+  "MapInfoList": {
+    "Array": [
+      {
+        "MapName": "Oblivion Array",
+        "MapType": 6,
+        "MaxDifficulty": 5,
+        "CurrentDifficulty": 2,
+        "MapDescription": "Ruined circle of world gates hanging in torn sky. The radioscope scans and wakes things best left sleeping. Xibal feeds from the hub as <color=#FFAD00>Chaac</color> bends lightning through the nodes. Move fast or the paths seal and the array becomes a tomb.",
+        "BossName": "Chaac",
+        "NeedStoneCount": 0
+      },
+      {
+        "MapName": "Sunless Keep",
+        "MapType": 9,
+        "MaxDifficulty": 5,
+        "CurrentDifficulty": 3,
+        "MapDescription": "The last ruin of a fallen kingdom. Goblins and men waged endless war here until the Void came, devoured the sun, and broke the land. The goblins were enslaved, the dead clawed free from their graves, and the old banners rotted in ash. <color=#FFAD00>Velkrath</color>, the Bone Marksman, once an elite royal hunter, now serves as a hollow vessel of the Void.",
+        "BossName": "Velkrath, the Bone Marksman",
+        "NeedStoneCount": 5
+      },
+      {
+        "MapName": "Battlefield of the Black Sun",
+        "MapType": 10,
+        "MaxDifficulty": 5,
+        "CurrentDifficulty": 4,
+        "MapDescription": "When the timelines broke and the realms crashed together, colossal insect spawn rained from the heavens and fed on every living thing. The Void consumed the sun and turned the sea to ice. Captain <color=#FFAD00>Morvak</color>, once a hardened commander, was twisted by the frost curse into something no longer human. Now the First of the Frostborn stalks the frozen ruin.",
+        "BossName": "Morvak, First of the Frostborn",
+        "NeedStoneCount": 5
+      },
+      {
+        "MapName": "The Nexus Hold",
+        "MapType": 5,
+        "MaxDifficulty": 0,
+        "CurrentDifficulty": 0,
+        "MapDescription": "A drifting citadel of rusted steel and broken stone. The Phantom Train docks, survivors barter Voidmarks, and the wind carries prayers to gods that no longer answer. The Black Sea is rising. Its cold tide will soon submerge the Nexus.",
+        "BossName": "",
+        "NeedStoneCount": 0
+      }
+    ]
+  }
+}

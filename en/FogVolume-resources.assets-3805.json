@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1972
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5318
+  },
+  "m_Name": "",
+  "enableProfileTransition": 0,
+  "targetProfile": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "enableAlphaTransition": 0,
+  "targetFogAlpha": 0.5,
+  "targetSkyHazeAlpha": 0.5,
+  "enableFogColorTransition": 0,
+  "targetFogColor1": {
+    "r": 0.8901961,
+    "g": 0.8901961,
+    "b": 0.8901961,
+    "a": 1.0
+  },
+  "targetFogColor2": {
+    "r": 0.8901961,
+    "g": 0.8901961,
+    "b": 0.8901961,
+    "a": 1.0
+  },
+  "transitionDuration": 3.0,
+  "targetCollider": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "debugMode": 0,
+  "targetFog": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

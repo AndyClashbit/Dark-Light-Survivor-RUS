@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2575
+  },
+  "m_Name": "Attuned Artifact Of Scaling 7",
+  "isEquip": 0,
+  "ArtifactOnlyID": "",
+  "Id": 7,
+  "IdInAllArtifact": 57,
+  "Rank": 1,
+  "Colour_Type": 2,
+  "Pos": 0,
+  "careerType": 0,
+  "Name": "",
+  "isMarking": 0,
+  "ArtifactName": "ATTUNED ARTIFACT OF SCALING",
+  "ArtifactDes": "",
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 1834
+  },
+  "spriteIndexInSpriteList": 8,
+  "words": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4400
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4399
+      }
+    ]
+  },
+  "RankInSorting": 0.0,
+  "valueCount": 200.0,
+  "rankNum": 0
+}

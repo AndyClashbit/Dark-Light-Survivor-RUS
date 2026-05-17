@@ -1,0 +1,7009 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3264
+  },
+  "m_Name": "AllWeaponModelType",
+  "RedDotScope": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_RedDot_A",
+            "Kit_RedDot_C",
+            "ScifiReflexSight2"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 0,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiReflexSight1_Pistol",
+            "ScifiReflexSight2_Pistol",
+            "Sight_05",
+            "Sight_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 13,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiReflexSight1_Pistol",
+            "ScifiReflexSight2_Pistol",
+            "Sight_05",
+            "Sight_06",
+            "Sight_3"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 12,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiReflexSight1_Pistol",
+            "ScifiReflexSight2_Pistol",
+            "Sight_05",
+            "Sight_06",
+            "Sight_3"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiReflexSight1_M4",
+            "ScifiReflexSight2_M4",
+            "Sight_3_M4",
+            "Sight_05_M4",
+            "Sight_06_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 34,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiReflexSight1_Pistol",
+            "ScifiReflexSight2_Pistol",
+            "Sight_05",
+            "Sight_06",
+            "Sight_3"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 35,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_A_MagniferSolid_M4",
+            "ScifiScope1_M4",
+            "Sight_02_M4",
+            "Sight_03_M4",
+            "Sight_04_M4",
+            "ScifiScope2_M4",
+            "Sight_01_M4",
+            "Sight_07_M4",
+            "Sight_10_M4",
+            "Sight_11_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 59,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiReflexSight1_Pistol",
+            "ScifiReflexSight2_Pistol",
+            "Sight_05",
+            "Sight_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 63,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiReflexSight1_Pistol",
+            "ScifiReflexSight2_Pistol",
+            "Sight_05",
+            "Sight_06",
+            "Sight_3"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 64,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiReflexSight1_Pistol",
+            "ScifiReflexSight2_Pistol",
+            "Sight_05",
+            "Sight_06",
+            "Sight_3"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 66,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiReflexSight1_Pistol",
+            "ScifiReflexSight2_Pistol",
+            "Sight_05",
+            "Sight_06",
+            "Sight_3"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 69,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiReflexSight1_Pistol",
+            "ScifiReflexSight2_Pistol",
+            "Sight_05",
+            "Sight_06",
+            "Sight_3"
+          ]
+        }
+      }
+    ]
+  },
+  "Scope": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Magnifer_A",
+            "ScifiScope1"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_A_MagniferSolid_M4",
+            "ScifiScope1_M4",
+            "Sight_02_M4",
+            "Sight_03_M4",
+            "Sight_04_M4",
+            "Sight_08_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 35,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_A_MagniferSolid_M4",
+            "ScifiScope1_M4",
+            "Sight_02_M4",
+            "Sight_03_M4",
+            "Sight_04_M4",
+            "ScifiScope2_M4",
+            "Sight_01_M4",
+            "Sight_07_M4",
+            "Sight_10_M4",
+            "Sight_11_M4"
+          ]
+        }
+      }
+    ]
+  },
+  "SniperScope": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiScope2"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiScope2_M4",
+            "Sight_01_M4",
+            "Sight_07_M4",
+            "Sight_10_M4",
+            "Sight_11_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 12,
+        "GameObjectNames": {
+          "Array": [
+            "Sight_10_Revolver",
+            "Sight_11_Revolver"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 34,
+        "GameObjectNames": {
+          "Array": [
+            "Sight_10_Revolver",
+            "Sight_11_Revolver"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 35,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiScope2_M4",
+            "Sight_01_M4",
+            "Sight_07_M4",
+            "Sight_10_M4",
+            "Sight_11_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 63,
+        "GameObjectNames": {
+          "Array": [
+            "Sight_10_Revolver",
+            "Sight_11_Revolver"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 66,
+        "GameObjectNames": {
+          "Array": [
+            "Sight_10_Revolver",
+            "Sight_11_Revolver"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 69,
+        "GameObjectNames": {
+          "Array": [
+            "Sight_10_Revolver"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 85,
+        "GameObjectNames": {
+          "Array": [
+            "BarrettSniperRifle_Sight1",
+            "BarrettSniperRifle_Sight2",
+            "BarrettSniperRifle_Sight3"
+          ]
+        }
+      }
+    ]
+  },
+  "Compensator": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Nozzle_Flamearrester_AK74",
+            "Kit_Nozzle_Flamearrester_PPK-20",
+            "Kit_Nozzle_Flamearrester_RPK",
+            "Kit_Nozzle_Flarearrester_AKS-74U"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 0,
+        "GameObjectNames": {
+          "Array": [
+            "Flame_Arrester_01",
+            "Flame_Arrester_02",
+            "Flame_Arrester_03",
+            "Flame_Arrester_04",
+            "Flame_Arrester_05",
+            "Flame_Arrester_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 13,
+        "GameObjectNames": {
+          "Array": [
+            "Flame_Arrester_01",
+            "Flame_Arrester_02",
+            "Flame_Arrester_03",
+            "Flame_Arrester_04",
+            "Flame_Arrester_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 12,
+        "GameObjectNames": {
+          "Array": [
+            "Flame_Arrester_01",
+            "Flame_Arrester_02",
+            "Flame_Arrester_03",
+            "Flame_Arrester_04",
+            "Flame_Arrester_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "Flame_Arrester_01",
+            "Flame_Arrester_02",
+            "Flame_Arrester_04",
+            "Flame_Arrester_05",
+            "Flame_Arrester_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 34,
+        "GameObjectNames": {
+          "Array": [
+            "Flame_Arrester_01",
+            "Flame_Arrester_02",
+            "Flame_Arrester_04",
+            "Flame_Arrester_05",
+            "Flame_Arrester_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 35,
+        "GameObjectNames": {
+          "Array": [
+            "Flame_Arrester_01",
+            "Flame_Arrester_02",
+            "Flame_Arrester_04",
+            "Flame_Arrester_05",
+            "Flame_Arrester_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 59,
+        "GameObjectNames": {
+          "Array": [
+            "Flame_Arrester_01",
+            "Flame_Arrester_02",
+            "Flame_Arrester_03",
+            "Flame_Arrester_04",
+            "Flame_Arrester_05",
+            "Flame_Arrester_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 63,
+        "GameObjectNames": {
+          "Array": [
+            "Flame_Arrester_01",
+            "Flame_Arrester_02",
+            "Flame_Arrester_04",
+            "Flame_Arrester_05",
+            "Flame_Arrester_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 64,
+        "GameObjectNames": {
+          "Array": [
+            "Flame_Arrester_01",
+            "Flame_Arrester_02",
+            "Flame_Arrester_04",
+            "Flame_Arrester_05",
+            "Flame_Arrester_06"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 66,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Nozzle_Flamearrester_AK74",
+            "Kit_Nozzle_Flamearrester_PPK-20",
+            "Kit_Nozzle_Flamearrester_RPK",
+            "Kit_Nozzle_Flarearrester_AKS-74U"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 69,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Nozzle_Flamearrester_AK74",
+            "Kit_Nozzle_Flamearrester_PPK-20",
+            "Kit_Nozzle_Flamearrester_RPK",
+            "Kit_Nozzle_Flarearrester_AKS-74U"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 85,
+        "GameObjectNames": {
+          "Array": [
+            "BarrettSniperRifle_Muzzle1",
+            "BarrettSniperRifle_Muzzle2",
+            "BarrettSniperRifle_Muzzle3"
+          ]
+        }
+      }
+    ]
+  },
+  "Silencer": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Nozzle_Silencer_A",
+            "Kit_Nozzle_Silencer_B",
+            "Kit_Nozzle_Silencer_C",
+            "Kit_Nozzle_Silencer_D"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 0,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiSilencer",
+            "Silencers_1",
+            "Silencers_2",
+            "Silencers_3",
+            "Silencers_4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 13,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiSilencer",
+            "Silencers_1",
+            "Silencers_2",
+            "Silencers_3",
+            "Silencers_5_M4",
+            "Silencers_6_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 12,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiSilencer",
+            "Silencers_2",
+            "Silencers_3",
+            "Silencers_1_Revolver",
+            "Silencers_4_Revolver",
+            "Silencers_5_Revolver",
+            "Silencers_6_Revolver"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiSilencer",
+            "Silencers_2",
+            "Silencers_3",
+            "Silencers_5_M4",
+            "Silencers_6_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 34,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiSilencer",
+            "Silencers_2",
+            "Silencers_3",
+            "Silencers_1_Revolver",
+            "Silencers_4_Revolver",
+            "Silencers_5_Revolver",
+            "Silencers_6_Revolver"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 35,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiSilencer",
+            "Silencers_2",
+            "Silencers_3",
+            "Silencers_5_M4",
+            "Silencers_6_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 59,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiSilencer",
+            "Silencers_1",
+            "Silencers_2",
+            "Silencers_3",
+            "Silencers_4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 63,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiSilencer",
+            "Silencers_2",
+            "Silencers_3",
+            "Silencers_1_Revolver",
+            "Silencers_4_Revolver",
+            "Silencers_5_Revolver",
+            "Silencers_6_Revolver"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 64,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiSilencer",
+            "Silencers_2",
+            "Silencers_3",
+            "Silencers_1_Revolver",
+            "Silencers_4_Revolver",
+            "Silencers_5_Revolver",
+            "Silencers_6_Revolver"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 66,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Nozzle_Silencer_A",
+            "Kit_Nozzle_Silencer_B",
+            "Kit_Nozzle_Silencer_C",
+            "Kit_Nozzle_Silencer_D"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 69,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Nozzle_Silencer_A",
+            "Kit_Nozzle_Silencer_B",
+            "Kit_Nozzle_Silencer_C",
+            "Kit_Nozzle_Silencer_D"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 85,
+        "GameObjectNames": {
+          "Array": [
+            "BarrettSniperRifle_Silencer4",
+            "BarrettSniperRifle_Silencer5"
+          ]
+        }
+      }
+    ]
+  },
+  "SmoothHandguard": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Handguard_AKS-74U",
+            "Kit_Handguard_AK74"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "handguard1_M4"
+          ]
+        }
+      }
+    ]
+  },
+  "TacticalRails": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Handguard_A",
+            "Kit_Handguard_AK74_Rails",
+            "Kit_Handguard_B",
+            "Kit_Handguard_C",
+            "Kit_Handguard_D"
+          ]
+        }
+      }
+    ]
+  },
+  "FrontGrip": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Foregrip_A",
+            "Kit_Foregrip_B",
+            "Kit_Foregrip_D"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Foregrip_A",
+            "Kit_Foregrip_B",
+            "Kit_Foregrip_D"
+          ]
+        }
+      }
+    ]
+  },
+  "ExtendedMag": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Magazine_A_Full",
+            "Kit_Magazine_C"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "Magazine_3_M4"
+          ]
+        }
+      }
+    ]
+  },
+  "HeavyMag": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Magazine_B"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "ScifiDrumMagazine556x45_M4",
+            "ScifiDrumMagazine762x51_M4",
+            "Magazine_2_M4"
+          ]
+        }
+      }
+    ]
+  },
+  "StandardMag": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Magazine_AK-74U_Full"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "Rifle_Magazine_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 85,
+        "GameObjectNames": {
+          "Array": [
+            "BarrettSniperRifle_MagazineClip1",
+            "BarrettSniperRifle_MagazineClip2"
+          ]
+        }
+      }
+    ]
+  },
+  "PistolGrip": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_PistolGrip_A",
+            "Kit_PistolGrip_AK74",
+            "Kit_PistolGrip_AKS-74U",
+            "Kit_PistolGrip_B",
+            "Kit_PistolGrip_C",
+            "Kit_PistolGrip_D"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 85,
+        "GameObjectNames": {
+          "Array": [
+            "BarrettSniperRifle_GunGrip1",
+            "BarrettSniperRifle_GunGrip2",
+            "BarrettSniperRifle_GunGrip3"
+          ]
+        }
+      }
+    ]
+  },
+  "HeavyStock": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Buttstock_AK-74",
+            "Kit_Buttstock_RPK"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Buttstock_AK-74",
+            "Kit_Buttstock_RPK"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 66,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Buttstock_RPK"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 69,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Buttstock_RPK"
+          ]
+        }
+      }
+    ]
+  },
+  "LightweightStock": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Buttstock_A",
+            "Kit_Buttstock_AKS-74U"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Buttstock_A",
+            "Kit_Buttstock_AKS-74U",
+            "Stock_1_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 85,
+        "GameObjectNames": {
+          "Array": [
+            "BarrettSniperRifle_GunStock1",
+            "BarrettSniperRifle_GunStock2",
+            "BarrettSniperRifle_GunStock3"
+          ]
+        }
+      }
+    ]
+  },
+  "StandardStock": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Buttstock_B",
+            "Kit_Buttstock_C",
+            "Kit_Buttstock_D"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Buttstock_B",
+            "Kit_Buttstock_C",
+            "Kit_Buttstock_D",
+            "Buttsock_M4",
+            "Stock_2_M4",
+            "Stock_3_M4",
+            "Stock_4_M4"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 66,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Buttstock_B",
+            "Kit_Buttstock_C",
+            "Kit_Buttstock_D",
+            "Buttsock_M4",
+            "Stock_2_M4",
+            "Stock_3_M4",
+            "Stock_4_M4"
+          ]
+        }
+      }
+    ]
+  },
+  "Laser": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Laser_C",
+            "Kit_Laser_D"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 0,
+        "GameObjectNames": {
+          "Array": [
+            "LaserSight3_Pistol",
+            "LaserSight4_Pistol",
+            "ScifiLaserSight_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 13,
+        "GameObjectNames": {
+          "Array": [
+            "LaserSight3_Pistol",
+            "LaserSight4_Pistol",
+            "ScifiLaserSight_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 12,
+        "GameObjectNames": {
+          "Array": [
+            "LaserSight3_Pistol",
+            "LaserSight4_Pistol",
+            "ScifiLaserSight_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Laser_D",
+            "Kit_Laser_C"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 34,
+        "GameObjectNames": {
+          "Array": [
+            "LaserSight3_Pistol",
+            "LaserSight4_Pistol",
+            "ScifiLaserSight_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 35,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Laser_D",
+            "Kit_Laser_C"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 59,
+        "GameObjectNames": {
+          "Array": [
+            "LaserSight3_Pistol",
+            "LaserSight4_Pistol",
+            "ScifiLaserSight_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 63,
+        "GameObjectNames": {
+          "Array": [
+            "LaserSight3_Pistol",
+            "LaserSight4_Pistol",
+            "ScifiLaserSight_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 64,
+        "GameObjectNames": {
+          "Array": [
+            "LaserSight3_Pistol",
+            "LaserSight4_Pistol",
+            "ScifiLaserSight_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 66,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Laser_C",
+            "Kit_Laser_D"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 69,
+        "GameObjectNames": {
+          "Array": [
+            "Kit_Laser_C",
+            "Kit_Laser_D"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 85,
+        "GameObjectNames": {
+          "Array": [
+            "BarrettSniperRifle_Laser1",
+            "BarrettSniperRifle_Laser2"
+          ]
+        }
+      }
+    ]
+  },
+  "Torch": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Flaslight_1",
+            "Flaslight_2"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 0,
+        "GameObjectNames": {
+          "Array": [
+            "Flashlight_3",
+            "Flaslight_2_Pistol",
+            "Flaslight_3_Pistol",
+            "Flaslight_4_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 13,
+        "GameObjectNames": {
+          "Array": [
+            "Flashlight_3",
+            "Flaslight_2_Pistol",
+            "Flaslight_3_Pistol",
+            "Flaslight_4_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 12,
+        "GameObjectNames": {
+          "Array": [
+            "Flashlight_3",
+            "Flaslight_2_Pistol",
+            "Flaslight_3_Pistol",
+            "Flaslight_4_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 12,
+        "GameObjectNames": {
+          "Array": [
+            "Flaslight_1",
+            "Flaslight_2"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 34,
+        "GameObjectNames": {
+          "Array": [
+            "Flaslight_1",
+            "Flaslight_2"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 35,
+        "GameObjectNames": {
+          "Array": [
+            "Flaslight_1",
+            "Flaslight_2"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 59,
+        "GameObjectNames": {
+          "Array": [
+            "Flashlight_3",
+            "Flaslight_2_Pistol",
+            "Flaslight_3_Pistol",
+            "Flaslight_4_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 63,
+        "GameObjectNames": {
+          "Array": [
+            "Flaslight_1",
+            "Flaslight_2"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 64,
+        "GameObjectNames": {
+          "Array": [
+            "Flaslight_1",
+            "Flaslight_2"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 66,
+        "GameObjectNames": {
+          "Array": [
+            "Flaslight_1",
+            "Flaslight_2",
+            "Flashlight_3",
+            "Flaslight_2_Pistol",
+            "Flaslight_3_Pistol",
+            "Flaslight_4_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 69,
+        "GameObjectNames": {
+          "Array": [
+            "Flaslight_1",
+            "Flaslight_2",
+            "Flashlight_3",
+            "Flaslight_2_Pistol",
+            "Flaslight_3_Pistol",
+            "Flaslight_4_Pistol"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 85,
+        "GameObjectNames": {
+          "Array": [
+            "BarrettSniperRifle_Flaslight1"
+          ]
+        }
+      }
+    ]
+  },
+  "Ammo": {
+    "Array": [
+      {
+        "WeaponIDType": 17,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 0,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 13,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 12,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 34,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 35,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 59,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 63,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 64,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 66,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 69,
+        "GameObjectNames": {
+          "Array": [
+            "Ammo9_PPK-20",
+            "Ammo762_A"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 85,
+        "GameObjectNames": {
+          "Array": [
+            "BarrettSniperRifle_Bullet1",
+            "BarrettSniperRifle_Bullet2"
+          ]
+        }
+      }
+    ]
+  },
+  "GrenadeLauncher": {
+    "Array": [
+      {
+        "WeaponIDType": 7,
+        "GameObjectNames": {
+          "Array": [
+            "GrenadeLauncher_M4"
+          ]
+        }
+      }
+    ]
+  },
+  "IroncladImpact": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Ironclad Impact_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "FlameburstFury": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Flameburst Fury"
+          ]
+        }
+      }
+    ]
+  },
+  "GlacialEdge": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Glacial Edge"
+          ]
+        }
+      }
+    ]
+  },
+  "StormbringersWrath": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Stormbringer's Wrath"
+          ]
+        }
+      }
+    ]
+  },
+  "VenomousSting": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Venomous Sting"
+          ]
+        }
+      }
+    ]
+  },
+  "ShadowImpactMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Shadow Impact Mode"
+          ]
+        }
+      }
+    ]
+  },
+  "VampiresGraspMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Vampire's Grasp Mode"
+          ]
+        }
+      }
+    ]
+  },
+  "VitalitySurge": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg",
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Vitality Surge_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "DexterousPrecision": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Dexterous Precision_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "AgileAssault": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Agile Assault_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "MightOfTitans": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Might of Titans_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "EchoResonanceMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Echo Resonance_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "BerserkerFuryMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Berserker's Fury Mode"
+          ]
+        }
+      }
+    ]
+  },
+  "DazzlingFlashMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Dazzling Flash_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "LifeStealerMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Life Stealer_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "HawkeyeMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Hawkeye Mode_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "DualBladeModule": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Dual Blade_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "Thunderlord": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Thunderlord_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "CoreMeltdownMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Core Meltdown_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "SoothingTouchMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Soothing Touch_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "PhantomEvasionMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Phantom Evasion_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "AetherialReachMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Aetherial Reach_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "SwiftStrikeMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Swift Strike_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "CrushingBlowMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Crushing Blow_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "TideSurgeMode": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Tide Surge_nobg"
+          ]
+        }
+      }
+    ]
+  },
+  "Chillbind": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Chillbind"
+          ]
+        }
+      }
+    ]
+  },
+  "Meleeweaponswings": {
+    "Array": [
+      {
+        "WeaponIDType": 4,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 19,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 58,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 20,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 21,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 22,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 23,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 24,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 25,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 26,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 27,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 28,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 29,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 30,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 31,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 32,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 33,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 55,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 57,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 61,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 62,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 77,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 78,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 79,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 84,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      },
+      {
+        "WeaponIDType": 82,
+        "GameObjectNames": {
+          "Array": [
+            "Melee weapon swings"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1245
+  },
+  "m_Name": "GPUInstancerBillboardAtlasBindings",
+  "billboardAtlasBindings": {
+    "Array": [
+      {
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 2002
+        },
+        "atlasResolution": 2048,
+        "frameCount": 8,
+        "albedoAtlasTexture": {
+          "m_FileID": 0,
+          "m_PathID": 1148
+        },
+        "normalAtlasTexture": {
+          "m_FileID": 0,
+          "m_PathID": 850
+        },
+        "quadSize": 27.575405,
+        "yPivotOffset": 1.1528063,
+        "modifiedDate": "11/19/2025 16:49:03.002"
+      },
+      {
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 2364
+        },
+        "atlasResolution": 2048,
+        "frameCount": 8,
+        "albedoAtlasTexture": {
+          "m_FileID": 0,
+          "m_PathID": 1195
+        },
+        "normalAtlasTexture": {
+          "m_FileID": 0,
+          "m_PathID": 985
+        },
+        "quadSize": 9.14632,
+        "yPivotOffset": 4.2716217,
+        "modifiedDate": "11/19/2025 16:49:19.971"
+      },
+      {
+        "prefab": {
+          "m_FileID": 0,
+          "m_PathID": 2051
+        },
+        "atlasResolution": 2048,
+        "frameCount": 8,
+        "albedoAtlasTexture": {
+          "m_FileID": 0,
+          "m_PathID": 1063
+        },
+        "normalAtlasTexture": {
+          "m_FileID": 0,
+          "m_PathID": 996
+        },
+        "quadSize": 12.3147745,
+        "yPivotOffset": 5.267514,
+        "modifiedDate": "02/24/2026 15:22:02.821"
+      }
+    ]
+  }
+}

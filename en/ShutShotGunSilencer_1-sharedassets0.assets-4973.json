@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5550
+  },
+  "m_Name": "ShutShotGunSilencer_1",
+  "Name": "SHOTGUN_SHOT_10 G",
+  "audioType": 1,
+  "audioBelong": 1,
+  "clip": {
+    "m_FileID": 0,
+    "m_PathID": 1255
+  },
+  "volum": 0.5,
+  "order": 1,
+  "PitchMin": 0.8,
+  "PitchMax": 1.2,
+  "MaxNum": 10,
+  "Weight": 20,
+  "Change": 100,
+  "MaxDistance": 0,
+  "CutOutTime": 0.0,
+  "CoolDownTime": 0.0
+}

@@ -1,0 +1,163 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2358
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1907
+  },
+  "m_Name": "",
+  "buttonIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1874
+  },
+  "buttonText": "Button",
+  "iconScale": 1.0,
+  "textSize": 18.0,
+  "normalCG": {
+    "m_FileID": 0,
+    "m_PathID": 4206
+  },
+  "highlightCG": {
+    "m_FileID": 0,
+    "m_PathID": 4207
+  },
+  "disabledCG": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "normalTextObj": {
+    "m_FileID": 0,
+    "m_PathID": 5743
+  },
+  "highlightTextObj": {
+    "m_FileID": 0,
+    "m_PathID": 6029
+  },
+  "disabledTextObj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "normalImageObj": {
+    "m_FileID": 0,
+    "m_PathID": 5813
+  },
+  "highlightImageObj": {
+    "m_FileID": 0,
+    "m_PathID": 5849
+  },
+  "disabledImageObj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "autoFitContent": 0,
+  "padding": {
+    "left": 18,
+    "right": 18,
+    "top": 15,
+    "bottom": 15
+  },
+  "spacing": 12,
+  "disabledLayout": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "normalLayout": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "highlightedLayout": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mainLayout": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mainFitter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "targetFitter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "targetRect": {
+    "m_FileID": 0,
+    "m_PathID": 4147
+  },
+  "isInteractable": 1,
+  "enableIcon": 1,
+  "enableText": 1,
+  "useCustomContent": 0,
+  "useCustomTextSize": 0,
+  "checkForDoubleClick": 1,
+  "useLocalization": 1,
+  "bypassUpdateOnEnable": 0,
+  "useUINavigation": 1,
+  "navigationMode": 4,
+  "selectOnUp": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "selectOnDown": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "selectOnLeft": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "selectOnRight": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "wrapAround": 0,
+  "doubleClickPeriod": 0.25,
+  "fadingMultiplier": 8.0,
+  "onClick": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onDoubleClick": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onHover": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onLeave": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onSelect": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "onDeselect": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "isSelected": 0
+}

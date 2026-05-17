@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Soldier_OneAgainstTheWorld_4",
+  "SkillId": 1325,
+  "SkillName": "One Against The World",
+  "SkillIconType": 0,
+  "BaseSkillType": 0,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 4,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Focus fire increases damage.",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1670
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1325,
+        "GuidInSkill": 0,
+        "Rank": 4,
+        "SkillDescribe": "While aiming, there is a {4}% chance to gain a stack of Focus. Each stack increases damage by {0}% for {8} seconds, up to a maximum of {1} stacks. At maximum stacks, attacks have a {2}% chance to inflict Bleed and a {3}% chance to inflict Weakness.",
+        "SkillDamage": 0,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 0.5,
+        "CurTrigerCd": 0.0,
+        "BuffId": 0,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "",
+        "EffectPoint": 0,
+        "TrigerEvent": 5,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 8.0,
+        "describe1": "+ % per hit (max 25%)",
+        "Value2": 5.0,
+        "describe2": "MaxStack",
+        "Value3": 5.0,
+        "describe3": "bleed Rank",
+        "Value4": 15.0,
+        "describe4": "weakRank",
+        "Value5": 30.0,
+        "describe5": "Probability",
+        "Value6": 5.0,
+        "describe6": "ContinueTime",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_210_Rank1",
+  "OnlyId": 0,
+  "ModId": 2100,
+  "RankId": 1,
+  "RankWeight": 1.0,
+  "ModName": "Tactical Overlay Lens I",
+  "ModDec": "Select {0} Highlights enemies within 8 meters +{0}% Critical Hit Chance",
+  "ModIndex": 2,
+  "modAddType": 57,
+  "modAddValue1": 4.0,
+  "modAddValue2": 5.0,
+  "modAddValue3": 8.0,
+  "IsAdd": 0,
+  "SlotObjName": "RedDotScope_Scope",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      17,
+      0,
+      13,
+      12,
+      7,
+      35,
+      34,
+      59,
+      63,
+      69,
+      66,
+      64
+    ]
+  }
+}

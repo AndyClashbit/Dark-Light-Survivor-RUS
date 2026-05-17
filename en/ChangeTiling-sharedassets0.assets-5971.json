@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2603
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3326
+  },
+  "m_Name": "",
+  "startSacle": 3.0,
+  "endSacle": 0.0,
+  "meshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 3414
+  },
+  "timer2": 2.0
+}

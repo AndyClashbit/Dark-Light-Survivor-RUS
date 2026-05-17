@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1795
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2708
+  },
+  "m_Name": "",
+  "fxType": 4,
+  "layerMask": {
+    "m_Bits": 4294967295
+  },
+  "lifeTime": 5.0,
+  "despawnDelay": 1.0,
+  "velocity": 200.0,
+  "RaycastAdvance": 2.0,
+  "DelayDespawn": 1,
+  "delayedParticles": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 2959
+      }
+    ]
+  }
+}

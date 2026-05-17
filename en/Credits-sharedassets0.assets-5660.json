@@ -1,0 +1,145 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4467
+  },
+  "m_Name": "Credits",
+  "backgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": 2159
+  },
+  "sectionSpacing": 70,
+  "headerSpacing": 30,
+  "nameListSpacing": 50,
+  "credits": {
+    "Array": [
+      {
+        "headerTitle": "Created by",
+        "headerTitleKey": "CreditsCreatedBy",
+        "items": {
+          "Array": [
+            "Team Michsky"
+          ]
+        }
+      },
+      {
+        "headerTitle": "Art Design",
+        "headerTitleKey": "CreditsArtDesign",
+        "items": {
+          "Array": [
+            "Mariyah Gaines",
+            "Ralphy Griffin",
+            "Ricky Broughton",
+            "Selena Crouch",
+            "Felix Corbett"
+          ]
+        }
+      },
+      {
+        "headerTitle": "Programming",
+        "headerTitleKey": "CreditsProgrammer",
+        "items": {
+          "Array": [
+            "Teo Cohen",
+            "Kezia Bush",
+            "Darsh Stokes"
+          ]
+        }
+      },
+      {
+        "headerTitle": "Sound Design",
+        "headerTitleKey": "CreditsSoundDesign",
+        "items": {
+          "Array": [
+            "Thomas Beaumont",
+            "Lily-Anne Taylor"
+          ]
+        }
+      },
+      {
+        "headerTitle": "Concept Artist",
+        "headerTitleKey": "CreditsConceptArtist",
+        "items": {
+          "Array": [
+            "Madeline Xiong"
+          ]
+        }
+      },
+      {
+        "headerTitle": "VFX Artist",
+        "headerTitleKey": "CreditsVFXArtist",
+        "items": {
+          "Array": [
+            "Cassian Wilcox",
+            "Nylah Sykes"
+          ]
+        }
+      },
+      {
+        "headerTitle": "Voiceover",
+        "headerTitleKey": "CreditsVoiceover",
+        "items": {
+          "Array": [
+            "Willie Lawson",
+            "Lorena Lozano",
+            "Jonny Allen",
+            "Keagan Guest"
+          ]
+        }
+      },
+      {
+        "headerTitle": "User Interface",
+        "headerTitleKey": "CreditsUI",
+        "items": {
+          "Array": [
+            "Bobby Gray"
+          ]
+        }
+      },
+      {
+        "headerTitle": "Playtesters",
+        "headerTitleKey": "CreditsPlaytesters",
+        "items": {
+          "Array": [
+            "Alberto Ewing",
+            "Leonidas West",
+            "Gary Alcock",
+            "Erika Frey",
+            "Gloria Fulton"
+          ]
+        }
+      }
+    ]
+  },
+  "mentions": {
+    "Array": [
+      {
+        "ID": "Logo Placeholder",
+        "icon": {
+          "m_FileID": 0,
+          "m_PathID": 1929
+        },
+        "description": "Optional footnote goes here.\nYou can add additional information or license details here.",
+        "descriptionKey": "CreditsLogoDescription",
+        "descriptionSpacing": 30,
+        "layoutSpacing": 160
+      },
+      {
+        "ID": "Logo Placeholder 2",
+        "icon": {
+          "m_FileID": 0,
+          "m_PathID": 1949
+        },
+        "description": "Optional footnote goes here.\nYou can add additional information or license details here.",
+        "descriptionKey": "CreditsLogoDescription",
+        "descriptionSpacing": 30,
+        "layoutSpacing": 160
+      }
+    ]
+  }
+}

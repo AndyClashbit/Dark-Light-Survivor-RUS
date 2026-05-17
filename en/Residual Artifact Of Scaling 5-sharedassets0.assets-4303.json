@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2575
+  },
+  "m_Name": "Residual Artifact Of Scaling 5",
+  "isEquip": 0,
+  "ArtifactOnlyID": "",
+  "Id": 5,
+  "IdInAllArtifact": 26,
+  "Rank": 0,
+  "Colour_Type": 2,
+  "Pos": 0,
+  "careerType": 0,
+  "Name": "",
+  "isMarking": 0,
+  "ArtifactName": "REDISUAL ARTIFACT OF SCALING",
+  "ArtifactDes": "",
+  "Icon": {
+    "m_FileID": 0,
+    "m_PathID": 1985
+  },
+  "spriteIndexInSpriteList": 7,
+  "words": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4376
+      }
+    ]
+  },
+  "RankInSorting": 0.0,
+  "valueCount": 100.0,
+  "rankNum": 0
+}

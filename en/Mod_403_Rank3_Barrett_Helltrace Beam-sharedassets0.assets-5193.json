@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4044
+  },
+  "m_Name": "Mod_403_Rank3_Barrett_Helltrace Beam",
+  "OnlyId": 0,
+  "ModId": 4033,
+  "RankId": 3,
+  "RankWeight": 1.0,
+  "ModName": "Helltrace Beam",
+  "ModDec": "+{0}% Fire Rate in third-person mode",
+  "ModIndex": 4,
+  "modAddType": 33,
+  "modAddValue1": 50.0,
+  "modAddValue2": 0.0,
+  "modAddValue3": 0.0,
+  "IsAdd": 0,
+  "SlotObjName": "Laser",
+  "bCanUseMod": 1,
+  "CanRepeatedDrop": 0,
+  "SupportedWeaponList": {
+    "Array": [
+      85
+    ]
+  }
+}

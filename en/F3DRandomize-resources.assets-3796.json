@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1825
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3908
+  },
+  "m_Name": "",
+  "RandomScale": 1,
+  "RandomRotation": 1,
+  "MinScale": 1.0,
+  "MaxScale": 3.0,
+  "MinRotation": -360.0,
+  "MaxRotaion": 360.0
+}

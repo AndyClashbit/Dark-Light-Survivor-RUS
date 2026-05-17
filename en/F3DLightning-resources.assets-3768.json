@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1842
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4921
+  },
+  "m_Name": "",
+  "layerMask": {
+    "m_Bits": 4294967295
+  },
+  "BeamFrames": {
+    "Array": []
+  },
+  "FrameStep": 0.0,
+  "RandomizeFrames": 0,
+  "Points": 2,
+  "MaxBeamLength": 500.0,
+  "beamScale": 1.0,
+  "AnimateUV": 1,
+  "UVTime": -6.0,
+  "Oscillate": 1,
+  "Amplitude": 0.3,
+  "OscillateTime": 0.05,
+  "rayImpact": {
+    "m_FileID": 0,
+    "m_PathID": 2538
+  },
+  "rayMuzzle": {
+    "m_FileID": 0,
+    "m_PathID": 2547
+  }
+}

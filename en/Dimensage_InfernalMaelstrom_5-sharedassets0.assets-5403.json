@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Dimensage_InfernalMaelstrom_5",
+  "SkillId": 1205,
+  "SkillName": "Infernal Maelstrom",
+  "SkillIconType": 0,
+  "BaseSkillType": 2,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 5,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Conjure a storm",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1679
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1205,
+        "GuidInSkill": 0,
+        "Rank": 5,
+        "SkillDescribe": "Conjure a storm. Deals {0} Fire Damage per second for {3} seconds. Applies Burn {0} Damage per second for {1} seconds, up to {2} stacks. Cooldown {6} seconds. Duration {3} seconds.",
+        "SkillDamage": 105,
+        "TrigerProbability": 40.0,
+        "TrigerCd": 25.0,
+        "CurTrigerCd": 0.0,
+        "BuffId": 4,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "ShieldAttackExplode",
+        "EffectPoint": 0,
+        "TrigerEvent": 5,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 6.0,
+        "describe1": "BurnDamage",
+        "Value2": 4.0,
+        "describe2": "BurnDuration",
+        "Value3": 5.0,
+        "describe3": "Max stacks",
+        "Value4": 4.0,
+        "describe4": "Duration",
+        "Value5": 3.0,
+        "describe5": "Count",
+        "Value6": 0.0,
+        "describe6": "",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

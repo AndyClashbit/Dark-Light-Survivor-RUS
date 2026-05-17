@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Soldier_LeadTempest_2",
+  "SkillId": 1302,
+  "SkillName": "Lead Tempest",
+  "SkillIconType": 0,
+  "BaseSkillType": 2,
+  "Faction": -1,
+  "SkillType": 2,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 2,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Spin mid-air and fire in all directions. Area clear skill.40 bullets, 70% damage each, stagger",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 2211
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1302,
+        "GuidInSkill": 0,
+        "Rank": 2,
+        "SkillDescribe": "An area-clearing skill that scales with your weapon damage. Spin in mid-air and fire in all directions, dealing continuous damage. Each hit deals {0}% damage.",
+        "SkillDamage": 0,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 20.0,
+        "CurTrigerCd": 0.0,
+        "BuffId": 21,
+        "BuffName": "StunLevel_1",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "",
+        "EffectPoint": 0,
+        "TrigerEvent": 0,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 0.9,
+        "describe1": "damage rate",
+        "Value2": 40.0,
+        "describe2": "bullet nmber",
+        "Value3": 1.0,
+        "describe3": "stagger value",
+        "Value4": 0.0,
+        "describe4": "vuln",
+        "Value5": 3.0,
+        "describe5": "duration",
+        "Value6": 0.0,
+        "describe6": "",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

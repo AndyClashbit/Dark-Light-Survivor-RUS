@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2405
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3126
+  },
+  "m_Name": "",
+  "iconImage": {
+    "m_FileID": 0,
+    "m_PathID": 5882
+  },
+  "descriptionText": {
+    "m_FileID": 0,
+    "m_PathID": 5779
+  },
+  "listLayout": {
+    "m_FileID": 0,
+    "m_PathID": 5781
+  },
+  "preset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "localizedObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

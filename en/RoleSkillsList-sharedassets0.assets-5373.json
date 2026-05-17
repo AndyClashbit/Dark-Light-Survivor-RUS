@@ -1,0 +1,2060 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5326
+  },
+  "m_Name": "RoleSkillsList",
+  "roleSkillsList": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 5374
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5375
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5376
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5377
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5378
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5379
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5380
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5381
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5382
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5383
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5579
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5580
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5581
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5582
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5583
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5594
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5595
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5596
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5597
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5598
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5599
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5600
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5601
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5602
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5603
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5604
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5605
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5606
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5607
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5608
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5609
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5610
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5611
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5612
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5613
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5564
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5565
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5566
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5567
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5568
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5614
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5615
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5616
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5617
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5618
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5619
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5620
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5621
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5622
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5623
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5624
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5625
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5626
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5627
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5628
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5629
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5630
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5631
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5632
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5633
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5569
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5570
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5571
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5572
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5573
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5634
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5635
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5636
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5637
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5638
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5639
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5640
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5641
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5642
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5643
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5574
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5575
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5576
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5577
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5578
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5584
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5585
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5586
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5587
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5588
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5589
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5590
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5591
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5592
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5593
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5414
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5415
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5416
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5417
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5418
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5419
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5420
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5421
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5422
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5423
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5424
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5425
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5426
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5427
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5428
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5429
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5430
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5431
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5432
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5433
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5434
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5435
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5436
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5437
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5438
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5439
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5440
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5441
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5442
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5443
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5444
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5445
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5446
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5447
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5448
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5449
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5450
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5451
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5452
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5453
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5454
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5455
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5456
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5457
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5458
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5459
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5460
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5461
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5462
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5463
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5464
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5465
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5466
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5467
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5468
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5469
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5470
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5471
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5472
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5473
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5474
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5475
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5476
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5477
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5478
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5479
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5480
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5481
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5482
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5483
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5524
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5525
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5526
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5527
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5528
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5529
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5530
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5531
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5532
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5533
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5539
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5540
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5541
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5542
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5543
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5544
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5545
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5546
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5547
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5548
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5549
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5550
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5551
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5552
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5553
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5554
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5555
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5556
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5557
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5558
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5559
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5560
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5561
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5562
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5563
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5534
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5535
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5536
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5537
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5538
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5484
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5485
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5486
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5487
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5488
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5489
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5490
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5491
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5492
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5493
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5494
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5495
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5496
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5497
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5498
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5499
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5500
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5501
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5502
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5503
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5504
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5505
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5506
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5507
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5508
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5509
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5510
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5511
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5512
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5513
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5514
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5515
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5516
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5517
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5518
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5519
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5520
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5521
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5522
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5523
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5384
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5385
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5386
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5387
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5388
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5389
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5390
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5391
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5392
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5393
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5394
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5395
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5396
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5397
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5398
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5399
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5400
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5401
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5402
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5403
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5404
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5405
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5406
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5407
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5408
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5409
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5410
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5411
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5412
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5413
+      }
+    ]
+  },
+  "roleSkillInfoData": {
+    "RoleSkillInfoList_Soilder": {
+      "Array": [
+        {
+          "skillId": 1101,
+          "widthIdx": 0,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1102,
+          "widthIdx": 0,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 2269
+          },
+          "RequestSkillId": {
+            "Array": [
+              1101
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee attack speed by <color=#00FFA6>5%</color> ",
+              "Increase melee attack speed by <color=#00FFA6>10%</color> ",
+              "Increase melee attack speed by <color=#00FFA6>15%</color> ",
+              "Increase melee attack speed by <color=#00FFA6>20%</color> ",
+              "Increase melee attack speed by <color=#00FFA6>25%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1109,
+          "widthIdx": 0,
+          "heightIdx": 2,
+          "LearnLevel": 5,
+          "basePrice": 1000,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 2200
+          },
+          "RequestSkillId": {
+            "Array": [
+              1102
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Gain <color=#00FFA6>1%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>20%</color>",
+              "Gain <color=#00FFA6>2%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>40%</color>",
+              "Gain <color=#00FFA6>3%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>60%</color>",
+              "Gain <color=#00FFA6>4%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>80%</color>",
+              "Gain <color=#00FFA6>5%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>100%</color>"
+            ]
+          }
+        },
+        {
+          "skillId": 1001,
+          "widthIdx": 1,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1732
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase max HP by <color=#00FFA6>5%</color> ",
+              "Increase max HP by <color=#00FFA6>10%</color> ",
+              "Increase max HP by <color=#00FFA6>15%</color> ",
+              "Increase max HP by <color=#00FFA6>20%</color> ",
+              "Increase max HP by <color=#00FFA6>25%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1111,
+          "widthIdx": 1,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1702
+          },
+          "RequestSkillId": {
+            "Array": [
+              1001
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "<color=#00FFA6>10%</color>  chance to stun for <color=#00FFA6>1s</color>  on melee hit",
+              "<color=#00FFA6>15%</color>  chance to stun for <color=#00FFA6>1.5s</color>  on melee hit",
+              "<color=#00FFA6>20%</color>  chance to stun for <color=#00FFA6>2s</color>  on melee hit",
+              "<color=#00FFA6>25%</color>  chance to stun for <color=#00FFA6>2.5s</color>  on melee hit",
+              "<color=#00FFA6>30%</color>  chance to stun for <color=#00FFA6>3s</color>  on melee hit"
+            ]
+          }
+        },
+        {
+          "skillId": 1002,
+          "widthIdx": 1,
+          "heightIdx": 2,
+          "LearnLevel": 5,
+          "basePrice": 1000,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1705
+          },
+          "RequestSkillId": {
+            "Array": [
+              1111
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Reduce all damage taken by <color=#00FFA6>5%</color> ",
+              "Reduce all damage taken by <color=#00FFA6>10%</color> ",
+              "Reduce all damage taken by <color=#00FFA6>15%</color> ",
+              "Reduce all damage taken by <color=#00FFA6>20%</color> ",
+              "Reduce all damage taken by <color=#00FFA6>25%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1106,
+          "widthIdx": 2,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1655
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Less <color=#00FFA6>10%</color> physical damage while stationary",
+              "Less <color=#00FFA6>20%</color> physical damage while stationary",
+              "Less <color=#00FFA6>30%</color> physical damage while stationary",
+              "Less <color=#00FFA6>40%</color> physical damage while stationary",
+              "Less <color=#00FFA6>50%</color> physical damage while stationary"
+            ]
+          }
+        },
+        {
+          "skillId": 1105,
+          "widthIdx": 2,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1674
+          },
+          "RequestSkillId": {
+            "Array": [
+              1106
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Reflect <color=#00FFA6>10%</color>  of melee damage taken",
+              "Reflect <color=#00FFA6>20%</color>  of melee damage taken",
+              "Reflect <color=#00FFA6>30%</color>  of melee damage taken",
+              "Reflect <color=#00FFA6>40%</color>  of melee damage taken",
+              "Reflect <color=#00FFA6>50%</color>  of melee damage taken"
+            ]
+          }
+        },
+        {
+          "skillId": 1104,
+          "widthIdx": 2,
+          "heightIdx": 2,
+          "LearnLevel": 5,
+          "basePrice": 1000,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1685
+          },
+          "RequestSkillId": {
+            "Array": [
+              1105
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "<color=#00FFA6>30%</color>  chance to heal <color=#00FFA6>2%</color>  of max HP on melee kill",
+              "<color=#00FFA6>30%</color>  chance to heal <color=#00FFA6>4%</color>  of max HP on melee kill",
+              "<color=#00FFA6>30%</color>  chance to heal <color=#00FFA6>6%</color>  of max HP on melee kill",
+              "<color=#00FFA6>30%</color>  chance to heal <color=#00FFA6>8%</color>  of max HP on melee kill",
+              "<color=#00FFA6>30%</color>  chance to heal <color=#00FFA6>10%</color>  of max HP on melee kill"
+            ]
+          }
+        },
+        {
+          "skillId": 1110,
+          "widthIdx": 2,
+          "heightIdx": 3,
+          "LearnLevel": 5,
+          "basePrice": 1200,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1662
+          },
+          "RequestSkillId": {
+            "Array": [
+              1104
+            ]
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Deal <color=#00FFA6>25%</color>  damage to enemies below <color=#00FFA6>30%</color>  HP",
+              "Deal <color=#00FFA6>25%</color>  damage to enemies below <color=#00FFA6>40%</color>  HP",
+              "Deal <color=#00FFA6>40%</color>  damage to enemies below <color=#00FFA6>40%</color>  HP",
+              "Deal <color=#00FFA6>40%</color>  damage to enemies below <color=#00FFA6>50%</color>  HP",
+              "Deal <color=#00FFA6>50%</color>  damage to enemies below <color=#00FFA6>50%</color>  HP"
+            ]
+          }
+        },
+        {
+          "skillId": 1116,
+          "widthIdx": 3,
+          "heightIdx": 0,
+          "LearnLevel": 3,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1667
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase maximum health<color=#00FFA6>10</color>  points",
+              "Increase maximum health<color=#00FFA6>20</color>  points",
+              "Increase maximum health<color=#00FFA6>30</color>  points",
+              "Increase maximum health<color=#00FFA6>40</color>  points",
+              "Increase maximum health<color=#00FFA6>50</color>  points"
+            ]
+          }
+        }
+      ]
+    },
+    "RoleSkillInfoList_Magic": {
+      "Array": [
+        {
+          "skillId": 1225,
+          "widthIdx": 0,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1226,
+          "widthIdx": 0,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1227,
+          "widthIdx": 0,
+          "heightIdx": 2,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1228,
+          "widthIdx": 1,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1229,
+          "widthIdx": 1,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1230,
+          "widthIdx": 1,
+          "heightIdx": 2,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1231,
+          "widthIdx": 2,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1232,
+          "widthIdx": 2,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1233,
+          "widthIdx": 2,
+          "heightIdx": 2,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1234,
+          "widthIdx": 3,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1235,
+          "widthIdx": 3,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1236,
+          "widthIdx": 3,
+          "heightIdx": 2,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1237,
+          "widthIdx": 2,
+          "heightIdx": 3,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1238,
+          "widthIdx": 1,
+          "heightIdx": 3,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        }
+      ]
+    },
+    "RoleSkillInfoList_Gunslinger": {
+      "Array": [
+        {
+          "skillId": 1320,
+          "widthIdx": 0,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1671
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee damage by <color=#00FFA6>10%</color> ",
+              "Increase melee damage by <color=#00FFA6>20%</color> ",
+              "Increase melee damage by <color=#00FFA6>30%</color> ",
+              "Increase melee damage by <color=#00FFA6>40%</color> ",
+              "Increase melee damage by <color=#00FFA6>50%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1321,
+          "widthIdx": 1,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 2269
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase melee attack speed by <color=#00FFA6>5%</color> ",
+              "Increase melee attack speed by <color=#00FFA6>10%</color> ",
+              "Increase melee attack speed by <color=#00FFA6>15%</color> ",
+              "Increase melee attack speed by <color=#00FFA6>20%</color> ",
+              "Increase melee attack speed by <color=#00FFA6>25%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1322,
+          "widthIdx": 1,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 1000,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 2200
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Gain <color=#00FFA6>1%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>20%</color>",
+              "Gain <color=#00FFA6>2%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>40%</color>",
+              "Gain <color=#00FFA6>3%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>60%</color>",
+              "Gain <color=#00FFA6>4%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>80%</color>",
+              "Gain <color=#00FFA6>5%</color>  damage per <color=#00FFA6>5%</color> missing HP, up to <color=#00FFA6>100%</color>"
+            ]
+          }
+        },
+        {
+          "skillId": 1323,
+          "widthIdx": 1,
+          "heightIdx": 2,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1732
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Increase max HP by <color=#00FFA6>5%</color> ",
+              "Increase max HP by <color=#00FFA6>10%</color> ",
+              "Increase max HP by <color=#00FFA6>15%</color> ",
+              "Increase max HP by <color=#00FFA6>20%</color> ",
+              "Increase max HP by <color=#00FFA6>25%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1324,
+          "widthIdx": 2,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1702
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "<color=#00FFA6>10%</color>  chance to stun for <color=#00FFA6>1s</color>  on melee hit",
+              "<color=#00FFA6>15%</color>  chance to stun for <color=#00FFA6>1.5s</color>  on melee hit",
+              "<color=#00FFA6>20%</color>  chance to stun for <color=#00FFA6>2s</color>  on melee hit",
+              "<color=#00FFA6>25%</color>  chance to stun for <color=#00FFA6>2.5s</color>  on melee hit",
+              "<color=#00FFA6>30%</color>  chance to stun for <color=#00FFA6>3s</color>  on melee hit"
+            ]
+          }
+        },
+        {
+          "skillId": 1325,
+          "widthIdx": 2,
+          "heightIdx": 1,
+          "LearnLevel": 5,
+          "basePrice": 1000,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1705
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Reduce all damage taken by <color=#00FFA6>5%</color> ",
+              "Reduce all damage taken by <color=#00FFA6>10%</color> ",
+              "Reduce all damage taken by <color=#00FFA6>15%</color> ",
+              "Reduce all damage taken by <color=#00FFA6>20%</color> ",
+              "Reduce all damage taken by <color=#00FFA6>25%</color> "
+            ]
+          }
+        },
+        {
+          "skillId": 1326,
+          "widthIdx": 2,
+          "heightIdx": 2,
+          "LearnLevel": 5,
+          "basePrice": 600,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1655
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": []
+          },
+          "skillDesc": {
+            "Array": [
+              "Less <color=#00FFA6>10%</color> physical damage while stationary",
+              "Less <color=#00FFA6>20%</color> physical damage while stationary",
+              "Less <color=#00FFA6>30%</color> physical damage while stationary",
+              "Less <color=#00FFA6>40%</color> physical damage while stationary",
+              "Less <color=#00FFA6>50%</color> physical damage while stationary"
+            ]
+          }
+        },
+        {
+          "skillId": 1327,
+          "widthIdx": 3,
+          "heightIdx": 0,
+          "LearnLevel": 5,
+          "basePrice": 800,
+          "icon": {
+            "m_FileID": 0,
+            "m_PathID": 1674
+          },
+          "RequestSkillId": {
+            "Array": []
+          },
+          "RequestSkillIdLevel": {
+            "Array": [
+              0
+            ]
+          },
+          "skillDesc": {
+            "Array": [
+              "Reflect <color=#00FFA6>10%</color>  of melee damage taken",
+              "Reflect <color=#00FFA6>20%</color>  of melee damage taken",
+              "Reflect <color=#00FFA6>30%</color>  of melee damage taken",
+              "Reflect <color=#00FFA6>40%</color>  of melee damage taken",
+              "Reflect <color=#00FFA6>50%</color>  of melee damage taken"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "resetPriceTable": {
+    "Array": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1300,
+      1400,
+      1500,
+      1600,
+      1700,
+      1800,
+      1900,
+      2000,
+      2100,
+      2200,
+      2300,
+      2400,
+      2500,
+      2600,
+      2700,
+      2800,
+      2900,
+      3000,
+      3100,
+      3200,
+      3300,
+      3400,
+      3500,
+      3600,
+      3700,
+      3800,
+      3900,
+      4000,
+      4100,
+      4200,
+      4300,
+      4400,
+      4500,
+      4600,
+      4700,
+      4800,
+      4900,
+      5000
+    ]
+  }
+}

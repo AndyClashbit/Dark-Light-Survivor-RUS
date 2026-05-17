@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Dimensage_PyroclasticEruption_1",
+  "SkillId": 1206,
+  "SkillName": "Pyroclastic Eruption",
+  "SkillIconType": 0,
+  "BaseSkillType": 2,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 1,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Trigger an eruption",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1714
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1206,
+        "GuidInSkill": 0,
+        "Rank": 1,
+        "SkillDescribe": "Trigger an eruption. Deals {7} Fire Damage in an area. Applies Burn {0} Damage per second for {1} seconds, up to {2} stacks. Cooldown {6} seconds.",
+        "SkillDamage": 160,
+        "TrigerProbability": 40.0,
+        "TrigerCd": 30.0,
+        "CurTrigerCd": 0.0,
+        "BuffId": 4,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "",
+        "EffectPoint": 0,
+        "TrigerEvent": 5,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 12.0,
+        "describe1": "BurnDamage",
+        "Value2": 3.0,
+        "describe2": "BurnDuration",
+        "Value3": 5.0,
+        "describe3": "Max stacks",
+        "Value4": 3.0,
+        "describe4": "Duration of areaDamage",
+        "Value5": 18.0,
+        "describe5": "AreaDamage",
+        "Value6": 1.0,
+        "describe6": "Count",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}

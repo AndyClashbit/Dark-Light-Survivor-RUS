@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 774
+  },
+  "m_Name": "FlowProfile.Pool.MV7XZZ76",
+  "AreaSize": 20,
+  "AreaPosition": {
+    "x": 0.0,
+    "y": -0.036,
+    "z": 0.0
+  },
+  "FlowmapResolution": 512,
+  "FlowmapTexture": {
+    "m_FileID": 0,
+    "m_PathID": 1225
+  },
+  "FluidsMaskTexture": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "FluidsPrebakedTexture": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

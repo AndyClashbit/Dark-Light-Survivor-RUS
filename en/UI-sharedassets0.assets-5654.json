@@ -1,0 +1,1266 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2506
+  },
+  "m_Name": "UI",
+  "tableID": "UI",
+  "localizationSettings": {
+    "m_FileID": 0,
+    "m_PathID": 5653
+  },
+  "tableContent": {
+    "Array": [
+      {
+        "key": "AchievementsTitle"
+      },
+      {
+        "key": "AchievementLegendary"
+      },
+      {
+        "key": "AchievementRare"
+      },
+      {
+        "key": "AchievementCommon"
+      },
+      {
+        "key": "ButtonAll"
+      },
+      {
+        "key": "PAK_Part1"
+      },
+      {
+        "key": "PAK_Key"
+      },
+      {
+        "key": "PAK_Part2"
+      },
+      {
+        "key": "ButtonGoBack"
+      },
+      {
+        "key": "StoryModeTitle"
+      },
+      {
+        "key": "MultiplayerTitle"
+      },
+      {
+        "key": "ExitTitle"
+      },
+      {
+        "key": "ExtrasTitle"
+      },
+      {
+        "key": "SettingsTitle"
+      },
+      {
+        "key": "GeneralTitle"
+      },
+      {
+        "key": "ControlsTitle"
+      },
+      {
+        "key": "AudioTitle"
+      },
+      {
+        "key": "VisualsTitle"
+      },
+      {
+        "key": "MultiplayerSearchingLabel"
+      },
+      {
+        "key": "LanguageTitle"
+      },
+      {
+        "key": "NewsTitle"
+      },
+      {
+        "key": "ButtonMoreDetails"
+      },
+      {
+        "key": "NewsItemTitle1"
+      },
+      {
+        "key": "NewsItemDescription1"
+      },
+      {
+        "key": "NewsItemTitle2"
+      },
+      {
+        "key": "NewsItemDescription2"
+      },
+      {
+        "key": "NewsItemTitle3"
+      },
+      {
+        "key": "NewsItemDescription3"
+      },
+      {
+        "key": "AchievementHiddenTitle"
+      },
+      {
+        "key": "AchievementHiddenDesc"
+      },
+      {
+        "key": "AchievementSampleTitle"
+      },
+      {
+        "key": "AchievementSampleDesc"
+      },
+      {
+        "key": "DiscordDescription"
+      },
+      {
+        "key": "TwitterDescription"
+      },
+      {
+        "key": "ChapterContinue"
+      },
+      {
+        "key": "ChapterPlay"
+      },
+      {
+        "key": "ChapterReplay"
+      },
+      {
+        "key": "ChapterCompleted"
+      },
+      {
+        "key": "ChapterUnlocked"
+      },
+      {
+        "key": "ChapterLocked"
+      },
+      {
+        "key": "Chapter1Title"
+      },
+      {
+        "key": "Chapter1Description"
+      },
+      {
+        "key": "Chapter2Title"
+      },
+      {
+        "key": "Chapter2Description"
+      },
+      {
+        "key": "Chapter3Title"
+      },
+      {
+        "key": "Chapter3Description"
+      },
+      {
+        "key": "Chapter4Title"
+      },
+      {
+        "key": "Chapter4Description"
+      },
+      {
+        "key": "ButtonCancel"
+      },
+      {
+        "key": "ButtonConfirm"
+      },
+      {
+        "key": "ExitModalDescription"
+      },
+      {
+        "key": "LabelOn"
+      },
+      {
+        "key": "LabelOff"
+      },
+      {
+        "key": "CreditsTitle"
+      },
+      {
+        "key": "SelectLabel"
+      },
+      {
+        "key": "NavigateLabel"
+      },
+      {
+        "key": "PrevChapterLabel"
+      },
+      {
+        "key": "NextChapterLabel"
+      },
+      {
+        "key": "GoBackLabel"
+      },
+      {
+        "key": "PrevCategoryLabel"
+      },
+      {
+        "key": "NextCategoryLabel"
+      },
+      {
+        "key": "BoostCreditsLabel"
+      },
+      {
+        "key": "CloseLabel"
+      },
+      {
+        "key": "ControllerLayoutTitle"
+      },
+      {
+        "key": "CreditsVoiceover"
+      },
+      {
+        "key": "CreditsCreatedBy"
+      },
+      {
+        "key": "CreditsArtDesign"
+      },
+      {
+        "key": "CreditsProgrammer"
+      },
+      {
+        "key": "CreditsSoundDesign"
+      },
+      {
+        "key": "CreditsConceptArtist"
+      },
+      {
+        "key": "CreditsVFXArtist"
+      },
+      {
+        "key": "CreditsUI"
+      },
+      {
+        "key": "CreditsPlaytesters"
+      },
+      {
+        "key": "WebsiteDescription"
+      },
+      {
+        "key": "TikTokDescription"
+      },
+      {
+        "key": "YouTubeDescription"
+      },
+      {
+        "key": "EnableHintsLabel"
+      },
+      {
+        "key": "EnableTutorialsLabel"
+      },
+      {
+        "key": "UIScaleLabel"
+      },
+      {
+        "key": "SubtitleScaleLabel"
+      },
+      {
+        "key": "EnableSubtitlesLabel"
+      },
+      {
+        "key": "VolumeHeader"
+      },
+      {
+        "key": "MasterVolumeLabel"
+      },
+      {
+        "key": "MusicVolumeLabel"
+      },
+      {
+        "key": "SFXVolumeLabel"
+      },
+      {
+        "key": "UIVolumeLabel"
+      },
+      {
+        "key": "DisplayHeader"
+      },
+      {
+        "key": "ResolutionLabel"
+      },
+      {
+        "key": "EnableHintsDesc"
+      },
+      {
+        "key": "EnableSubtitlesDesc"
+      },
+      {
+        "key": "LanguageDesc"
+      },
+      {
+        "key": "UIScaleDesc"
+      },
+      {
+        "key": "SubtitleScaleDesc"
+      },
+      {
+        "key": "MasterVolumeDesc"
+      },
+      {
+        "key": "MusicVolumeDesc"
+      },
+      {
+        "key": "SFXVolumeDesc"
+      },
+      {
+        "key": "UIVolumeDesc"
+      },
+      {
+        "key": "ResolutionDesc"
+      },
+      {
+        "key": "SettingsDesc"
+      },
+      {
+        "key": "VSyncLabel"
+      },
+      {
+        "key": "VSyncDesc"
+      },
+      {
+        "key": "FrameRateLabel"
+      },
+      {
+        "key": "FrameRateDesc"
+      },
+      {
+        "key": "FrameRateUnlimited"
+      },
+      {
+        "key": "WindowModeLabel"
+      },
+      {
+        "key": "WindowModeDesc"
+      },
+      {
+        "key": "BorderlessLabel"
+      },
+      {
+        "key": "FullscreenLabel"
+      },
+      {
+        "key": "WindowedLabel"
+      },
+      {
+        "key": "CreditsLogoDescription"
+      },
+      {
+        "key": "AccessibilityTitle"
+      },
+      {
+        "key": "SearchLabel"
+      },
+      {
+        "key": "CancelSearchLabel"
+      },
+      {
+        "key": "GameModeLabel"
+      },
+      {
+        "key": "PlayLabel"
+      },
+      {
+        "key": "SearchingLabel"
+      },
+      {
+        "key": "DeathmatchLabel"
+      },
+      {
+        "key": "CTFLabel"
+      },
+      {
+        "key": "ConquestLabel"
+      },
+      {
+        "key": "PauseMenuContinue"
+      },
+      {
+        "key": "ExitMainMenuTitle"
+      },
+      {
+        "key": "ExitMainMenuDescription"
+      },
+      {
+        "key": "QuestTextSample"
+      },
+      {
+        "key": "NotificationTextSample"
+      },
+      {
+        "key": "PausedLabel"
+      },
+      {
+        "key": "TextureQualityLabel"
+      },
+      {
+        "key": "TextureQualityDesc"
+      },
+      {
+        "key": "SettingsGraphicsLow"
+      },
+      {
+        "key": "SettingsGraphicsMedium"
+      },
+      {
+        "key": "SettingsGraphicsHigh"
+      },
+      {
+        "key": "SettingsGraphicsUltra"
+      },
+      {
+        "key": "AnisotropicFilteringLabel"
+      },
+      {
+        "key": "AnisotropicFilteringDesc"
+      },
+      {
+        "key": "CamAndPlayerLabel"
+      },
+      {
+        "key": "CamSensitivityLabel"
+      },
+      {
+        "key": "CamSensitivityDesc"
+      },
+      {
+        "key": "SprintModeLabel"
+      },
+      {
+        "key": "SprintModeLabelDesc"
+      },
+      {
+        "key": "SprintToggleLabel"
+      },
+      {
+        "key": "SprintHoldLabel"
+      },
+      {
+        "key": "ReverseLookLabel"
+      },
+      {
+        "key": "ReverseLookDesc"
+      },
+      {
+        "key": "KeyBindingsHeader"
+      },
+      {
+        "key": "AdvancedHeader"
+      },
+      {
+        "key": "ScrollLabel"
+      },
+      {
+        "key": "LobbyLabel"
+      },
+      {
+        "key": "ReadyLabel"
+      },
+      {
+        "key": "NotReadyLabel"
+      },
+      {
+        "key": "UnreadyLabel"
+      },
+      {
+        "key": "PAK_Touchscreen"
+      },
+      {
+        "key": "ShopTitle"
+      },
+      {
+        "key": "WeaponsTitle"
+      },
+      {
+        "key": "ClothesTitle"
+      },
+      {
+        "key": "VehiclesTitle"
+      },
+      {
+        "key": "PurchaseItemTitle"
+      },
+      {
+        "key": "PurchaseItemDescription"
+      },
+      {
+        "key": "SampleShopItemTitle"
+      },
+      {
+        "key": "SampleShopItemDescription"
+      },
+      {
+        "key": "PurchasedLabel"
+      },
+      {
+        "key": "PurchaseLabel"
+      },
+      {
+        "key": "KeyboardMapping"
+      },
+      {
+        "key": "Reset Key"
+      },
+      {
+        "key": "Controller Icons"
+      },
+      {
+        "key": "Select Gamepad Icon"
+      },
+      {
+        "key": "Auto Detect"
+      },
+      {
+        "key": "Use PS4 Icons"
+      },
+      {
+        "key": "Use Xbox Icons"
+      },
+      {
+        "key": "Equip"
+      },
+      {
+        "key": "UnEquip"
+      },
+      {
+        "key": "Upgrade"
+      },
+      {
+        "key": "Rotate"
+      },
+      {
+        "key": "Drop"
+      },
+      {
+        "key": "Enter"
+      },
+      {
+        "key": "Toggle Legend"
+      },
+      {
+        "key": "Zoom"
+      },
+      {
+        "key": "Move"
+      },
+      {
+        "key": "ARTIFACT COLLECTION"
+      },
+      {
+        "key": "SELL"
+      },
+      {
+        "key": "Comfirm"
+      },
+      {
+        "key": "Remove"
+      },
+      {
+        "key": "Mark"
+      },
+      {
+        "key": "\rReturn to Town"
+      },
+      {
+        "key": "LowLabel"
+      },
+      {
+        "key": "HighLabel"
+      },
+      {
+        "key": "MediumLabel"
+      },
+      {
+        "key": "_0Label"
+      },
+      {
+        "key": "_50Label"
+      },
+      {
+        "key": "_100Label"
+      },
+      {
+        "key": "EnableFSR3Label"
+      },
+      {
+        "key": "EnableFSR3Desc"
+      },
+      {
+        "key": "GrassSettingLabel"
+      },
+      {
+        "key": "GrassSettingDesc"
+      },
+      {
+        "key": "Back"
+      },
+      {
+        "key": "Intro"
+      },
+      {
+        "key": "Open"
+      },
+      {
+        "key": "Highest"
+      },
+      {
+        "key": "FRS3AntiGhost"
+      },
+      {
+        "key": "FSR3Quality"
+      },
+      {
+        "key": "FSR3QualityDesc"
+      },
+      {
+        "key": "FRS3AntiGhostDes"
+      },
+      {
+        "key": "Commune"
+      },
+      {
+        "key": "Leave"
+      },
+      {
+        "key": "Melee Attack"
+      },
+      {
+        "key": "Ranged Attack"
+      },
+      {
+        "key": "ChangeView"
+      },
+      {
+        "key": "Roll"
+      },
+      {
+        "key": "Auto Attack"
+      },
+      {
+        "key": "Next Weapon"
+      },
+      {
+        "key": "Previous Weapon"
+      },
+      {
+        "key": "Traverse The Realms"
+      },
+      {
+        "key": "Bind Relics"
+      },
+      {
+        "key": "Manifest Form"
+      },
+      {
+        "key": "Control Hint"
+      },
+      {
+        "key": "Inventory"
+      },
+      {
+        "key": "WeaponUpgrade"
+      },
+      {
+        "key": "Camera Switch"
+      },
+      {
+        "key": "Motion Blur"
+      },
+      {
+        "key": "Pixel Mode"
+      },
+      {
+        "key": "Comfirm/Remove Hold To Drag"
+      },
+      {
+        "key": "Horizontal Sensitivity"
+      },
+      {
+        "key": "Vertical Sensitivity"
+      },
+      {
+        "key": "MoveForward"
+      },
+      {
+        "key": "MoveBack"
+      },
+      {
+        "key": "MoveLeft"
+      },
+      {
+        "key": "MoveRight"
+      },
+      {
+        "key": "Reload"
+      },
+      {
+        "key": "Interact"
+      },
+      {
+        "key": "Weapon Upgrade"
+      },
+      {
+        "key": "Enable Auto Aim"
+      },
+      {
+        "key": "Use Curve Aim"
+      },
+      {
+        "key": "BOUND OATHS"
+      },
+      {
+        "key": "Skill Tree"
+      },
+      {
+        "key": "Forget All Skill"
+      },
+      {
+        "key": "RoleSkill"
+      },
+      {
+        "key": "Study"
+      },
+      {
+        "key": "Offer Voidmarks"
+      },
+      {
+        "key": "Active Skill"
+      },
+      {
+        "key": "AddVoidMarks"
+      },
+      {
+        "key": "ClearVoidMarks"
+      },
+      {
+        "key": "PASSIVE SKILLS"
+      },
+      {
+        "key": "ACTIVE SKILLS"
+      },
+      {
+        "key": "ForgetSkills"
+      },
+      {
+        "key": "Study_Active"
+      },
+      {
+        "key": "Wishlist"
+      },
+      {
+        "key": "Artifact"
+      },
+      {
+        "key": "KNIGHT CLASS  |  ORDER OF THE SUNKEN LIGHT"
+      },
+      {
+        "key": "SortingByDefault"
+      },
+      {
+        "key": "SortingByRank"
+      },
+      {
+        "key": "SortingByTime"
+      },
+      {
+        "key": "FeedbackDescription"
+      },
+      {
+        "key": "Leaderboard"
+      },
+      {
+        "key": "ParticipationRankingList"
+      },
+      {
+        "key": "RankingList"
+      },
+      {
+        "key": "Change"
+      },
+      {
+        "key": "WorldMapUI"
+      },
+      {
+        "key": "The Nexus Hold"
+      },
+      {
+        "key": "Oblivion Array"
+      },
+      {
+        "key": " Vharzeth, Lord of Cinders"
+      },
+      {
+        "key": "Vault of the Dead Star"
+      },
+      {
+        "key": " Kingdom of Forgotten Sins"
+      },
+      {
+        "key": "Fractured Zenith"
+      },
+      {
+        "key": "The Nexus Hold_Intro"
+      },
+      {
+        "key": "Oblivion Array_Intro"
+      },
+      {
+        "key": "The Nexus Hold NoSpace"
+      },
+      {
+        "key": "Oblivion Array NoSpace"
+      },
+      {
+        "key": "MAIN BOSS"
+      },
+      {
+        "key": "FACTION BOSS"
+      },
+      {
+        "key": "OPTIONAL BOSS"
+      },
+      {
+        "key": "QUEST"
+      },
+      {
+        "key": "RESPAWN POINT"
+      },
+      {
+        "key": "GameLobbyPanel"
+      },
+      {
+        "key": "Awaken a Champion"
+      },
+      {
+        "key": "THIS FATE HAS NOT AWAKENED"
+      },
+      {
+        "key": "Enter THE VOID"
+      },
+      {
+        "key": "GameEndPanel"
+      },
+      {
+        "key": "VOIDMARKS |"
+      },
+      {
+        "key": "Voidmarks From Kills"
+      },
+      {
+        "key": "Voidmarks From Survival"
+      },
+      {
+        "key": "Voidmarks From Chests"
+      },
+      {
+        "key": "Regular Enemies Defeated"
+      },
+      {
+        "key": "Elite Enemies Defeated"
+      },
+      {
+        "key": "Bosses Enemies Defeated"
+      },
+      {
+        "key": "PLAYER LEVEL |"
+      },
+      {
+        "key": "WORLD NAME |"
+      },
+      {
+        "key": "DC COLLECTED |"
+      },
+      {
+        "key": "BEST RECORD |"
+      },
+      {
+        "key": "SURVIVAL TIME | "
+      },
+      {
+        "key": "LEGACY OF THE FALLEN"
+      },
+      {
+        "key": "Next Category"
+      },
+      {
+        "key": "Previous Category"
+      },
+      {
+        "key": "BackPackPanel"
+      },
+      {
+        "key": "Damage"
+      },
+      {
+        "key": "REACH"
+      },
+      {
+        "key": "ATTACK SPEED"
+      },
+      {
+        "key": "FIRE RATE"
+      },
+      {
+        "key": "ACCURACY"
+      },
+      {
+        "key": "CAPCITY"
+      },
+      {
+        "key": "Stats"
+      },
+      {
+        "key": "Upgrade equipped"
+      },
+      {
+        "key": "Skills Acquired:"
+      },
+      {
+        "key": "CURRENCY HELD |"
+      },
+      {
+        "key": "Strength"
+      },
+      {
+        "key": "Dexterity"
+      },
+      {
+        "key": "Cybernetics"
+      },
+      {
+        "key": "Fury"
+      },
+      {
+        "key": "Faith"
+      },
+      {
+        "key": "Vitality"
+      },
+      {
+        "key": "World of Dark Light Survivor"
+      },
+      {
+        "key": "REROLL"
+      },
+      {
+        "key": "DARK VOID DEVOURS"
+      },
+      {
+        "key": "DARK LIGHT SURVIVOR"
+      },
+      {
+        "key": "YOUR WISHLIST FUELS US"
+      },
+      {
+        "key": "Wishlist!"
+      },
+      {
+        "key": "WEAPONS"
+      },
+      {
+        "key": "INVENTORY"
+      },
+      {
+        "key": "Help & Feedback"
+      },
+      {
+        "key": "REROLL_REChoice"
+      },
+      {
+        "key": "             UNAVAILABLE  \n AT THIS TIME"
+      },
+      {
+        "key": "CLASS"
+      },
+      {
+        "key": "ATTRIBUTE POINTS"
+      },
+      {
+        "key": "WorldMapIntro"
+      },
+      {
+        "key": "Enter World"
+      },
+      {
+        "key": "Reset All Buttons"
+      },
+      {
+        "key": "This key is already assigned to [Action]. Do you want to reassign it?"
+      },
+      {
+        "key": "Enable FSR3"
+      },
+      {
+        "key": "Grass Setting"
+      },
+      {
+        "key": "Auto"
+      },
+      {
+        "key": "Name your champion"
+      },
+      {
+        "key": "Name"
+      },
+      {
+        "key": "NameIntro"
+      },
+      {
+        "key": "CONFIRM"
+      },
+      {
+        "key": "SKIP"
+      },
+      {
+        "key": "Media Preview"
+      },
+      {
+        "key": "MediaPreviewIntro"
+      },
+      {
+        "key": "Your Name..."
+      },
+      {
+        "key": "ARMOUR"
+      },
+      {
+        "key": "Pass"
+      },
+      {
+        "key": "ADD"
+      },
+      {
+        "key": "ON STEAM"
+      },
+      {
+        "key": "PICK UP ITEM "
+      },
+      {
+        "key": "Trade Riftmerchant"
+      },
+      {
+        "key": "RiftMerchant"
+      },
+      {
+        "key": "Salvage Kill"
+      },
+      {
+        "key": "Salvage Weapon"
+      },
+      {
+        "key": "Confirm/Remove Hold To Drag"
+      },
+      {
+        "key": "SOUL OF THE VOID TITAN SEIZED"
+      },
+      {
+        "key": " Kingdom of Forgotten SinsNpSpace"
+      },
+      {
+        "key": "Fractured ZenithNoSpace"
+      },
+      {
+        "key": "Ashfen of Fractured Suns"
+      },
+      {
+        "key": "AutoEquipWeapon"
+      },
+      {
+        "key": "Melee Attack Camera Shake"
+      },
+      {
+        "key": "Ranged Attack Camera Shake"
+      },
+      {
+        "key": "Switch Comparison"
+      },
+      {
+        "key": "Texture Setting"
+      },
+      {
+        "key": "Texture Setting_High"
+      },
+      {
+        "key": "Texture Setting_Medium"
+      },
+      {
+        "key": "Texture Setting_Low"
+      },
+      {
+        "key": "TextureQualitySettingLabel"
+      },
+      {
+        "key": "TextureQualitySettingDesc"
+      },
+      {
+        "key": "Previous CategoryLabal"
+      },
+      {
+        "key": "Next CategoryLabal"
+      },
+      {
+        "key": "Add50DC"
+      },
+      {
+        "key": "Salvage"
+      },
+      {
+        "key": "ShadowQualitySettingLabel"
+      },
+      {
+        "key": "ShadowQualitySettingDesc"
+      },
+      {
+        "key": "WaterQualitySettingLabel"
+      },
+      {
+        "key": "ShadowQualitySettingDesc"
+      },
+      {
+        "key": "VisitTheStore"
+      },
+      {
+        "key": "Buy"
+      },
+      {
+        "key": "SHOP"
+      },
+      {
+        "key": "PreviousLabel"
+      },
+      {
+        "key": "NextLabel"
+      },
+      {
+        "key": "Block"
+      },
+      {
+        "key": "Aim"
+      },
+      {
+        "key": "Sprint"
+      },
+      {
+        "key": "Reload/Interact"
+      },
+      {
+        "key": "Items"
+      },
+      {
+        "key": "AutoAtk"
+      },
+      {
+        "key": "TimeOutOfMeleeBattle"
+      },
+      {
+        "key": "TimeOutOfRangeBattle"
+      },
+      {
+        "key": "TimeOutOfMeleeBattleDesc"
+      },
+      {
+        "key": "TimeOutOfRangeBattleDesc"
+      },
+      {
+        "key": "MagicAttack"
+      },
+      {
+        "key": "Magic wand / Shield block"
+      },
+      {
+        "key": "GroundFogSettingDesc"
+      },
+      {
+        "key": "Restart"
+      },
+      {
+        "key": "Begin Anew"
+      },
+      {
+        "key": "Volumetric Fog"
+      },
+      {
+        "key": "Sunless Keep"
+      },
+      {
+        "key": "Battlefield Of The Black Sun"
+      },
+      {
+        "key": "Choose Realm"
+      },
+      {
+        "key": "Unlock"
+      },
+      {
+        "key": "Upgrade Equipped"
+      },
+      {
+        "key": "Unlocked"
+      },
+      {
+        "key": "CrosshairSize"
+      },
+      {
+        "key": "Change Crosshair Color"
+      },
+      {
+        "key": "Custom Color"
+      },
+      {
+        "key": "Color"
+      },
+      {
+        "key": "Crosshair Color"
+      },
+      {
+        "key": "ADS Horizontal Sensitivity"
+      },
+      {
+        "key": "ADS Vertical Sensitivity"
+      },
+      {
+        "key": "Third-Person Aiming"
+      },
+      {
+        "key": "Top-Down Aiming"
+      },
+      {
+        "key": "Aiming Horizontal Sensitivity"
+      },
+      {
+        "key": "Aiming Vertical Sensitivity"
+      },
+      {
+        "key": "QualitySettingLabel"
+      },
+      {
+        "key": "Setting_High"
+      },
+      {
+        "key": "Setting_Medium"
+      },
+      {
+        "key": "Setting_SteakDeck"
+      },
+      {
+        "key": "Setting_custom"
+      },
+      {
+        "key": "Quality Preset"
+      },
+      {
+        "key": "Graphics Quality"
+      },
+      {
+        "key": "Show Input Prompts"
+      },
+      {
+        "key": "SelectDifficultDes"
+      },
+      {
+        "key": "Setting_Optimized"
+      }
+    ]
+  }
+}

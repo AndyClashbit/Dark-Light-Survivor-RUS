@@ -1,0 +1,299 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3156
+  },
+  "m_Name": "LoadingPanelConfig",
+  "BackgroundList": {
+    "Array": []
+  },
+  "HintList": {
+    "Array": [
+      {
+        "HintName": "Step1_Box",
+        "HintBG": {
+          "m_FileID": 0,
+          "m_PathID": 2208
+        },
+        "HintIcon_Base": {
+          "m_FileID": 0,
+          "m_PathID": 1847
+        },
+        "BaseColor": {
+          "r": 1.0,
+          "g": 0.77254903,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "BaseSize": {
+          "x": 76.0,
+          "y": 66.0
+        },
+        "HintIcon_Icon": {
+          "m_FileID": 0,
+          "m_PathID": 2120
+        },
+        "IconColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "IconSize": {
+          "x": 30.0,
+          "y": 30.0
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 14.5
+        },
+        "HintText": "Loot <color=#E76900>war caches</color> for armour and weapons."
+      },
+      {
+        "HintName": "Step2_RiftMerchant",
+        "HintBG": {
+          "m_FileID": 0,
+          "m_PathID": 1696
+        },
+        "HintIcon_Base": {
+          "m_FileID": 0,
+          "m_PathID": 1718
+        },
+        "BaseColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "BaseSize": {
+          "x": 64.0,
+          "y": 64.0
+        },
+        "HintIcon_Icon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "IconColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "HintText": "Find the <color=#E76900>Rift Merchant</color> to buy weapons and healing potions."
+      },
+      {
+        "HintName": "Step3_WeaponUpgrade",
+        "HintBG": {
+          "m_FileID": 0,
+          "m_PathID": 1656
+        },
+        "HintIcon_Base": {
+          "m_FileID": 0,
+          "m_PathID": 1932
+        },
+        "BaseColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "BaseSize": {
+          "x": 66.0,
+          "y": 63.0
+        },
+        "HintIcon_Icon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "IconColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "HintText": "Use <color=#E76900>totems</color> to upgrade or gain new powers."
+      },
+      {
+        "HintName": "宝箱",
+        "HintBG": {
+          "m_FileID": 0,
+          "m_PathID": 2208
+        },
+        "HintIcon_Base": {
+          "m_FileID": 0,
+          "m_PathID": 1847
+        },
+        "BaseColor": {
+          "r": 1.0,
+          "g": 0.77254903,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "BaseSize": {
+          "x": 76.0,
+          "y": 66.0
+        },
+        "HintIcon_Icon": {
+          "m_FileID": 0,
+          "m_PathID": 2120
+        },
+        "IconColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "IconSize": {
+          "x": 30.0,
+          "y": 30.0
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 14.5
+        },
+        "HintText": "<color=#E76900>War Caches</color> are scattered across the map. Hunt them early to outfit yourself with better armour."
+      },
+      {
+        "HintName": "商人",
+        "HintBG": {
+          "m_FileID": 0,
+          "m_PathID": 1696
+        },
+        "HintIcon_Base": {
+          "m_FileID": 0,
+          "m_PathID": 1718
+        },
+        "BaseColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "BaseSize": {
+          "x": 64.0,
+          "y": 64.0
+        },
+        "HintIcon_Icon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "IconColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "HintText": "Find the <color=#E76900>Rift Merchant</color>, the phantom trader, to purchase rare arms and strong upgrades."
+      },
+      {
+        "HintName": "武器升级伤害",
+        "HintBG": {
+          "m_FileID": 0,
+          "m_PathID": 1677
+        },
+        "HintIcon_Base": {
+          "m_FileID": 0,
+          "m_PathID": 1715
+        },
+        "BaseColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "BaseSize": {
+          "x": 66.0,
+          "y": 63.0
+        },
+        "HintIcon_Icon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "IconColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "HintText": "Find the <color=#E76900>Totem of Ascension</color>. Spend <color=#E76900>Dark Credits</color> to increase your weapon damage."
+      },
+      {
+        "HintName": "红烟图腾",
+        "HintBG": {
+          "m_FileID": 0,
+          "m_PathID": 2206
+        },
+        "HintIcon_Base": {
+          "m_FileID": 0,
+          "m_PathID": 2232
+        },
+        "BaseColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "BaseSize": {
+          "x": 66.0,
+          "y": 63.0
+        },
+        "HintIcon_Icon": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "IconColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "HintText": "As the <color=#E76900>Dimensage</color>, upgrade your magic staff at the <color=#E76900>Totem of the Crimson Vow</color> to unlock unique staff spells."
+      }
+    ]
+  }
+}

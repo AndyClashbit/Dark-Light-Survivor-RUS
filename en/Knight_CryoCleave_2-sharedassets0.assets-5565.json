@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3088
+  },
+  "m_Name": "Knight_CryoCleave_2",
+  "SkillId": 1112,
+  "SkillName": "Cryo Cleave",
+  "SkillIconType": 0,
+  "BaseSkillType": 2,
+  "Faction": -1,
+  "SkillType": 1,
+  "SkillRarity": 0,
+  "MagicElementTypeList": {
+    "Array": []
+  },
+  "Rank": 2,
+  "RequiredSkill": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skillDescribe": "Unleash a swift slash that deals {7} Ice damage, with a {3}% chance to Freeze nearby targets. Area {2}.",
+  "IconSettingsList": {
+    "Array": [
+      {
+        "SkillIcon": {
+          "m_FileID": 0,
+          "m_PathID": 1947
+        },
+        "IconLocalPos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalRot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconLocalScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "IconSize": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    ]
+  },
+  "SkillDataItemsList": {
+    "Array": [
+      {
+        "SkillId": 1112,
+        "GuidInSkill": 0,
+        "Rank": 2,
+        "SkillDescribe": "Unleash a swift slash that deals {7} Ice damage, with a {3}% chance to Freeze nearby targets. Area {2}.",
+        "SkillDamage": 110,
+        "TrigerProbability": 100.0,
+        "TrigerCd": 15.0,
+        "CurTrigerCd": -0.0037637074,
+        "BuffId": 0,
+        "BuffName": "",
+        "WeaponType": 3,
+        "BuffTarget": 0,
+        "EffectName": "ChillingAura",
+        "EffectPoint": 0,
+        "TrigerEvent": 0,
+        "BulletName": "",
+        "Skill_priority": 0,
+        "Value1": 0.0,
+        "describe1": "",
+        "Value2": 2.0,
+        "describe2": "Duration",
+        "Value3": 3.5,
+        "describe3": "Radius",
+        "Value4": 30.0,
+        "describe4": "Freeze rate",
+        "Value5": 0.0,
+        "describe5": "",
+        "Value6": 0.0,
+        "describe6": "",
+        "Value7": 0.0,
+        "describe7": "",
+        "Value8": 0.0,
+        "describe8": ""
+      }
+    ]
+  }
+}
